@@ -1,0 +1,490 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Nancy Hirsche Interview - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CzL56nn+L08lLhP82/ve1eXap4PySEPtugWk6gGp9jgxnM9g/sB0xQVPqm9W7V9+I/Esot1cPLlRnmRv1Ua8Xg==" />
+
+    <title itemprop="name">Nancy Hirsche Interview - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-nancy-hirsche-interview controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/nancy-hirsche-interview/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5085?page_id=210339">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (7/7)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="expanding-scholarship-funds-an-interview-with-nancy-hirsche"></a>
+  
+
+
+
+      <div id="mmi-37003" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/37003" data-event-label="Title Module Expanding scholarship funds: An interview with Nancy Hirsche (1/7)" data-instance-id="37003" data-id="34246">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Expanding scholarship funds: An interview with Nancy Hirsche
+">
+        <span role="presentation" aria-hidden="true">Expanding</span>
+        <span role="presentation" aria-hidden="true">scholarship</span>
+        <span role="presentation" aria-hidden="true">funds:</span>
+        <span role="presentation" aria-hidden="true">An</span>
+        <span role="presentation" aria-hidden="true">interview</span>
+        <span role="presentation" aria-hidden="true">with</span>
+        <span role="presentation" aria-hidden="true">Nancy</span>
+        <span role="presentation" aria-hidden="true">Hirsche</span>
+</h1>
+
+
+</div>
+
+
+  <a name="march-27-2024"></a>
+  
+
+
+
+      <div id="mmi-37004" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/37004" data-event-label="Title Module March 27, 2024 (2/7)" data-instance-id="37004" data-id="34247">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="March 27, 2024
+">
+        <span role="presentation" aria-hidden="true">March</span>
+        <span role="presentation" aria-hidden="true">27,</span>
+        <span role="presentation" aria-hidden="true">2024</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-37008"></a>
+  
+
+
+
+      <div id="mmi-37008" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/37008" data-event-label="Single Image Module 37008 (3/7)" data-instance-id="37008" data-id="56127">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Two women in front of a framed blue watercolor." src="https://cdn.filestackcontent.com/resize=width:700/fwReZ2vnTuijABMHTwzP" /><img class="pauseable-image__source pauseable-image__source--static" alt="Two women in front of a framed blue watercolor." src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/fwReZ2vnTuijABMHTwzP" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Dean Kymberly Pinder with Nancy Hirsche in front of an untitled watercolor by her late husband, H. Lee Hirsche (1994).</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-37005"></a>
+  
+
+
+
+      <div id="mmi-37005" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/37005" data-event-label="Scrolling Text Module 37005 (4/7)" data-instance-id="37005" data-id="104367">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>In a conversation with the School of Art, Nancy Hirsche MA ‘53 offers a glimpse into her enriching experiences at Yale alongside her late husband, Lee Hirsche BFA '54, and her enduring devotion to art. As she reminisces about their history, Nancy shares fond memories, insights into Lee’s artistic legacy, and a passionate advocacy for nurturing emerging talents.</p>
+
+<p><strong>SoA:</strong> How did you and Lee end up at Yale?</p>
+
+<p><strong>Hirsche:</strong> Lee came to Yale before I did and I followed him there. He had been majoring in History at Kenyon College but realized that his true passion was art and transferred to Yale in his junior year. Both of us were making back and forth trips between Oberlin and Kenyon. We fell in love and when Lee switched to Yale, I followed him a year later after graduating from Oberlin to get my Master’s in French.
+ 
+<strong>SoA:</strong> What is your favorite memory of your time at Yale?</p>
+
+<p><strong>Hirsche:</strong> My favorite memory of being at Yale, was when I decided to take an art course so that I could better understand what it meant to be an artist. Joseph Albers was head of the Design Department at that time and I took a course in woodcuts from him. He would talk to me about Lee and it was clear that he found Lee very special. It thrilled me that he took such an interest in Lee.</p>
+
+<p><strong>SoA:</strong> Please share a bit about Lee’s career as an artist.
+ 
+<strong>Hirsche:</strong> What I loved about my husband was that he never took himself too seriously. He was very modest about his talent. Art came to him so naturally… He was not looking for fame which freed him up to experiment so he never had a “signature” style but his diversity was amazing.</p>
+
+<p>After graduating from Yale, we went to Austin, Texas with two other artists from Yale who had been recruited by Harwell Harris, head of the Architecture School at the University of Texas to teach drawing to the architecture students there. Williams College was looking for someone to head up their studio department, and when they saw what Lee was doing at UT Austin, they snapped him up! We moved to Williamstown, Massachusetts and Lee taught at Williams for thirty two years. When he retired in 1989, we moved to Baltimore where he continued to work until he passed away in 1998. Lee has four thousand art works in various locales around the country.</p>
+
+<p><strong>SoA:</strong> Why do you find supporting School of Art students meaningful?</p>
+
+<p><strong>Hirsche:</strong> I find supporting the School of of Art meaningful because I know Lee would have wanted to help young artists get the best training possible so that they can realize the full potential of their talent. They will have that at the Yale School of Art. Secondly, I think the arts are so important for our society. The arts bring us together and inspire us—two qualities that are badly needed in the chaotic times we live in.
+ </p>
+
+<p><strong>SoA:</strong> If you had a magic wand, what would you do to make the world a better place for artists?</p>
+
+<p><strong>Hirsche:</strong> I would wave it over the world and say “Calm down, stop the killing and live peacefully so that all good things can prosper!” Peace would give artists the chance to create a beautiful world through art, music, dance, and theatre.</p>
+
+<p><strong>SoA:</strong> Can you share what you do in your community to provide artistic opportunities?</p>
+
+<p><strong>Hirsche:</strong> I have been a performer all my life and still am here at Asbury Methodist Village. When I first moved here nine years ago I started a reader’s theatre which I still direct and act in. I started another class last year where we read plays simply for the joy of reading them, and in the past I hosted a French conversation group. We are sponsored by the Keese School which offers classes, lectures, and concerts for the residents here at Asbury. Last fall, I received a Lifetime Achievement Award from AmeriCorps in a ceremony sponsored by Asbury.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-37006"></a>
+  
+
+
+
+      <div id="mmi-37006" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/37006" data-event-label="Divider Module 37006 (5/7)" data-instance-id="37006" data-id="56987">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-37007"></a>
+  
+
+
+
+      <div id="mmi-37007" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/37007" data-event-label="Scrolling Text Module 37007 (6/7)" data-instance-id="37007" data-id="104368">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/nancy-hirsche-interview/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5085?page_id=210339">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/nancy-hirsche-interview/pages/210339');
+</script>
+
+    </body>
+
+</html>

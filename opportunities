@@ -1,0 +1,2606 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Opportunities - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VwoC18OMUAQfYevVEkzEG4mNLnLJ+yGCM5OyWBdQ4IZtpDRdRLILjj8AUkafWkWwT6alU+bvXtbYCHLdw7+q4A==" />
+
+    <title itemprop="name">Opportunities - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--opportunities controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/opportunities/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4669?page_id=216045">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (77/77)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="opportunities"></a>
+  
+
+
+
+      <div id="mmi-30580" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/30580" data-event-label="Title Module Opportunities (1/77)" data-instance-id="30580" data-id="31164">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Opportunities
+">
+        <span role="presentation" aria-hidden="true">Opportunities</span>
+</h1>
+
+
+</div>
+
+
+  <a name="about-this-page"></a>
+  
+
+
+
+      <div id="mmi-35268" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/35268" data-event-label="Accordion Module About this page (2/77)" data-instance-id="35268" data-id="2273">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">About this page</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p>Opportunities are placed in the four categories below, with internal SoA opportunities for current MFA and undergraduate students made available via the “Student Opportunities Sheet,” linked out to below. <strong>Opportunities are listed in the order they are received by the Communications Office.</strong></p>
+
+<p>Alums and folks outside the Yale School of Art are invited to utilize this webpage. Official job opening at SoA are posted on our <a href="/news">“News” page</a>.</p>
+
+<p>This page starts fresh with the start of each academic year, with past years’ pages archived at the bottom of the page.</p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-30581"></a>
+  
+
+
+
+      <div id="mmi-30581" class="jump-links-module colspan-4 rag measurable magic-module" data-event-category="magic_module/jump_links_module/30581" data-event-label="Jump Links Module 30581 (3/77)" data-instance-id="30581" data-id="448">                  <p class="jump-links-module__title">
+  <span>On this page</span>
+</p>
+
+<ul class="jump-links-module__links list--blank">
+    <li><a data-turbolinks="false" href="#at-yale">At Yale</a></li>
+    <li><a data-turbolinks="false" href="#in-new-haven">In New Haven</a></li>
+    <li><a data-turbolinks="false" href="#outside-the-school-of-art">Outside the School</a></li>
+    <li><a data-turbolinks="false" href="#for-soa-alums">For SoA Alums</a></li>
+</ul>
+
+</div>
+
+
+  <a name="mmi-31958"></a>
+  
+
+
+
+      <div id="mmi-31958" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31958" data-event-label="Divider Module 31958 (4/77)" data-instance-id="31958" data-id="56100">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="at-the-yale-school-of-art"></a>
+  
+
+
+
+      <div id="mmi-30582" class="title-module colspan-2 rag title-module--prominence-2 colspan-2 rag measurable magic-module" data-event-category="magic_module/title_module/30582" data-event-label="Title Module At the Yale School of Art (5/77)" data-instance-id="30582" data-id="33370">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="At the Yale School of Art
+">
+        <span role="presentation" aria-hidden="true">At</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+</h2>
+
+
+</div>
+
+
+  <a name="join-the-all-school-design-call-list"></a>
+  
+
+
+
+      <div id="mmi-36756" class="accordion-module colspan-2 rag measurable magic-module" data-event-category="magic_module/accordion_module/36756" data-event-label="Accordion Module Join the All-School Design Call List (6/77)" data-instance-id="36756" data-id="2868">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Join the All-School Design Call List</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p>The School of Art’s Communications Office is assembling our annual list of students interested in being placed on a call list to receive opportunities for small one-time design jobs and to produce email publication graphics. These one-time jobs are open to MFA students in all areas of study, and graphics can take any form as long as the requirements laid out in each job description are met.</p>
+
+<p>When a new job becomes available, an email will go out to this call list with the job description, due date, and pay rate. Pay ranges from $75–$300 per job and images/materials must be submitted at the provided Dropbox link before payment is released. In the interest of fairness, the first student to respond to each job with their availability to produce the materials by the listed deadline will be hired—except in special cases for exceptionally big jobs, in which case we might ask for links to past work or an intended design concept before commissioning.</p>
+
+<p>(A little more about how this list works: When you receive a commission, you’re removed from the call list for the remainder of the semester, and possibly the academic year depending on how many students sign up for this list / express interest in creating something for the School. Our goal is to make sure everyone who signs up is eventually commissioned!)</p>
+
+<p>Reply to the email that will go out on August 26, or <a href="mailto:lindsey.mancini@yale.edu" target="_blank">email Assistant Director of Communications Lindsey Mancini</a> to join the All-School Graphics Call List at any point throughout the academic year if you’d like to be placed on this call list in the future.</p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="note-to-school-of-art-staff-faculty"></a>
+  
+
+
+
+      <div id="mmi-32023" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/32023" data-event-label="Accordion Module NOTE TO SCHOOL OF ART STAFF &amp; FACULTY: (7/77)" data-instance-id="32023" data-id="1675">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">NOTE TO SCHOOL OF ART STAFF &amp; FACULTY:</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p>Please edit this page here to add open work-study jobs and other SoA-related opportunities. </p>
+
+<p>Opportunities and open calls outside of the School of Art that you’d like to encourage students to apply to can be added to the “Outside the School” section below.</p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-30617"></a>
+  
+
+
+
+      <div id="mmi-30617" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/30617" data-event-label="Divider Module 30617 (8/77)" data-instance-id="30617" data-id="55800">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="at-yale"></a>
+  
+
+
+
+      <div id="mmi-31186" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/31186" data-event-label="Title Module At Yale (9/77)" data-instance-id="31186" data-id="31454">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="At Yale
+">
+        <span role="presentation" aria-hidden="true">At</span>
+        <span role="presentation" aria-hidden="true">Yale</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-44210"></a>
+  
+
+
+
+      <div id="mmi-44210" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44210" data-event-label="Scrolling Text Module 44210 (10/77)" data-instance-id="44210" data-id="107928">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Yale Pathways to Arts &amp; Humanities Summer Scholars<br>
+Call for Enrichment Proposals 2025</strong></span><br>
+<br>
+The Yale Pathways to Arts &amp; Humanities Summer Scholars program is a free, 2-week, on-campus summer program offered to local public high school students. Yale faculty, graduate students, and staff are invited to design and teach a one-off, 60-min enrichment in our summer program. We are seeking proposals that will spark students’ imaginations and extend their learning beyond the walls of their high school classrooms.<br>
+<br>
+The number of students will depend on the format of the session and instructor preference. Instructors can teach the same enrichment multiple times with different groups of students. Enrichments happen alongside 5-day workshops – both weeks, Monday through Thursday.<br>
+<br>
+Program Dates<br>
+   Week 1: July 21 - 25 <br>
+   Week 2: July 28 - Aug 1<br>
+Enrichment Timeslots<br>
+   11:20 AM - 12:20 PM<br>
+   Monday - Thursday<br>
+<br>
+A bit about the students: Yale Pathways to Arts &amp; Humanities Summer Scholars are a diverse group of students from New Haven, West Haven, and Orange public schools in grades 10 through 12. Approximately half would be the first in their family to go to college.<br>
+<br>
+<a href="https://docs.google.com/document/d/1LxQq_sykpugk66RTpsw5aLUExDN9EO9Qto9DUvl-JAo/edit?tab=t.0#heading=h.pegpxs7wt0ru" target="_blank">Full information &amp; how to submit &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43584"></a>
+  
+
+
+
+      <div id="mmi-43584" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43584" data-event-label="Scrolling Text Module 43584 (11/77)" data-instance-id="43584" data-id="107169">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Students needed for video—and free headshots!</strong></span><br>
+<br>
+On Thursday, April 10, the Office of Development will be filming at locations around campus. You can sign up for a 10-minute slot to appear in front of the camera for a video portrait. We’ll send you your headshot afterwards, and you may be selected to appear among a montage of “humans of Yale” in our thank-you video to donors. <a href="https://calendly.com/2025-yale-video" target="_blank">Sign up here!</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43387"></a>
+  
+
+
+
+      <div id="mmi-43387" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43387" data-event-label="Scrolling Text Module 43387 (12/77)" data-instance-id="43387" data-id="107005">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Yale Peabody Museum (YPM) invites student proposals for the Fall 2025 Student Exhibition</strong></span><br>
+<br>
+The Peabody Student Exhibition is a temporary exhibition that is curated, designed, and installed by Yale students. The upcoming iteration of the Student Exhibition will be on display in the designated Student Exhibition Gallery of the Peabody Museum from October 2025- March 2026. The Student Exhibition Gallery is a (~20’x30’) space adjacent to the Central Gallery of the Peabody. The room has a system for hanging 2D items on the walls, and a set of display cases of various sizes. We encourage students to think creatively about the use of this space, and, though not required, we welcome ideas about layout or design in their proposal. <br>
+<br>
+We invite exhibition proposals from individuals or pairs of students who are interested in developing, curating, and creating a museum exhibition. Proposals are welcome from both undergraduate and graduate students. Concepts need not be limited to topics in science—they can come from a variety of disciplines, though successful proposals will thoughtfully relate to the Peabody Museum and make use of Peabody collection objects and specimens.  <br>
+<br>
+The Peabody Museum houses over 14 million objects across 10 curatorial divisions. This iteration of the Student Exhibition will have the opportunity to work with the collections listed below. Though final selection of objects for display will depend on input from Peabody curators, collections managers, and conservators, we ask that applicants refer to the Peabody Collections online database to select a few sample objects that would support your concept.  <br>
+<br>
+Student curators will be compensated for their work and will be supported and advised throughout the exhibition process by YPM staff.  <br>
+<br>
+Collections:  
+<ul>
+    <li>Entomology  </li>
+    <li>History of Science and Technology  </li>
+    <li>Invertebrate Zoology  </li>
+    <li>Vertebrate Paleontology  </li>
+    <li>Invertebrate Paleontology  </li>
+    <li>Paleobotany  </li>
+    <li>Mineralogy and Meteoritics  </li>
+    <li>Babylonian Collection  </li>
+    <li>Botany  </li>
+    <li>Ornithology and Mammalogy </li>
+</ul>
+Requirements: Submissions are limited to Yale students <br>
+Student curators must be available to work on planning the exhibition over Summer 2025 and Fall 2025 <br>
+Able to work part time over the summer and fall semesters <br>
+<br>
+To be considered, please submit proposals to <a href="mailto:peabody.student.programs@yale.edu" target="_blank"></a><a href="mailto:peabody.student.programs@yale.edu">peabody.student.programs@yale.edu</a> by <strong>April 25</strong>. Proposals should be submitted using the attached proposal form (<a href="https://cdn.filestackcontent.com/YSjJx5QhQQWMV1VZh0Po" target="_blank">download here</a>) and be no longer than 3 pages. If you have any questions, please contact <a href="mailto:natalie.mastick@yale.edu" target="_blank"></a><a href="mailto:natalie.mastick@yale.edu">natalie.mastick@yale.edu</a>.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43289"></a>
+  
+
+
+
+      <div id="mmi-43289" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43289" data-event-label="Scrolling Text Module 43289 (13/77)" data-instance-id="43289" data-id="106808">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>2025 LEAP Student Grant Program Call for Applications</strong></span><br>
+<br>
+The <a href="https://law.yale.edu/animals" target="_blank">Law, Environment &amp; Animals Program</a> (LEAP) at Yale Law School invites applications for its <a href="https://law.yale.edu/animals/initiatives/leap-student-grant-program" target="_blank">student grant program</a>.  Current Yale students at any level (professional, doctoral, master’s degree, undergraduate) are invited to apply. Applicants may work individually or in teams. The grant program supports student-led research and creative projects that advance understanding of, draw attention to, and/or develop strategies to address the urgent threats facing non-human animals. All current Yale students can submit proposals for term time and summer projects. Funding awards can range from $250 to $2,000. The deadline for submitting a proposal is Friday, March 28, 2025 at 12 pm ET. Decisions will be made by mid-April 2025. Projects should be completed by December 1, 2025, though this deadline is flexible for longer-term projects<br>
+<br>
+The funding can cover project-related expenses, such as purchasing access to datasets, paying for web hosting or materials, costs associated with interviews or research, etc. Funding may not be used to pay salaries for applicants or conference attendance (unless the conference attendance is part of a research project). Awardees will be required to submit a summary of their projects by December 1, 2025, and may also be asked to present their project at a LEAP event during the 2025-26 academic year. The project summaries and/or interviews with grant recipients may also be featured on LEAP’s website.<br>
+More information can be found on LEAP’s website. Please reach out to LEAP Postgraduate Fellow Laurie Sellars (<a href="mailto:laurie.sellars@yale.edu">laurie.sellars@yale.edu</a>) if you have any questions about the program or potential projects.<br>
+<br>
+<strong>Deadline: Friday, March 28, 2025, 12PM ET. </strong><a href="https://sfritche.wufoo.com/forms/z1k9jeni0m61a44/" target="_blank">F</a><a href="https://law.yale.edu/animals/initiatives/leap-student-grant-program" target="_blank">ull information &amp; link to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43287"></a>
+  
+
+
+
+      <div id="mmi-43287" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43287" data-event-label="Scrolling Text Module 43287 (14/77)" data-instance-id="43287" data-id="106807">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Yale Planetary Solutions Invites Proposals for the 4th Annual Grant Program</strong></span><br>
+<br>
+YPS is excited to announce a revised grant program for 2025, seeking to catalyze work on planetary challenges from across the university. More than $2M is available to support faculty and staff projects that create new knowledge, spark action, and drive impact.<br>
+<br>
+YPS is seeking proposals that align with our mission, and particularly with one or more of our primary lenses: climate change; biodiversity and ecosystems; and communities and society. This year, YPS will award three grant types, with support ranging from $25,000 to $250,000, in response to growing and diversifying demand.<br>
+<br>
+<strong>Deadline: March 30, 2025.</strong> <a href="https://planetarysolutions.yale.edu/yale-planetary-solutions-invites-proposals-4th-annual-grant-program" target="_blank">Full information &amp; apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43286"></a>
+  
+
+
+
+      <div id="mmi-43286" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43286" data-event-label="Scrolling Text Module 43286 (15/77)" data-instance-id="43286" data-id="106839">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Participate in Yale @ Climate Week NYC 2025!</strong></span><br>
+<br>
+Yale Planetary Solutions invites expressions of interest from faculty, staff and students who have an event idea they would like considered for Yale @ Climate Week NYC. Our broad frame for this year’s events is transforming visions of hopeful futures into reality through impactful, practical planetary solutions.  We anticipate events will take place Tuesday, September 23 through Thursday, September 25.  Events selected will receive space and logistical support, event organizers will be responsible for coordinating their speaker details as appropriate. Please submit your idea by April 14.  Decisions will be communicated no later than April 25.  Please direct any questions to <a href="mailto:planetarysolutions@yale.edu" target="_blank"></a><a href="mailto:planetarysolutions@yale.edu">planetarysolutions@yale.edu</a>. <br>
+<br>
+<strong>Submit by April 14th to be considered. <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_7U48KS3DBMsuL4O" target="_blank">Full information &amp; link to apply &gt;</a></strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42726"></a>
+  
+
+
+
+      <div id="mmi-42726" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/42726" data-event-label="Single Image Module 42726 (16/77)" data-instance-id="42726" data-id="59200">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <a href="https://yalehealth.yale.edu/arts-yale-health-spring-2025-submission-form"><div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Click for full information" src="https://cdn.filestackcontent.com/resize=width:700/nWOfB4ZUTKe3b7KfsBHF" /><img class="pauseable-image__source pauseable-image__source--static" alt="Click for full information" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/nWOfB4ZUTKe3b7KfsBHF" /></div><span class="visually-hidden">(opens in a new window)</span></a>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-42727"></a>
+  
+
+
+
+      <div id="mmi-42727" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42727" data-event-label="Scrolling Text Module 42727 (17/77)" data-instance-id="42727" data-id="106015">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Open call: The Arts at Yale Health</strong></span><br>
+<br>
+The Arts at Yale Health endeavors to create an environment that is visually and intellectually stimulating and promotes the health and wellness goals Yale has for the community we serve. It recognizes the value of art in creating vibrant, inclusive spaces, and through this initiative, seeks to perpetually enhance the experience its members have when seeking care. With this program, Yale Health also strives to create new and sustaining ties to artists with any of a variety of Yale affiliations, whether as students, faculty, staff, or others, to promote the talent and generosity within this rich community. Read more about the history of this program and the details of our most recent installation <a href="https://your.yale.edu/youryale/staff-showcase-art-yale-health" target="_blank">here</a>.<br>
+<br>
+<strong>Deadline: 11:59 pm on Sunday March 9, 2025.</strong> <a href="https://yalehealth.yale.edu/arts-yale-health" target="_blank">Full information &amp; apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42494"></a>
+  
+
+
+
+      <div id="mmi-42494" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42494" data-event-label="Scrolling Text Module 42494 (18/77)" data-instance-id="42494" data-id="105882">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><span style="font-size:18px"><strong>Gallery Exhibition Opportunity for Yale Artists</strong></span><br>
+<br>
+The David Swensen Gallery at Yale Investments is offering a unique opportunity for a Yale artist to exhibit work in a dynamic new space. Interested grad and undergrad artists are encouraged to submit a proposed curatorial statement and portfolio that reflects whatever inspires them. We are open to art in a wide variety of media and the exhibition may also feature work from multiple artists, but we kindly request that all pieces are appropriate for a public office space. The works, subject to approval by the gallery team, will be displayed at 265 Church St, beginning on or around April 7, 2025. The exhibition will conclude at the end of the 2025 fall semester.<br>
+<br>
+In addition to a $3,000 stiped, the artist will have a budget for materials and gallery installation - at the artist’s discretion, subject to approval. The artist will meet with the gallery team every two weeks, and be responsible for the curation, planning, budgeting, and logistics of the work(s) shown, as well as writing any necessary texts (e.g. labels, brief curatorial statement). Assistance with the physical installation of the artworks will be provided, including production of gallery signage.<br>
+ <br>
+<strong>Eligibility: </strong>Yale undergraduate and graduate artists<br>
+<strong>Stipend: </strong>$3,000 stipend plus additional budget for materials and display<br>
+<strong>Proposals Due: </strong>Sunday March 2, 2025, at 11:59pm EST<br>
+<strong>Location:</strong> 265 Church St. 18th FL.<br>
+ <br>
+<strong>Features of the space include: </strong></p>
+
+<ul>
+    <li>372 sq. ft. gallery in on the 18th floor</li>
+    <li>Two walls of gallery space, in addition to an open floor plan with room for pedestals, free-standing pieces, or alternative mediums.</li>
+</ul>
+
+<p><strong>Application Requirements </strong></p>
+
+<ul>
+    <li>Portfolio and CV with name, contact information, address, and Yale affiliation. Submission materials should include your educational background, relevant experience, and any previous exhibitions or projects. </li>
+    <li>Application Question:  Briefly describe your project idea and proposed curatorial statement. Provide specific ideas, themes, or representative work you would consider (up to 250 words).</li>
+</ul>
+
+<p><strong>Proposals are due Sunday, March 2, 2025 by 11:59 PM. <a href="https://investments.yale.edu/jobs/?gh_jid=6481152003" target="_blank">Full information &amp; link to apply &gt;</a></strong></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42164"></a>
+  
+
+
+
+      <div id="mmi-42164" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42164" data-event-label="Scrolling Text Module 42164 (19/77)" data-instance-id="42164" data-id="105586">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong><u>Women’s, Gender, and Sexuality Studies Grants</u><br>
+<br>
+The Isa and Avi Mehta Graduate Student Research Grant</strong></span><br>
+Created through the generosity of Kavita Patel, Class of 1998, this fund provides research support for graduate students in the WGSS Certificate or PhD Programs.  WGSS graduate students may apply for up to $700 in support for research related to their work in the Certificate or PhD, including dissertation research.  Supported expenses may include travel* to archives; transcription of interviews; acquisition of inaccessible books or other materials (which may ultimately be offered to the Yale Library); assistance in research.  <br>
+ <br>
+<strong>The Spring 2025 deadline is Wednesday, February 26, 2025 by 11:59 PM. <a href="https://wgss.yale.edu/graduate-studies/isa-and-avi-mehta-graduate-student-research-fund-wgss-grant-application" target="_blank">Full information &amp; link to apply &gt;</a></strong><br>
+<br>
+<br>
+<span style="font-size:18px"><strong>Women’s, Gender, and Sexuality Studies (WGSS) Graduate Student Research Funding Application</strong></span><br>
+The WGSS Program is happy to announce a new funding resource for graduate students in the WGSS Certificate or Combined PhD program.  Up to seven WGSS graduate students per academic year will receive up to $700 each towards travel to an academic conference related to their work in the Certificate or Combined PhD program.  WGSS understands that those who do interdisciplinary scholarship often need to attend multiple conferences a year, and we are grateful to be able to support the professional development of our Certificate and PhD students.  Applications will be accepted twice per academic year, in February and October, with priority given to those who are presenting papers and who lack other sources of funding. <br>
+ <br>
+<strong>The Spring 2025 deadline is Wednesday, February 26, 2025 by 11:59 PM. <a href="https://wgss.yale.edu/funding/womens-gender-and-sexuality-studies-wgss-graduate-student-research-funding-application" target="_blank">Full information &amp; link to apply &gt;</a></strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41441"></a>
+  
+
+
+
+      <div id="mmi-41441" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41441" data-event-label="Scrolling Text Module 41441 (20/77)" data-instance-id="41441" data-id="104893">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Visualize Science Competition 2025: Astrophysics Edition</strong></span><br>
+<br>
+An annual competition for teams of artists and scientists with a Yale affiliation to collaborate and create a conceptual model of a scientific concept in astrophysics (revealed at the start of the competition) and realize it in 2 or 3D format using provided materials.  No experience in astronomy or astrophysics is necessary for participants!<br>
+<br>
+Thursday, February 6, 2025<br>
+6:00-8:30 p.m.<br>
+KT 5th Floor Lounge<br>
+<br>
+<a href="http://forms.gle/uJD9S8D8KVj8jKZM8" target="_blank">Register &gt;</a><br>
+<a href="http://wlab.yale.edu/visualize" target="_blank">More info at &gt;</a><br>
+<br>
+The Visualize Science contest is sponsored by Yale Wright Laboratory, the Yale Department of Astronomy, Yale Department of Physics, CCAM,YQI, and Yale University.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41440"></a>
+  
+
+
+
+      <div id="mmi-41440" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41440" data-event-label="Scrolling Text Module 41440 (21/77)" data-instance-id="41440" data-id="104892">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>2025 LEAP Student Grant Program Call for Applications</strong></span><br>
+<br>
+<a href="https://law.yale.edu/animals" target="_blank">The Law, Environment &amp; Animals Program</a> (LEAP) at Yale Law School invites applications for its <a href="http://student%20grant%20program" target="_blank">student grant program</a>.  Current Yale students at any level (professional, doctoral, master’s degree, undergraduate) are invited to apply. Applicants may work individually or in teams. The grant program supports student-led research and creative projects that advance understanding of, draw attention to, and/or develop strategies to address the urgent threats facing non-human animals. All current Yale students can submit proposals for term time and summer projects. For details on how to apply,<a href="https://law.yale.edu/animals/initiatives/leap-student-grant-program" target="_blank"> see the LEAP website</a>. <br>
+<br>
+Funding awards can range from $250 to $2,000. <strong>The deadline for submitting a proposal is Friday, March 28, 2025 at 12 pm ET. </strong>Decisions will be made by mid-April 2025. Projects should be completed by December 1, 2025, though this deadline is flexible for longer-term projects.<br>
+<br>
+The funding can cover project-related expenses, such as purchasing access to datasets, paying for web hosting or materials, costs associated with interviews or research, etc. Funding may not be used to pay salaries for applicants or conference attendance (unless the conference attendance is part of a research project). Awardees will be required to submit a summary of their projects by December 1, 2025, and may also be asked to present their project at a LEAP event during the 2025-26 academic year. The project summaries and/or interviews with grant recipients may also be featured on LEAP’s website. More information <a href="https://law.yale.edu/animals/initiatives/leap-student-grant-program" target="_blank">can be found on LEAP’s website</a>. Please reach out to LEAP Postgraduate Fellow Laurie Sellars (<a href="mailto:laurie.sellars@yale.edu">laurie.sellars@yale.edu</a>) if you have any questions about the program or potential projects.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39921"></a>
+  
+
+
+
+      <div id="mmi-39921" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/39921" data-event-label="Single Image Module 39921 (22/77)" data-instance-id="39921" data-id="57253">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/lvwsSmNXSxGqgFEjNr01" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/lvwsSmNXSxGqgFEjNr01" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-39922"></a>
+  
+
+
+
+      <div id="mmi-39922" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39922" data-event-label="Scrolling Text Module 39922 (23/77)" data-instance-id="39922" data-id="103078">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>OurHouse seeking BIPOC creatives</strong></span><br>
+<br>
+<a href="https://www.instagram.com/ourhouseyale" target="_blank">OurHouse</a> is looking for BIPOC creatives (artists doing visual/sculptural installations, a live painting, projection, etc.) interested in collaborating with musicians/vocalists for a live and curated multimedia talent show. Imagine: a live painting, a harpist, a projection, a spoken word poem, a monologue, a breakdancer — performing with live music. If interested, submit ideas for any type of artistic performance or visual contribution to <a href="mailto:vivie.eteme@yale.edu" target="_blank"></a><a href="mailto:vivie.eteme@yale.edu">vivie.eteme@yale.edu</a> &amp; <a href="mailto:laura.zeng@yale.edu" target="_blank"></a><a href="mailto:laura.zeng@yale.edu">laura.zeng@yale.edu</a>, along with any examples of previous work <strong>by November 18.</strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39920"></a>
+  
+
+
+
+      <div id="mmi-39920" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39920" data-event-label="Scrolling Text Module 39920 (24/77)" data-instance-id="39920" data-id="103077">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>CCAM x Currents New Media Fellowship</strong></span><br>
+<br>
+Yale Center for Collaborative Arts and Media (CCAM) is partnering with <a href="https://currentsnewmedia.org/" target="_blank">Currents New Media</a> to bring a Yale student fellow to present their work at the CURRENTS 2025 Art &amp; Technology Festival in Santa Fe, New Mexico.<br>
+<br>
+As an ambassador for CCAM, the inaugural CCAM x Currents New Media Fellow will have a unique opportunity to showcase their project to a global audience of media artists and innovators at one of the world’s preeminent new media festivals. The fellowship will fund travel (within the U.S. to Santa Fe, NM) and housing costs during the festival.<br>
+<br>
+The application is open to all current Yale students, including those graduating in Spring 2025.<br>
+<br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdaT6_Po_GmEeFdllMB6l7HPCv6gHkX5IkPOlDzDCUjSa6m5Q/formrestricted" target="_blank">Apply here</a> by Sunday, December 15 at 11:59pm ET.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39227"></a>
+  
+
+
+
+      <div id="mmi-39227" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39227" data-event-label="Scrolling Text Module 39227 (25/77)" data-instance-id="39227" data-id="102318">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Apply to be a 2024-25 Law, Ethics &amp; Animals Program Student Fellow!</strong></span><br>
+<br>
+The Law, Ethics &amp; Animals Program at Yale Law School (law.yale.edu/animals) is inviting applications for its 2024-25 LEAP Student Fellows Program. Applications are due on Wednesday, September 25. <br>
+<br>
+<strong>About LEAP:</strong><br>
+Launched in 2019, the Law, Ethics &amp; Animals Program (LEAP) at Yale Law School is a multidisciplinary “think-and-do tank” dedicated to developing new strategies to address industrialized animal cruelty and its impacts on the living world, and to drawing attention to the questions of conscience and law raised by humanity’s treatment of animals. To this end, LEAP leads and coordinates a diverse program of activities that serve students and scholars at Yale and that contribute to defining, expanding, and advancing the field of animal law and policy. LEAP’s programming includes academic and experiential courses; the Climate Change and Animal Agriculture Litigation Initiative and other research initiatives; active support for student research projects and publications; and regular lectures, panels, and events. Learn more at our website: law.yale.edu/animals. <br>
+<br>
+<strong>About the LEAP Student Fellows Program: </strong><br>
+Each academic year, LEAP selects a group of Student Fellows, including both Yale Law School students and other Yale graduate and professional school students. The goal of the Student Fellows Program is to support the academic and professional goals of Yale students interested in helping animals, to further empower these students to do impactful work while at Yale, and to build a robust and fun community of students and scholars interested in animal law and policy on campus.<br>
+<br>
+During the academic year, LEAP Student Fellows receive support from LEAP faculty and staff to work on a project related to animal law, policy, and ethics. The projects can take a myriad of forms, such as academic research (either with LEAP or independently); a policy proposal; submission of comments on proposed regulations; an op-ed or popular press article; or another research or creative project of the Fellow’s choosing. Credit or pay is available for some projects. LEAP Fellows shape and participate in the life of the LEAP program in a variety of ways, including helping to envision, organize, and advertise the events that LEAP hosts during the academic year. LEAP Fellows are asked, at minimum, to work on one project of their own choosing, to attend two LEAP events per semester, and to help spread the word about LEAP events and initiatives on campus. <br>
+<br>
+We welcome applications from all Yale graduate and professional school students. No past experience or expertise in animal law is necessary.<br>
+<br>
+To apply, please <a href="https://airtable.com/appLG4Kmn6Iwjz2pA/shrQdwX9ojqpZTFrk" target="_blank">complete this form</a> with a resume and brief statement of interest by <strong>WEDNESDAY, SEPTEMBER 25</strong>. If you have questions about the fellowship or application process, please contact LEAP Postgraduate Fellow Laurie Sellars (<a href="mailto:laurie.sellars@yale.edu">laurie.sellars@yale.edu</a>).
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39128"></a>
+  
+
+
+
+      <div id="mmi-39128" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39128" data-event-label="Scrolling Text Module 39128 (26/77)" data-instance-id="39128" data-id="102021">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Create New Drupal Website for American Studies</strong></span><br>
+<br>
+Create a new website using the latest Drupal Platform. Integrate current data to fit in the new Yale-recommended site. Work with block structures and filters to refine specifications and requirements based on program needs. Collaborate with Officers and staff to ensure compatibility with the new features.<br>
+<br>
+Compensation: $22.50/hour<br>
+<br>
+<a href="mailto:aaron.green@yale.edu" target="_blank">E-mail address to </a><a href="mailto:aaron.green@yale.edu">aaron.green@yale.edu</a> to express interest/apply &gt;
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38600"></a>
+  
+
+
+
+      <div id="mmi-38600" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38600" data-event-label="Scrolling Text Module 38600 (27/77)" data-instance-id="38600" data-id="101460">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong> Yale Ventures x CCAM Curatorial Fellowship</strong></span><br>
+<br>
+Yale Ventures, launched by Yale University in 2022, was created to connect and support the university’s innovation and entrepreneurship ecosystem. We seek to build a vibrant entrepreneurship and innovation ecosystem that increases support, resources, and opportunities for Yale innovators—faculty and students—as they translate their ideas and discoveries into new ventures that will positively impact the world’s greatest challenges. Yale Ventures will open their new space at 101 College Street in October 2024. This 10,000-square-foot space will include flexible space for mission-related programming, as well as office spaces and conference rooms for Yale staff engaged in related projects.  <br>
+<br>
+The Yale Ventures x Yale CCAM Art + Innovation Fellowship offers a unique opportunity to activate the Yale Ventures headquarters by curating art that embodies Yale’s vibrant interdisciplinary community. This fellowship is designed for a Yale artist, technologist, and/or curator from any media and practice(s) or discipline who is passionate about the intersection of innovation and technology at the university.  <br>
+<br>
+The fellow will curate one or more works from among the Yale community and/or in the greater art world to inspire and engage visitors and community members in the space, leveraging these themes. The fellow will consult with the Yale Ventures and Yale CCAM teams to receive guidance on the creative and logistical aspects of the exhibition, with the goal of imagining new methods and augmenting existing practices of curatorial expression and engagement. The works, subject to approval by Yale Ventures and CCAM, will be displayed at the Yale Ventures headquarters at 101 College Street, timed to coincide with the opening of the new space.<br>
+<br>
+In addition to activating the Yale Ventures space, fellows will support Yale CCAM in the production of its Fall 2024 exhibition at its ISOVIST gallery, which opens on November 8, 2024. This may involve assisting the show curator with the installation of artworks, publications, and other duties as assigned.  <br>
+<br>
+<strong>Applications due September 15, 2024, at 12PM.</strong> <a href="https://ventures.yale.edu/student-opportunities/yale-ventures-x-yale-ccam-curatorial-fellowship" target="_blank">Full information &amp; link to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38593"></a>
+  
+
+
+
+      <div id="mmi-38593" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/38593" data-event-label="Single Image Module 38593 (28/77)" data-instance-id="38593" data-id="56527">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Textile group forming in fall 2024" src="https://cdn.filestackcontent.com/resize=width:700/iUhxIvH5Sku7wnG0hKsB" /><img class="pauseable-image__source pauseable-image__source--static" alt="Textile group forming in fall 2024" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/iUhxIvH5Sku7wnG0hKsB" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-38594"></a>
+  
+
+
+
+      <div id="mmi-38594" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38594" data-event-label="Scrolling Text Module 38594 (29/77)" data-instance-id="38594" data-id="101444">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Call for Participation: Yale Textile Working Group</strong></span><br>
+<br>
+This fall marks the beginning of a new interdisciplinary working group centered around textiles, sponsored by the Whitney Humanities Center. The group is intended to help Yale community members connect over the topic of textiles. Researchers, historians, makers and practitioners of all disciplines and expertise levels are all welcome!<br>
+<br>
+Meetings will serve as spaces to discuss the history and future of textile crafts in all dimensions, including techniques (weaving, embroidery, quilting, knitting, crochet, etc.), materials (cotton, silk, wool, synthetics, dyes, etc.), and practices (social histories, collectives, industries, sciences, local traditions, etc.) While the group can be called a working group in an academic sense, it is also intended in a more tangible sense: if you have handwork that you want to attend to in a communal setting, you are welcome to bring along works in progress. Working in community facilitates an alternative discussion space to the traditional academic forum, and some limited basic materials and tools will be supplied at meetings.<br>
+<br>
+Depending on interest, members will also be welcomed to join in on the Yale Farm’s indigo harvest and dye extraction process, which will occur until the first frost, and a mending workshop is also planned for the fall. <strong>To join the email list to be notified of meetings and textile-related happenings, or if you would like to propose a presentation of your research or practice during a meeting, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSezGYIhM-EqFYKamGcngQLHbecA26AE6nAyWz8CeJuGBMy19A/viewform" target="_blank">register HERE</a> and/or join our first introductory stitching circle on September 9 from 5-7pm in Loria 360 (on the community calendars!).</strong> Please pass along this announcement to any colleagues — faculty, student, or staff — who may be interested, regardless of department/school.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38592"></a>
+  
+
+
+
+      <div id="mmi-38592" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38592" data-event-label="Scrolling Text Module 38592 (30/77)" data-instance-id="38592" data-id="101443">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>DHLab Fall Opportunities</strong></span><br>
+ <br>
+Are you a Yale graduate student interested in humanistic questions and in building professional experience and expertise on digital humanities projects in a client-facing role? The Yale DHLab welcomes applicants to our DH Generalist Consultant and DH Specialist Consultant positions. Generalist Consultants bring a broad interest in DH expertise and Specialist Consultants bring an existing area of knowledge they’d like to deepen. Consultants are funded to hold consultations in the DHLab (a minimum commitment of two hours per week) and, as interested, to join DHLab projects, participate in secondments to other library units, and train in relevant skill areas.<br>
+ <br>
+For more detailed information and to apply, please visit <a href="https://www.yalestudentjobs.org/" target="_blank">the student jobs portal.</a><br>
+ <br>
+<u><strong>WORKSHOPS</strong></u><br>
+<strong>Skip a Thousand Words: Data Visualization Principles for DH</strong><br>
+&gt; WHEN Wed Sep 18 10-11am<br>
+&gt; WHERE online<br>
+&gt; HOW <a href="https://yaleconnect.yale.edu/dhlab/rsvp_boot?id=2276544" target="_blank">register here</a><br>
+&gt; WHAT: Struggling to express a pattern you’re noticing in your data? Just looking to add visual interest to your DH project? Try a data visualization! This workshop will expose you to principles and techniques that can help you make compelling data visualizations that effectively convey your work to viewers. Participants will walk away with a conceptual grounding in designing data visualizations; this workshop will not focus on conveying statistical significance or adhering to disciplinary standards in traditional data fields. No programming experience required.<br>
+ <br>
+<strong>DH Foundations </strong><br>
+&gt; WHEN Wed Sep 25, Oct 2, Oct 9 2-3:30pm<br>
+&gt; WHERE online<br>
+&gt; HOW register for <a href="https://yaleconnect.yale.edu/dhlab/rsvp_boot?id=2276543" target="_blank">Part I</a>, <a href="https://yaleconnect.yale.edu/dhlab/rsvp_boot?id=2276541" target="_blank">Part II</a>, <a href="https://yaleconnect.yale.edu/dhlab/rsvp_boot?id=2276539" target="_blank">Part III</a><br>
+&gt; WHAT: In this interactive online workshop, participants will explore many avenues for creating meaningful and ethical DH projects by critically discussing case studies of existing projects as a group. We’ll also discuss the history of DH as a field and practice while collaboratively creating vocabularies around what it even means to “do DH”— especially what it means to “do good DH” —and identifying important questions to ask along the way.<br>
+<br>
+Participants will work together to identify qualities essential to any effective DH project and will walk away with a shared vocabulary to critique and propose DH projects of their own. This workshop will involve a lot of working together, but we do not expect participants to bring existing knowledge of DH methods, programming, or technical skills in general.<br>
+<br>
+Note: This workshop is open to current Yale graduate students and postdocs and is the first requirement to complete the Digital Humanities Lab’s DH certificate. Participants must attend all three parts to receive credit.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38270"></a>
+  
+
+
+
+      <div id="mmi-38270" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38270" data-event-label="Scrolling Text Module 38270 (31/77)" data-instance-id="38270" data-id="100801">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <strong style="font-size:18px">Opportunities at the Center for </strong><span style="font-size:18px"><strong>Collaborative</strong></span><strong style="font-size:18px"> Arts &amp; Media!</strong><br>
+<br>
+<strong>The Center for Collaborative Arts and Media CCAM Studio Fellowship (2024–2025): </strong>The CCAM Studio Fellowship invites creators to produce an original project based at the Center for Collaborative Arts and Media (CCAM) at Yale. For 2024–2025, the application is open to everyone!<br>
+<br>
+CCAM offers each project: 
+<ul>
+    <li>funding for project materials,</li>
+    <li>meetings with the group of fellows and our team for project mentorship,</li>
+    <li>access to the center’s spaces and Equipment Checkout, and an opportunity to present their work in the Studio Fellowship Exhibition.</li>
+</ul>
+Deadline: Tuesday, September 3 at 12:00 PM EDT. <a href="https://forms.gle/L6dH1xjabyBt3x6A6" target="_blank">Full information &amp; link to apply &gt;&gt;</a><br>
+<br>
+***<br>
+ <br>
+<strong>Open Call for <em>Hypertext/Hyperlink</em> Exhibition, CCAM <em>ISOVIST</em> Gallery, Fall 2024: </strong>Hypertext has been a foundational concept in how the web operates, connecting relational pages through hyperlinks to create a constellation of interconnected documents. The term “hypertext” was coined by Theodor Nelson, who described it as “non-sequential writing – text that branches and allows choices to the reader.” This concept is evident in HTML (HyperText Markup Language), the markup language used for creating websites, where the anchor tag links HTML documents together. Curated by CCAM ISOVIST Guest Curator Alvin Ashiatey (Lecturer, Yale School of Art and MFA ‘22)<br>
+<br>
+<strong>Participate in this exhibition by submitting proposals by Sunday, September 1 at 12:00 PM EDT.</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0qtWG4APGDi1dLJBqSyXDo8X8HwdAAldLO_rDIS2PNKlovg/viewform" target="_blank">Full information &amp; link to apply &gt;&gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-31188"></a>
+  
+
+
+
+      <div id="mmi-31188" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31188" data-event-label="Divider Module 31188 (32/77)" data-instance-id="31188" data-id="55936">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="in-new-haven"></a>
+  
+
+
+
+      <div id="mmi-31754" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/31754" data-event-label="Title Module In New Haven (33/77)" data-instance-id="31754" data-id="31714">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="In New Haven
+">
+        <span role="presentation" aria-hidden="true">In</span>
+        <span role="presentation" aria-hidden="true">New</span>
+        <span role="presentation" aria-hidden="true">Haven</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-43979"></a>
+  
+
+
+
+      <div id="mmi-43979" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/43979" data-event-label="Single Image Module 43979 (34/77)" data-instance-id="43979" data-id="60058">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/H475TYTURR6U1rbeklPv" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/H475TYTURR6U1rbeklPv" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-43980"></a>
+  
+
+
+
+      <div id="mmi-43980" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43980" data-event-label="Scrolling Text Module 43980 (35/77)" data-instance-id="43980" data-id="107697">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Mural Opportunity!</strong></span><br>
+<br>
+Town Green District is excited to announce the opening of our 2025 Straight Up Art mural program! Submit past pieces of your artwork in this <a href="https://www.surveymonkey.com/r/T5QSV6L" target="_blank">Request for Qualifications round</a>. If you are selected to move onto the next round, Request for Proposals, you will be asked to create a site-specific proposal for the mural location. <br>
+ <br>
+Please <a href="https://www.downtownnewhaven.com/straightupart" target="_blank">check out our website</a> for more information on the program and feel free to reach out with any questions.<br>
+ <br>
+<strong>RFQs are due May 9th at 12pm.</strong> <a href="https://www.surveymonkey.com/r/T5QSV6L" target="_blank">Submit here &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42362"></a>
+  
+
+
+
+      <div id="mmi-42362" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42362" data-event-label="Scrolling Text Module 42362 (36/77)" data-instance-id="42362" data-id="105750">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Nasty Women Open Call 2025:<br>
+Hill Blocks View: Coming Together when Things Fall Apart</strong></span><br>
+<br>
+This is an uncensored unjuried show, and submission is free and open to all. To participate, complete this form by Thursday, February 27, 2025, indicating how you’d like to participate, and what you’d like to contribute. We’re salivating at the mouth to hear your ideas, so dream big. The exhibition will take place at Creative Arts Workshop in New Haven, CT (80 Audubon St.) from <strong>March 8-22, 2025</strong>. Should you have any questions, email <a href="mailto:nastywomenct@gmail.com">nastywomenct@gmail.com</a>.<br>
+<br>
+<strong>Deadline: Thursday, February 27, 2025. </strong><a href="https://sfritche.wufoo.com/forms/z1k9jeni0m61a44/" target="_blank">Submit here &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41736"></a>
+  
+
+
+
+      <div id="mmi-41736" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41736" data-event-label="Scrolling Text Module 41736 (37/77)" data-instance-id="41736" data-id="105156">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>A Call for Artists: En Plein Air Event on May 10 on the New Haven Green</strong></span><br>
+<br>
+The Garden Club of New Haven is celebrating its Centennial in 2025. During the year many events will occur throughout New Haven. On May 10, 2025 the Club is sponsoring a series of events on and around the New Haven Green to celebrate our 100 years. As part of this event we are hoping to have Connecticut artists on site to paint scenes of or around the Green. Other events occurring on this day are tours, a film, a flower show, floral design workshops, many community resource tables and food trucks.<br>
+<br>
+Paintings/art work will be exhibited and offered for sale at the DaSilva Gallery in Westville. The show will be curated by Gabe DaSilva, exhibited for the month of June with a reception on Thursday, June 5th. Twenty per cent of the sale will be donated to the Garden Club of New Haven, Fund for the Future, held at the Community Foundation for Greater New Haven. Eighty percent will be shared between the gallery and artists.<br>
+<br>
+Submissions- This is not a juried event. Artist can enter only 1 piece of art.<br>
+In the event you cannot attend on May 10, you are welcome to paint another time, and bring your artwork to DaSilva Gallery on Saturday, May 31st between 10:00-4:00pm.<br>
+<br>
+<strong>To register and receive instructions, please <a href="mailto:janesnaider@gmail.com" target="_blank">contact Jane Snaider</a> by <u>March 1, 2025</u>. <a href="https://cdn.filestackcontent.com/6T6xytxnRgF7N483w9aW" target="_blank">Full information &gt;</a></strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41240"></a>
+  
+
+
+
+      <div id="mmi-41240" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41240" data-event-label="Scrolling Text Module 41240 (38/77)" data-instance-id="41240" data-id="104661">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>NXTHVN Fellowship Application is now open!</strong></span><br>
+<br>
+Each year NXTHVN welcomes up to seven artists and two curators to participate in its paid 10-month intensive Fellowship Program. Each Fellow will receive studio or office space, a stipend, and subsidized housing. Selected from an international pool of applicants, Fellows relocate to New Haven to participate in NXTHVN’s mentorship-driven curriculum which includes professional development sessions led by visiting artists, curators, scholars, and practitioners. Selected Fellows are also matched with a high school Apprentice, for focused one-on-one mutual learning, which gives the next local generation a chance to grow and excel in creative fields. The Fellowship year culminates with an annual group show at a prominent gallery space.<br>
+<br>
+<strong>Deadline: March 3, 2024.</strong> <a href="https://www.nxthvn.com/apply/" target="_blank">Full information &amp; apply &gt;</a><br>
+ 
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39166"></a>
+  
+
+
+
+      <div id="mmi-39166" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39166" data-event-label="Scrolling Text Module 39166 (39/77)" data-instance-id="39166" data-id="102090">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>University of New Haven seeks collaborators on interdisciplinary poetry project</strong></span><br>
+<br>
+The University of New Haven invites student artists specializing in painting and graphic illustration to participate in an exciting interdisciplinary project that merges the worlds of poetry and visual art. This unique initiative, led by fellow UNH instructor and award-winning poet, Lauren Crawford, centers around her debut poetry collection, which explores profound themes through vivid language and compelling narratives. The project seeks to bring these poems to life through original artworks created by talented visual artists, offering a powerful dialogue between word and image.<br>
+<br>
+Participating artists will be tasked with interpreting and creating a visual piece inspired by one of the poems from Lauren’s forthcoming collection, which will be featured in a virtual gallery on her author’s website as well as promotional material &amp; potential live exhibitions. This project not only provides a unique platform for artists to showcase their work alongside a published poetry collection but also introduces a philanthropic element: in exchange for student artwork, Lauren will make donations to charities chosen by the contributing artists. This approach fosters both artistic collaboration and community impact, providing artists with a meaningful opportunity to express their creativity while supporting causes they care about.<br>
+<br>
+This is a fantastic chance for student artists to gain exposure, collaborate across mediums, and be part of a project that bridges literature and visual art in a fresh and impactful way. Students who identify as women, LGBTQ, and Persons of Color/Indigenous are especially welcome to apply. Deadline for completed pieces is <strong>November 15, 2024</strong>. Interested students are encouraged to <a href="mailto:lcrawford@newhaven.edu" target="_blank">submit their portfolios or reach out for more information</a> on how to get involved in this creative and socially conscious endeavor.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39129"></a>
+  
+
+
+
+      <div id="mmi-39129" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/39129" data-event-label="Single Image Module 39129 (40/77)" data-instance-id="39129" data-id="56824">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/jIyjr32xQFuUWJPgO5eA" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/jIyjr32xQFuUWJPgO5eA" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-39130"></a>
+  
+
+
+
+      <div id="mmi-39130" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39130" data-event-label="Scrolling Text Module 39130 (41/77)" data-instance-id="39130" data-id="102022">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>The New Haven Chamber Orchestra is seeking new musicians!</strong></span><br>
+<br>
+The New Haven Chamber Orchestra is seeking new musicians in strings, horn, and percussion for the Orchestra’s 20th season.<br>
+<br>
+The group meets weekly on Tuesdays from 6:30-8:30PM. <a href="mailto:info@newhavenorchestra.com" target="_blank">Email </a><a href="mailto:info@newhavenorchestra.com">info@newhavenorchestra.com</a> if you’re interested in joining!
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-31756"></a>
+  
+
+
+
+      <div id="mmi-31756" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31756" data-event-label="Divider Module 31756 (42/77)" data-instance-id="31756" data-id="56027">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="outside-the-school-of-art"></a>
+  
+
+
+
+      <div id="mmi-30584" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/30584" data-event-label="Title Module Outside the School of Art (43/77)" data-instance-id="30584" data-id="31638">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="Outside the School of Art
+">
+        <span role="presentation" aria-hidden="true">Outside</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+</h2>
+
+
+</div>
+
+
+  <a name="recommended-lists"></a>
+  
+
+
+
+      <div id="mmi-30609" class="accordion-module colspan-3 rag measurable magic-module" data-event-category="magic_module/accordion_module/30609" data-event-label="Accordion Module Recommended lists (44/77)" data-instance-id="30609" data-id="2118">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Recommended lists</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <ul>
+<li><p><a href="https://www.newhavenarts.org/creative-careers" target="_blank">New Haven Arts Council’s Creative Careers</a></p></li>
+<li><p><a href="https://hyperallergic.com/tag/opportunities" target="_blank">Opportunities on <em>Hyperalllergic</em></a></p></li>
+<li><p><a href="https://www.thisiscolossal.com/category/opportunities/" target="_blank">Opportunities on <em>Colossal</em></a></p></li>
+<li><p><a href="https://creative-capital.org/category/tips-tools//" target="_blank"> Creative Capital’s “Artist Opportunities with Upcoming Deadlines”</a></p></li>
+</ul>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="professional-development-community-orgs"></a>
+  
+
+
+
+      <div id="mmi-30605" class="accordion-module colspan-1 rag measurable magic-module" data-event-category="magic_module/accordion_module/30605" data-event-label="Accordion Module Professional development &amp; community orgs (45/77)" data-instance-id="30605" data-id="1222">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Professional development &amp; community orgs</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <ul>
+<li><p><a href="https://www.commonfield.org/" target="_blank">Common Field</a></p></li>
+<li><p><a href="https://www.artworldconference.com/" target="_blank">Art World Conference</a></p></li>
+</ul>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-43683"></a>
+  
+
+
+
+      <div id="mmi-43683" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43683" data-event-label="Scrolling Text Module 43683 (46/77)" data-instance-id="43683" data-id="107302">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Entrepreneur seeks graphic identity for a protein shake bottle</strong></span><br>
+<br>
+“That will include the font, drawing out the animal in a certain style (examples will be provided), and designing the flavor of the shake. When we choose an individual for the project, I will share a word document containing the examples that we have made to showcase what exactly we are looking for in the project. In regards to the deadline of when the project is requested, It would be ideal to have the finished project done in two weeks. However, I do know that managing academics and a side project is difficult, and I will gratefully extend that deadline if need be. With payment, I will pay two hundred dollars and that will be open to negotiation. <br>
+<br>
+In regards to me choosing an individual to do this project, I would like to do a tiny interview process. This process could be done by having them email me copies of previous work, to ensure that the art style we are looking for matches theirs.”<br>
+<br>
+<a href="mailto:cronaund2004@gmail.com" target="_blank">Reach out to Nicholas Donaldo Cronauer if you’re interested in this project!</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43682"></a>
+  
+
+
+
+      <div id="mmi-43682" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43682" data-event-label="Scrolling Text Module 43682 (47/77)" data-instance-id="43682" data-id="107301">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Joan Mitchell Center Residencies in New Orleans</strong></span><br>
+<br>
+At the Joan Mitchell Center in New Orleans, we offer artists dedicated time and space for the creative process through residencies ranging from 6 to 14 weeks in length. Artists have opportunities to engage with arts professionals, partner arts organizations, and others in the community.<br>
+<br>
+Eligible artists must either be based in New Orleans (for the last five years) or native to New Orleans, or be a former grant recipient of the Joan Mitchell Foundation based anywhere in the United States. Former Artists-in-Residence of the Center are not eligible to apply, with the exception of the JMF Early Art Practitioners (EAP).<br>
+<br>
+<strong>The application for 2026 residencies is now open through Friday, May 30 at 5pm (CT).</strong> <a href="https://www.joanmitchellfoundation.org/residencies" target="_blank">Full information &amp; link to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43586"></a>
+  
+
+
+
+      <div id="mmi-43586" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43586" data-event-label="Scrolling Text Module 43586 (48/77)" data-instance-id="43586" data-id="107171">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Apply for The New Art School Modality’s “Notes from the Artist’s Studio Course”</strong></span><br>
+<br>
+The New Art School Modality’s upcoming offering, the “Notes from the Artist’s Studio Course”. This NASM course includes suggestions and lessons by artists with studio practices who share what they know and would want to impart to emerging makers about form and their approaches to art making and specific forms. <br>
+ <br>
+It will take place this Spring weekly on Fridays from 10 am - 12:30 pm EST beginning <strong>Friday, April 18, 2025 through May 9, 2025</strong>. As the past few have been, the course will be a virtual-in person hybrid. The in-person sessions will be on the Hauser &amp; Wirth, NY Gallery premises at 443 W 18th St, New York, NY 10011.<br>
+ <br>
+Faculty will include:<br>
+<strong>Professor Iris Bernblum</strong>, whose practice includes sculpture, painting, drawing, video and performance<br>
+<strong>Professor María Berrío</strong>, known for large scale works using Japanese paper and watercolor<br>
+<strong>Professor Jeffrey Gibson</strong>, whose practice includes immersive, multi-sensory installations<br>
+<strong>Professor Steffani Jemison</strong>, known for connecting mark-making, gesture, proposal, projection, movement, and document.<br>
+<strong>Professor Dindga McCannon</strong>, known for paintings, quilts, prints and sculpture<br>
+<strong>Professor Angel Otero</strong>, known for work in the field of abstract expressionism<br>
+<a href="https://thenewartschoolmodality.com/faculty" target="_blank">You can learn more about the faculty here.</a><br>
+ <br>
+<strong>The deadline for this application is April 11th, 2025.</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLScI7Flx4bWJD0WHaj6TttbnV0IDuo2ny0I3QKqjioyAcWqDrQ/viewform" target="_blank">Full information &amp; link to apply &gt;</a> <em>(Travel stipends are available for accepted SoA MFAs to travel to New York!)</em>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43585"></a>
+  
+
+
+
+      <div id="mmi-43585" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43585" data-event-label="Scrolling Text Module 43585 (49/77)" data-instance-id="43585" data-id="107170">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>CALL FOR ARTISTS<br>
+Olympic Heritage | Artists in Residence 2025</strong></span><br>
+<br>
+The Olympic Museum and the 3-2-1 Qatar Olympic and Sports Museum are thrilled to announce the first edition of the Olympic Heritage | Artists in Residence 2025, an extraordinary opportunity for artists working with digital and immersive media to critically engage with the world of sports culture and the Olympic legacy We would love for you to be a part of this transformative experience and contribute to the global conversation on sports culture and the Olympic history. <br>
+ <br>
+<strong>Application Deadline: May 31, 2025. </strong>For more details, <a href="https://321qosm.org.qa/en/calendar/olympic-digital-artist-in-residence-open-call/" target="_blank">please visit the Qatar Olympic Museum website &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-43385"></a>
+  
+
+
+
+      <div id="mmi-43385" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/43385" data-event-label="Scrolling Text Module 43385 (50/77)" data-instance-id="43385" data-id="107004">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Joan Mitchell Foundation: A</strong><strong>pplications for 2026 Artists-in-Residence Opens April 7</strong></span><br>
+<br>
+On Monday, April 7, the Joan Mitchell Center will begin accepting applications for its 2026 visual artist residencies. Eligible artists must either be based in or native to New Orleans, or be a former grant recipient of the Joan Mitchell Foundation based anywhere in the United States. Former Artists-in-Residence of the Center are not eligible to apply. <br>
+<br>
+Selected artists will receive private studio space at the Center for 6 weeks or 14 weeks in either the Spring or Fall 2026 residency session or for 6 weeks during our Summer session. Artists-in-Residence also receive a $150 weekly stipend, weekday communal meals, and opportunities to participate in professional development and community events.<br>
+<br>
+The online application will open on Monday, April 7 at 10am CT. Full guidelines and FAQ’s will be available on the application site at that time.<br>
+<br>
+<strong>The deadline to apply is Friday, May 30 at 5pm CT. </strong><a href="https://www.joanmitchellfoundation.org/residencies" target="_blank">Full information &amp; link to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42728"></a>
+  
+
+
+
+      <div id="mmi-42728" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42728" data-event-label="Scrolling Text Module 42728 (51/77)" data-instance-id="42728" data-id="106016">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Low Season Artist Residency Program: Block Island, RI</strong></span><br>
+<br>
+The Low Season Artist Residency is one part dedicated time for creative research and one part community engagement. We have partnered with the Block Island School to provide workshops for students led by our residents. We are interested in artists willing to develop unique experiences for students at the Block Island School. Our artists also engage with the public to share their work through a community lecture or open studio-style event.<br>
+<br>
+While our residency does not have designated studio space, we offer free housing and breakfast at the Old Town Inn, a stipend for art-making and living expenses, and a small travel stipend to cover the Block Island Ferry. Materials for the Block Island School workshop are covered as well.<br>
+<br>
+Think of this as a DIY residency- one that is meant for artists who are willing to make art without a white cube studio. We encourage writing, reading, research, sketching, photography, exploring the often vacant beaches or miles of hiking trails, and working outdoors, or in the community spaces of the Old Town Inn. If you need a little bit of time away to regroup, reflect, and reimagine your path as an artist, this residency is for you!<br>
+<br>
+We are committed to creating a network of artists and critics through our program by providing professional development opportunities. Residents will get the chance to meet with one of our visiting critics for a virtual studio visit after their time on the island. This is a chance to reflect on your Low Season Residency and the trajectory of your work with an art world professional.<br>
+<br>
+<strong>Deadline: April 4, 2025.</strong> <a href="https://lowseasonartistprojects.com/application-information/" target="_blank">Full information &amp; apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-42725"></a>
+  
+
+
+
+      <div id="mmi-42725" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/42725" data-event-label="Scrolling Text Module 42725 (52/77)" data-instance-id="42725" data-id="106014">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Open Call: </strong><strong>Triple Canopy Publication Intensive</strong></span><br>
+June 2–13, 2025<br>
+<br>
+<strong>What: </strong>The Publication Intensive is a two-week program in the history and contemporary practice of publication for recent college graduates, graduate students, and early-career practitioners. Triple Canopy’s editors and collaborators lead discussions and workshops with participants, who research, analyze, and develop projects that engage with contemporary technologies while mining the history of print culture and artistic practice. <br>
+<br>
+The program addresses such questions as: How have artists, writers, and technologists used publications as vehicles for material experimentation, political expression, and the cultivation of audiences? What defines a publication today, and how is that definition complicated by shifts in labor conditions, technologies, and readerships? How does publication drive efforts to organize people and test out new ideas? <br>
+<br>
+<strong>Where: </strong>The program will take place at Triple Canopy’s venue in Manhattan, and will include visits to publishers, archives, cultural institutions, and the studios of artists and designers.<br>
+<br>
+<strong>When:</strong> June 2–13, 2025. Sessions are held Monday–Friday, 10 a.m.–4 p.m. (with some variation).<br>
+<br>
+<strong>Cost: </strong>Tuition is free, though participants must arrange and cover their own travel and accommodations. All reading and viewing materials will be provided free of cost.<br>
+<br>
+<strong>Application:</strong> Apply online by Monday, March 24 at 6 p.m. Eastern. <a href="https://canopycanopycanopy.com/initiatives" target="_blank">Apply here &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41737"></a>
+  
+
+
+
+      <div id="mmi-41737" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41737" data-event-label="Scrolling Text Module 41737 (53/77)" data-instance-id="41737" data-id="105157">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>RIT Office of Faculty Diversity and Recruitment seeking 2025 cohort of the Future Faculty Career Exploration Program</strong></span><br>
+<br>
+RIT Office of Faculty Diversity and Recruitment is currently accepting applications for the 2025 cohort of the Future Faculty Career Exploration Program. Historically underrepresented MFA  and PhD students and graduates who are practicing artists, designers, filmmakers, or photographers are encouraged to apply. <br>
+ <br>
+RIT’s College of Art and Design is the university’s creative hub where art, design, science, and technology intersect in our 200,000+ sq. ft. facility. We are a dynamic and professional arts and design community comprised of nearly 2,000 students (undergrad and grad), 140 full-time faculty, 60 creative staff, and a number of professional part-time faculty, all of whom contribute to our College’s ecosystem. The College’s five schools offer programs in Art, Design, Crafts, Film and Animation, Photography and Photographic Sciences. The range of innovative programs offers students a panoramic perspective from creating fine art using centuries-old methods to pushing the boundaries of digital creativity. The College of Art and Design also takes full advantage of RIT’s opportunities in technology, STEM, engineering, sustainability, and entrepreneurism programs, as well as our global campuses. <br>
+ <br>
+<strong>The application deadline is February 28, 2025. <a href="https://www.rit.edu/diversity/ffcep" target="_blank">Full information &amp; link to apply &gt;</a></strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41243"></a>
+  
+
+
+
+      <div id="mmi-41243" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41243" data-event-label="Scrolling Text Module 41243 (54/77)" data-instance-id="41243" data-id="104663">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Vassar Review seeks submission for 2024-25 issue, “Frame &amp; Forgery"</strong></span><br>
+<br>
+The Vassar Review, an international, multidisciplinary literary arts journal, is currently looking for arts submissions for this year’s issue. Our theme for the 2024-25 cycle is “Frame &amp; Forgery":<br>
+<br>
+We accept a range of work including poetry, prose, visual and digital media, reviews, soundscapes, performance, and beyond. Bilingual texts and excerpts from longer dramatic works such as screenplays and graphic novels are also considered. We do not accept works previously published in print but will consider previously exhibited visual work. Simultaneous submissions are allowed but require that artists notify editors if the work has been accepted elsewhere. All contributors retain copyright over their individual works.<br>
+<br>
+<strong>Deadline: January 19, 2025. <a href="https://vassar-review.vassarspaces.net/contact/" target="_blank">More information &amp; link to apply &gt;</a></strong>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-41241"></a>
+  
+
+
+
+      <div id="mmi-41241" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/41241" data-event-label="Single Image Module 41241 (55/77)" data-instance-id="41241" data-id="58078">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/QW8JbKeQKuE4kgT8kZHO" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/QW8JbKeQKuE4kgT8kZHO" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-41242"></a>
+  
+
+
+
+      <div id="mmi-41242" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/41242" data-event-label="Scrolling Text Module 41242 (56/77)" data-instance-id="41242" data-id="104662">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>2025 Japan Parade Art Contest seeks submissions</strong></span><br>
+<br>
+The Japan Parade Art Contest is held annually to determine the main visual for Japan Parade &amp; Street Fair, the cultural event held every May since 2022 on Central Park West, in the Upper West Side. The event is organized by Japan Day Inc., a 501©(3) non-profit organization based in New York City. Japan Parade &amp; Street Fair 2025 is scheduled to be held on Saturday, May 10th, 2025.<br>
+<br>
+The Grand Prize Winner of this contest will have their artwork be utilized as the main visual of this event, to be displayed on all related materials including on the Japan Parade &amp; Street Fair official website.<br>
+<br>
+<strong>Deadline: Friday, January 17, 2025.</strong> <a href="https://japandaynyc.org/art-contest-submit/https://www.japanparadenyc.org/art-contest-2025" target="_blank">Full information &amp; apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-40877"></a>
+  
+
+
+
+      <div id="mmi-40877" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/40877" data-event-label="Scrolling Text Module 40877 (57/77)" data-instance-id="40877" data-id="104232">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Pioneering summer creative residencies within an inspiring mediterranean natural scenery in rural Greece</strong></span><br>
+July / August 2025<br>
+<br>
+The PERIPLUS project is founded as a nonprofit organization to reveal and diffuse creativity’s power for the common good. Provoking change and positively affecting the present and future of individuals, social groups, businesses and institutions, through innovatively enhancing pre-existing potential and fostering local community regenerative motivation.<br>
+<br>
+The 2025 residencies’ program, Periplus* Workshops, offers the unique opportunity for emerging creatives to respond to nature in two small villages of rural Greece. In Arcadia,  the mythical land of pastoral utopia, in central Peloponnese or at the agricultural side of the historical Chania Region, in Crete. In a carefully structured period of intensive days, a determined group of participants use limited resources to create individual and collaborative responses, culminating in a local exhibition which is open to the wider local community and encourages an outward-facing conversation about the value of experimental creativity in context. <br>
+ <br>
+As well as learning from and working alongside local people, participants in Periplus Workshops foster sustainable development through skillsharing, introducing new approaches to problem solving and storytelling. At the same time, learning about the traditional forms of handicrafts and local material culture, they are looking for new ways of better preserving and innovatively including them. They take active part into giving the selected territories visibility as a living laboratory, open to new thinking capable of playing a key role in changing the social fabric and bring about new ways of doing and being.<br>
+<br>
+<a href="https://www.periplusworkshops.com/workshops" target="_blank">Full information &amp; links to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-40712"></a>
+  
+
+
+
+      <div id="mmi-40712" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/40712" data-event-label="Scrolling Text Module 40712 (58/77)" data-instance-id="40712" data-id="104034">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Apply for the </strong><strong>2025–2026 Sharpe-Walentas Studio Program residency </strong></span><br>
+<br>
+The 2025–2026 Sharpe-Walentas Studio Program residency period will last from September 2025 through August 2026 in DUMBO, Brooklyn. High-ceiling artist studios are accessible 24/7 and include freight and passenger elevator access.<br>
+ <br>
+The Sharpe-Walentas Studio Program has provided working studio space and community for artists since 1991. Artists are selected annually based on merit from a competitive pool of applicants by a professional jury comprised of artists and members of the Artists Advisory Committee.<br>
+<br>
+<strong>Deadline: December 31, 2024, 11:59PM EST.</strong> <a href="https://www.thestudioprogram.com/apply" target="_blank">Full information &amp; application &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-40151"></a>
+  
+
+
+
+      <div id="mmi-40151" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/40151" data-event-label="Scrolling Text Module 40151 (59/77)" data-instance-id="40151" data-id="103407">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>University of Houston seeks Assistant Professor in Photography/Video</strong></span><br>
+<br>
+The School of Art at the University of Houston, a Tier-One public research university, seeks applications for a full-time, tenure-track Assistant Professor of Photography/Video position to begin Fall 2025. The program seeks outstanding candidates working at the forefront of contemporary photography or video. The successful candidate will have an active exhibition record with the potential to achieve national and international recognition and a developing record as a teacher and mentor. They should demonstrate a commitment to creative research and production and an engagement with contemporary issues and the evolving concerns of our dynamic field. We wish to consider candidates with an expansive approach to contemporary image-based creation, from analog processes to the newest digital technologies. The successful candidate for this position will excel at teaching and mentoring students from a broad range of backgrounds.<br>
+<br>
+<a href="https://careers.uh.edu/jobs/assistant-professor-photography-video-houston-texas-united-states" target="_blank">Apply here &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39524"></a>
+  
+
+
+
+      <div id="mmi-39524" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39524" data-event-label="Scrolling Text Module 39524 (60/77)" data-instance-id="39524" data-id="102780">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>University of Illinois at Urbana-Champaign seeks Assistant/Associate Professor in Graphic Design &amp; Design for Responsible Innovation</strong></span><br>
+<br>
+The School of Art &amp; Design at the University of Illinois at Urbana-Champaign invites applications for a full-time, tenure-track faculty position, at the rank of Assistant or Associate Professor, to support the continued expansion of the program in Graphic Design and Design for Responsible Innovation. The School encourages submissions from individuals with specializations across a range of design areas. The anticipated start date is August 16, 2025.<br>
+<br>
+We seek applicants who will contribute to our faculty by pushing beyond graphic design’s historical perspectives and approaches to engage design’s ethical implications, re-center those excluded by the discipline, or innovate methodologies and pathways. These include, but are not limited to, Indigenous design knowledges, queering design, applied experimentation in visual communication, social interaction design, liberatory approaches to the development and dissemination of knowledge, collaboration across disciplines and with community partners, and design for climate justice and to dismantle and reimagine other inequities faced by historically marginalized communities.<br>
+<br>
+<a href="https://illinois.csod.com/ux/ats/careersite/1/home/requisition/12061?c=illinois" target="_blank">Full info &amp; application &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-39493"></a>
+  
+
+
+
+      <div id="mmi-39493" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/39493" data-event-label="Single Image Module 39493 (61/77)" data-instance-id="39493" data-id="57056">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/SZwr98IGQIG3i9WWL29R" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/SZwr98IGQIG3i9WWL29R" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-39494"></a>
+  
+
+
+
+      <div id="mmi-39494" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39494" data-event-label="Scrolling Text Module 39494 (62/77)" data-instance-id="39494" data-id="102649">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>Mattatuck Museum’s MIXMASTER Juried Members show</strong></span><br>
+<br>
+Calling all emerging artists! Submissions for the Mattatuck Museum’s MIXMASTER Juried Members show open October 21. MIXMASTER is an annual juried exhibition that seeks to discover and recognize the talents of the Mattatuck Museum’s artist members working in New England and the Tri-State region. All artists who are over the age of 18 and residents of New England, New York, and New Jersey are welcome to apply.<br>
+<br>
+This year, we are thrilled to have Dr. Kalia Brooks, Director of Programs and Exhibitions at NXTHVN, as our juror. Selected works will be featured in a group show at the Mattatuck Museum in January, and the winner of the show will receive $500 plus a solo exhibition in the fall. Please note that while membership is required, there is a discounted rate for students that still comes with full membership benefits. For all other information, please visit <a href="https://mixmaster2025.artcall.org/" target="_blank"></a><a href="https://mixmaster2025.artcall.org/">https://mixmaster2025.artcall.org/</a>.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38897"></a>
+  
+
+
+
+      <div id="mmi-38897" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38897" data-event-label="Scrolling Text Module 38897 (63/77)" data-instance-id="38897" data-id="102813">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <span style="font-size:18px"><strong>The New Art School Modality: Arts Writing/Writing About Art</strong></span><br>
+<strong> Fall 2024 Course | October 11th-December 13th, 2024</strong><br>
+<br>
+The New Art School Modality’s latest course, “<a href="https://thenewartschoolmodality.com/courses" target="_blank">Arts Writing/Writing About Art</a>“ will take place this Fall weekly on Fridays from 10am - 12:30 pm EST beginning Friday, October 11, 2024. The course will be a virtual-in person hybrid. The in-person sessions will be on the Hauser &amp; Wirth, NY Gallery premises at 443 W 18th St, New York, NY 10011.<br>
+ <br>
+Faculty with expertise on the topic include:
+<ul>
+    <li>Professor Valerie Cassel Oliver, curator and author, including <em>Radical Presence: Black Performance in Contemporary Art </em>(2012) and <em>Dawoud Bey: Elegy </em>(2023)</li>
+    <li>Professor Hannah Higgins, whose writings include <em>The Grid Book </em>(2009) and “Intermedial Perception Or, Fluxing Across the Sensory” (2021)</li>
+    <li>Professor Alexander Nemerov, author of <em>Fierce Poise: Helen Frankenthaler and 1950s New York</em> (2021) and <em>The Forest: A Fable of America in the 1830s</em> (2023)</li>
+    <li>Professor Jenni Sorkin, whose works include <em>Revolution in the Making: Abstract Sculpture by Women Artists, 1947–2016</em> (2016), and<em> Art in California</em> (2021).</li>
+    <li>Professors Fred Moten &amp; Steve Harney, authors of <em>The Undercommons: Fugitive Planning and Black Study</em> (2013) and <em>All Incomplete</em> (2020).</li>
+    <li>Professor Romi Crawford, writings on artists include essays on Nick Cave, Cauleen Smith, Tavares Strachan, and Kamoinge Workshop photographers.</li>
+    <li>Professor Siddhartha Mitter, journalist whose writings include “Steve McQueen, on a Different Wavelength (2024)” and “Dawoud Bey, Full Frame: On Richmond’s Trail of the Enslaved” </li>
+</ul>
+<a href="https://thenewartschoolmodality.com/faculty" target="_blank">You can learn more about the faculty here &gt;</a><br>
+<br>
+<strong>Applications due September 25, 2024.</strong> <a href="https://docs.google.com/forms/d/1Plx0ewSSVG0apKZ625ODDgp8hgE5qws0CcpiQR9Wi2g/viewform?edit_requested=true" target="_blank">Link to apply &gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-31191"></a>
+  
+
+
+
+      <div id="mmi-31191" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31191" data-event-label="Divider Module 31191 (64/77)" data-instance-id="31191" data-id="55937">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="for-soa-alums"></a>
+  
+
+
+
+      <div id="mmi-36536" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/36536" data-event-label="Title Module For SoA Alums (65/77)" data-instance-id="36536" data-id="34069">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="For SoA Alums
+">
+        <span role="presentation" aria-hidden="true">For</span>
+        <span role="presentation" aria-hidden="true">SoA</span>
+        <span role="presentation" aria-hidden="true">Alums</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-39557"></a>
+  
+
+
+
+      <div id="mmi-39557" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/39557" data-event-label="Scrolling Text Module 39557 (66/77)" data-instance-id="39557" data-id="102814">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><span style="font-size:18px"><strong>The Department of Art at The University of Texas at El Paso (UTEP) seeks a Chairperson to commence Fall 2025</strong></span><br></p>
+
+<p>The Department of Art at The University of Texas at El Paso (UTEP) invites applications for a Chairperson to commence Fall 2025. The successful candidate will serve as the administrative and educational leader of approximately twenty full-time, tenured, or tenure-track faculty members and a staff of three. Serving nearly 600 undergraduate majors, the Department of Art offers BA programs for art education and art history, along with BA and BFA programs in studio art (ceramics, drawing, graphic design, metals, painting, printmaking and sculpture), and a minor in museum studies. Our facility in the Fox Fine Arts center includes four stories of studios (drawing, painting, graphic design, foundations, sculpture, wood shop, ceramics, metals, printmaking), classrooms, and the Glass Gallery, our departmental exhibition space. The successful candidate will have the administrative experience and organizational skills to lead the department and will bring a clear vision of the future of studio education, art history, art education, and museum studies that incorporates contemporary practices. The Chair will liaise with the Dean of the College of Liberal Arts and the upper administration and work to ensure that the needs of the department are fully met. For more information about the Department of Art at UTEP, please visit our website.</p>
+
+<p>Tenure, rank, and salary are commensurate with the candidate’s qualifications.</p>
+
+<p><strong>Required Qualifications:</strong></p>
+
+<ul>
+<li><p>Terminal degree in studio art (M.F.A.), art history (Ph.D.), art education (Ph.D.), or a related field</p></li>
+<li><p>Tenure at the rank of either Associate or Full Professor or an equivalent at current institution </p></li>
+<li><p>Administrative or leadership experience at the Department and or College/University levels</p></li>
+<li><p>National or international record of scholarly or artistic achievement </p></li>
+</ul>
+
+<p>Preferred Qualifications:</p>
+
+<ul>
+<li><p>Prior experience (1-2 years) in an Assistant Chair, Chair, or Interim Chair position or in a college or university administration position</p></li>
+<li><p>Experience in student advising</p></li>
+<li><p>Working knowledge of university software platforms and learning management systems</p></li>
+</ul>
+
+<p><strong>Duties:</strong></p>
+
+<ul>
+<li><p>Oversee budget, recruitment, hiring of staff, and faculty appointments</p></li>
+<li><p>Work with staff to oversee department functions and infrastructure </p></li>
+<li><p>Work with faculty to develop curricula, facilities, and scheduling</p></li>
+<li><p>Promote the department’s future development</p></li>
+<li><p>Liaise effectively with the administration, college, and community</p></li>
+<li><p>Support and mentor the professional growth of faculty</p></li>
+<li><p>Course Instruction consistent with workload policies and departmental needs</p></li>
+<li><p>Advise departmental majors and minors and communicate with central advising: the C.L.A.S.S. Center and Academic Advising Center</p></li>
+<li><p>Coordinate student travel, including study abroad programming </p></li>
+<li><p>Use Microsoft suite of software, PeopleSoft (or similar), Faculty Success, and UTEP’s learning management system</p></li>
+<li><p>Resolve personnel and student issues and conflicts</p></li>
+<li><p>Advance the collaborative relationship with our campus contemporary arts center, the Stanlee &amp; Gerald Rubin Center for the Visual Arts</p></li>
+</ul>
+
+<p><strong>Review of complete applications will begin January 10, 2025. The position will remain open until filled. Incomplete applications will not be reviewed.</strong></p>
+
+<p>To apply, please visit: <a href="http://www.utep.edu/employment">www.utep.edu/employment</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-36538"></a>
+  
+
+
+
+      <div id="mmi-36538" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36538" data-event-label="Divider Module 36538 (67/77)" data-instance-id="36538" data-id="56929">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="ongoing-regular-awards"></a>
+  
+
+
+
+      <div id="mmi-30607" class="title-module colspan-2 rag title-module--prominence-3 colspan-2 rag measurable magic-module" data-event-category="magic_module/title_module/30607" data-event-label="Title Module Ongoing / Regular Awards (68/77)" data-instance-id="30607" data-id="31173">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Ongoing / Regular Awards
+">
+        <span role="presentation" aria-hidden="true">Ongoing</span>
+        <span role="presentation" aria-hidden="true">/</span>
+        <span role="presentation" aria-hidden="true">Regular</span>
+        <span role="presentation" aria-hidden="true">Awards</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-30608"></a>
+  
+
+
+
+      <div id="mmi-30608" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/30608" data-event-label="Scrolling Text Module 30608 (69/77)" data-instance-id="30608" data-id="95152">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <ul>
+<li>
+<a href="https://hopperprize.org/#apply/" target="_blank"><strong>The Hopper Prize</strong>:</a> Offers a series of individual artist grants on a bi-annual basis.</li>
+</ul>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-31192"></a>
+  
+
+
+
+      <div id="mmi-31192" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31192" data-event-label="Divider Module 31192 (70/77)" data-instance-id="31192" data-id="55938">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="archive-of-past-opportunities"></a>
+  
+
+
+
+      <div id="mmi-30618" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/30618" data-event-label="Title Module Archive of past opportunities: (71/77)" data-instance-id="30618" data-id="31179">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Archive of past opportunities:
+">
+        <span role="presentation" aria-hidden="true">Archive</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">past</span>
+        <span role="presentation" aria-hidden="true">opportunities:</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-38154"></a>
+  
+
+
+
+      <div id="mmi-38154" class="announcement-module colspan-3 rag measurable magic-module" data-event-category="magic_module/announcement_module/38154" data-event-label="Announcement Module 38154 (72/77)" data-instance-id="38154" data-id="55593">                  
+<div class="announcement-module__inner">
+  <div><a href="/opportunities/2023-2024">Visit the <strong>2023-2024 Opportunities archive</strong> here &gt;</a></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-35269"></a>
+  
+
+
+
+      <div id="mmi-35269" class="announcement-module colspan-3 rag measurable magic-module" data-event-category="magic_module/announcement_module/35269" data-event-label="Announcement Module 35269 (73/77)" data-instance-id="35269" data-id="55592">                  
+<div class="announcement-module__inner">
+  <div><a href="/opportunities/2022-2023">Visit the <strong>2022-2023 Opportunities archive</strong> here &gt;</a></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-33197"></a>
+  
+
+
+
+      <div id="mmi-33197" class="announcement-module colspan-3 rag measurable magic-module" data-event-category="magic_module/announcement_module/33197" data-event-label="Announcement Module 33197 (74/77)" data-instance-id="33197" data-id="55407">                  
+<div class="announcement-module__inner">
+  <div><a href="https://www.art.yale.edu/opportunities/2021-2022">Visit the <strong>2021-2022 Opportunities archive</strong> here &gt;</a></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-30619"></a>
+  
+
+
+
+      <div id="mmi-30619" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/30619" data-event-label="Divider Module 30619 (75/77)" data-instance-id="30619" data-id="55801">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-36503"></a>
+  
+
+
+
+      <div id="mmi-36503" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36503" data-event-label="Scrolling Text Module 36503 (76/77)" data-instance-id="36503" data-id="99104">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <em>Background image via <a href="https://giphy.com/gifs/transparent-baby-shake-nNxT5qXR02FOM" target="_blank">meowgifs on GIPHY.</a></em>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/opportunities/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4669?page_id=216045">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/opportunities/pages/216045');
+</script>
+
+    </body>
+
+</html>

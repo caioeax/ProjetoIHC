@@ -1,0 +1,612 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Mickalene Thomas Scholarship - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t1JT37gE/MgHSsTnaw+RIDnTAD8YtTJLbI9Zj0Nl6UuN/GVVPzqnQicrfXTmGRCL//iLHjehTR+HFJkKl4qjLQ==" />
+
+    <title itemprop="name">Mickalene Thomas Scholarship - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-mickalene-thomas-scholarship controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/mickalene-thomas-scholarship/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4958?page_id=201909">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (13/13)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="gift-from-bernard-lumpkin-and-carmine-d-boccuzzi-jr-inaugurates-mickalene-thomas-scholarship-at-the-yale-school-of-art"></a>
+  
+
+
+
+      <div id="mmi-34970" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/34970" data-event-label="Title Module Gift from Bernard Lumpkin and Carmine D. Boccuzzi, Jr. Inaugurates Mickalene Thomas Scholarship at the Yale School of Art (1/13)" data-instance-id="34970" data-id="33305">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Gift from Bernard Lumpkin and Carmine D. Boccuzzi, Jr. Inaugurates Mickalene Thomas Scholarship at the Yale School of Art
+">
+        <span role="presentation" aria-hidden="true">Gift</span>
+        <span role="presentation" aria-hidden="true">from</span>
+        <span role="presentation" aria-hidden="true">Bernard</span>
+        <span role="presentation" aria-hidden="true">Lumpkin</span>
+        <span role="presentation" aria-hidden="true">and</span>
+        <span role="presentation" aria-hidden="true">Carmine</span>
+        <span role="presentation" aria-hidden="true">D.</span>
+        <span role="presentation" aria-hidden="true">Boccuzzi,</span>
+        <span role="presentation" aria-hidden="true">Jr.</span>
+        <span role="presentation" aria-hidden="true">Inaugurates</span>
+        <span role="presentation" aria-hidden="true">Mickalene</span>
+        <span role="presentation" aria-hidden="true">Thomas</span>
+        <span role="presentation" aria-hidden="true">Scholarship</span>
+        <span role="presentation" aria-hidden="true">at</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+</h1>
+
+
+</div>
+
+
+  <a name="may-17-2023"></a>
+  
+
+
+
+      <div id="mmi-34971" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/34971" data-event-label="Title Module May 17, 2023 (2/13)" data-instance-id="34971" data-id="33272">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="May 17, 2023
+">
+        <span role="presentation" aria-hidden="true">May</span>
+        <span role="presentation" aria-hidden="true">17,</span>
+        <span role="presentation" aria-hidden="true">2023</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-34975"></a>
+  
+
+
+
+      <div id="mmi-34975" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/34975" data-event-label="Single Image Module 34975 (3/13)" data-instance-id="34975" data-id="55455">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Mickalene Thomas at Yale University, her alma mater" src="https://cdn.filestackcontent.com/resize=width:700/7wNaxOrFSziFMqctPklH" /><img class="pauseable-image__source pauseable-image__source--static" alt="Mickalene Thomas at Yale University, her alma mater" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/7wNaxOrFSziFMqctPklH" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Photo by Luisa Opalesky.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-34972"></a>
+  
+
+
+
+      <div id="mmi-34972" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/34972" data-event-label="Scrolling Text Module 34972 (4/13)" data-instance-id="34972" data-id="98230">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>The Yale School of Art is pleased to announce the establishment of the Mickalene Thomas Scholarship. Created by Bernard Lumpkin ’91 and Carmine D. Boccuzzi, Jr. ’90 LAW ’94, whose well-known art collection has recently been featured in the traveling exhibition <em>Young, Gifted, and Black: The Lumpkin-Boccuzzi Family Collection of Contemporary Art</em>, this new scholarship will be awarded yearly to an exceptional MFA student enrolled at the Yale School of Art. In addition to the monetary award, renowned artist Mickalene Thomas will personally mentor the recipient of the scholarship during their time in the program, exemplifying her dedication to supporting the next generation of artists and creators. </p>
+
+<p>“Carmine and I were thrilled when Yale approached us with this opportunity to endow a scholarship in Mickalene’s honor,” Bernard Lumpkin shared. “Artist, curator, educator, and patron: one sees her impact and influence everywhere in the art world. This scholarship will amplify her voice and vision. Mickalene has distinguished herself among other artists of her generation not only through her groundbreaking work in a range of media but also through her advocacy and activism. She’s a true patron-artist: helping other artists in countless ways and collaborating with great institutions like the Yale School of Art, where her own career began and where—thanks to this scholarship—she will in turn nurture the careers of countless others.”</p>
+
+<p>Kymberly Pinder, the Stavros Niarchos Foundation Dean of the Yale School of Art, noted, “This newly endowed scholarship in honor of Mickalene—an artist and alum who has dedicated so much of her life to mentorship—is a tremendous step forward towards meeting our goal of making the Yale School of Art debt-free. We are grateful to Bernard and Carmine for their continued support of our mission and our students.”</p>
+
+<p>Mickalene Thomas creates art historically informed work that recasts the central protagonists as women of color in the creation of a new art history that references both the civil rights movement and second wave feminism. Further, Mickalene Thomas’ mentor work reaches past the subject matter of her practice into real-world action.
+“I am incredibly grateful to the Yale School of Art, Bernard Lumpkin and Carmine Boccuzzi for the opportunity to leave my legacy at Yale University.” says Mickalene Thomas. “Earlier this year I had the honor of designing a mural of scholar Pauli Murray on campus, cementing their own legacy and taking up space as a Black femme at this prestigious institution. This scholarship is a pivotal moment for me as I follow in Pauli’s footsteps by continuing to change narratives for future generations of scholars and artists.”</p>
+
+<p>Mickalene Thomas received her MFA in 2002 from the Yale School of Art, where she has also served on the faculty as the 2020 Presidential Visiting Scholar, Critic in Painting/Printmaking, as well as a Visiting Artist. She is the founder of Art is Forward New York. Thomas has exhibited at Brooklyn Museum, The Smithsonian Museum, MoMA PS1, Seattle Art Museum, SFMoMA, National Portrait Gallery, Baltimore Museum, The Bass Museum AGO Toronto, The Wexner Center, Musée de L’Orangerie, Aspen Museum, among others. Her work is in the permanent collections of The Metropolitan Museum of Art, Brooklyn Museum, The Whitney Museum, The Guggenheim Museum, The National Portrait Gallery, Newark Museum, Seattle Art Museum, The Hara Museum, The Rubell Collection, The Studio Museum in Harlem, among other public and private institutions and collections.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-34981"></a>
+  
+
+
+
+      <div id="mmi-34981" class="announcement-module colspan-4 rag measurable magic-module" data-event-category="magic_module/announcement_module/34981" data-event-label="Announcement Module 34981 (5/13)" data-instance-id="34981" data-id="55391">                  
+<div class="announcement-module__inner">
+  <div><a href="https://www.theartnewspaper.com/2023/05/17/mickalene-thomas-scholarship-bernard-lumpkin-carmine-boccuzzi" target=_blank"><strong>Read more in</strong> <strong><em>The Art Newspaper</em></strong> &gt;</a></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-34973"></a>
+  
+
+
+
+      <div id="mmi-34973" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/34973" data-event-label="Divider Module 34973 (6/13)" data-instance-id="34973" data-id="56675">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="about-yale-school-of-art"></a>
+  
+
+
+
+      <div id="mmi-34976" class="title-module colspan-1 rag title-module--prominence-3 colspan-1 rag measurable magic-module" data-event-category="magic_module/title_module/34976" data-event-label="Title Module About Yale School of Art (7/13)" data-instance-id="34976" data-id="33273">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="About Yale School of Art
+">
+        <span role="presentation" aria-hidden="true">About</span>
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-34977"></a>
+  
+
+
+
+      <div id="mmi-34977" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/34977" data-event-label="Scrolling Text Module 34977 (8/13)" data-instance-id="34977" data-id="98199">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>The Yale School of Art provides students with intellectually informed, hands-on instruction in the practice of an array of visual arts media within the context of a liberal arts university. As a part of the first institution of higher learning to successfully integrate a studio-based education into such a broad pedagogical framework, the Yale School of Art has a long and distinguished history of training artists of the highest caliber. A full-time faculty of working artists in conjunction with a diverse cross-section of accomplished visiting artists collaborate to design a program and foster an environment where the unique talents and perspectives of individual students can emerge and flourish.</p>
+
+<p>The school currently offers graduate degrees and undergraduate majors in the areas of graphic design, painting/printmaking, photography, and sculpture.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="about-mickalene-thomas"></a>
+  
+
+
+
+      <div id="mmi-34978" class="title-module colspan-1 rag title-module--prominence-3 colspan-1 rag measurable magic-module" data-event-category="magic_module/title_module/34978" data-event-label="Title Module About Mickalene Thomas (9/13)" data-instance-id="34978" data-id="33274">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="About Mickalene Thomas
+">
+        <span role="presentation" aria-hidden="true">About</span>
+        <span role="presentation" aria-hidden="true">Mickalene</span>
+        <span role="presentation" aria-hidden="true">Thomas</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-34979"></a>
+  
+
+
+
+      <div id="mmi-34979" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/34979" data-event-label="Scrolling Text Module 34979 (10/13)" data-instance-id="34979" data-id="98200">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    Mickalene Thomas was born and raised in New Jersey and lives and works in Brooklyn, NY. One of the most influential artists in the world today, her innovative practice has yielded instantly recognizable and widely celebrated aesthetic languages within contemporary visual culture. She is known for her elaborate paintings composed of rhinestones, acrylic, and enamel. Not only do her masterful mixed-media paintings, photographs, films and installations command space, they occupy eloquently while dissecting the intersecting complexities of black and female identity within the Western canon. Outside of her core practice, Thomas is a Tony Awards nominated co-producer, curator, educator and mentor to many emerging artists. While embarking on her own monumental solo shows, she simultaneously curates exhibitions at galleries and museums. Thomas’s work has become an undeniable force within the contemporary art world and an indispensable inspiration to younger generations of artists. In addition to an Honorary Doctorate in Fine Arts from the New York Academy of Art (2018) and a United States Artists Francie Bishop Good &amp; David Horvitz Fellow (2015), she has been awarded multiple other prizes and grants, including the Pratt Institute Legends Award (2022); Rema Hort Mann Foundation 25th Anniversary Honoree (2022); Artistic Impact Award, Newark Museum (2022); Glass House 15th Anniversary Artist of the Year (2022); Yale School of Art Presidential Visiting Fellow in Fine Arts (2020); Legend in Residence Award, Bronx Museum (2020); Pauli Murray College Associate Fellow at Yale University (2020); Appraisers Association of America, Award for Excellence in the Arts, (2019); Meyerhoff-Becker Biennial Commission at Baltimore Museum of Art (2019); Visionary Award, Pioneer Works (2019); She is the founder of the Art is Forward foundation, co-founder of the Pratt&gt;FORWARD ‘Artist in the Market’ incubator for post-graduate students, and serves on the Board of the Trustees for the Brooklyn Museum and MoMA PS1.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-34980"></a>
+  
+
+
+
+      <div id="mmi-34980" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/34980" data-event-label="Divider Module 34980 (11/13)" data-instance-id="34980" data-id="56676">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-34974"></a>
+  
+
+
+
+      <div id="mmi-34974" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/34974" data-event-label="Scrolling Text Module 34974 (12/13)" data-instance-id="34974" data-id="98197">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/mickalene-thomas-scholarship/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4958?page_id=201909">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/mickalene-thomas-scholarship/pages/201909');
+</script>
+
+    </body>
+
+</html>

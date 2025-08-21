@@ -1,0 +1,861 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Newsletters - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OR1so6w0NIsPsvJqd6WvEN/CrOxfhOWu1qkRf9B8KJwDs1opKwpvAS/TS/n6sy67GeknzXCQmvo9MtH6BJNi+g==" />
+
+    <title itemprop="name">Newsletters - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--newsletters controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/newsletters/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4659?page_id=197993">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-29891" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/29891" data-event-label="Background Module 29891 (1/26)" data-instance-id="29891" data-id="34077">                  
+
+    <style>
+
+        .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/2sEIQSwRmCXYrnqbw12Q);
+          background-repeat: repeat;
+        }
+        html.animations-paused .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/output=format:jpg/2sEIQSwRmCXYrnqbw12Q);
+        }
+
+
+        .backgrounds__stripe {
+          background-color: #78A9E8;
+        }
+
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="newsletter-archive"></a>
+  
+
+
+
+      <div id="mmi-29850" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29850" data-event-label="Title Module Newsletter Archive (2/26)" data-instance-id="29850" data-id="30788">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Newsletter Archive
+">
+        <span role="presentation" aria-hidden="true">Newsletter</span>
+        <span role="presentation" aria-hidden="true">Archive</span>
+</h1>
+
+
+</div>
+
+
+  <a name="mmi-29851"></a>
+  
+
+
+
+      <div id="mmi-29851" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29851" data-event-label="Scrolling Text Module 29851 (3/26)" data-instance-id="29851" data-id="95123">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>Below please find a complete archive of mailings sent out by the Yale School of Art’s Communications Office through Mailchimp. We primarily send out four types of emails: regular updates to our internal and public communities during the academic year, as well as announcements and reminders intended for both the current SoA community and our broader public audience.</p>
+
+<p>This archival page <strong>does not</strong> include messages sent to the SoA community directly from the Communications Office through Outlook. </p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="soa-community-mailings"></a>
+  
+
+
+
+      <div id="mmi-29852" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29852" data-event-label="Title Module SoA Community Mailings (4/26)" data-instance-id="29852" data-id="30766">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="SoA Community Mailings
+">
+        <span role="presentation" aria-hidden="true">SoA</span>
+        <span role="presentation" aria-hidden="true">Community</span>
+        <span role="presentation" aria-hidden="true">Mailings</span>
+</h2>
+
+
+</div>
+
+
+  <a name="week-at-soa"></a>
+  
+
+
+
+      <div id="mmi-29854" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29854" data-event-label="Title Module Week at SoA (5/26)" data-instance-id="29854" data-id="30783">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Week at SoA
+">
+        <span role="presentation" aria-hidden="true">Week</span>
+        <span role="presentation" aria-hidden="true">at</span>
+        <span role="presentation" aria-hidden="true">SoA</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-29855"></a>
+  
+
+
+
+      <div id="mmi-29855" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29855" data-event-label="Scrolling Text Module 29855 (6/26)" data-instance-id="29855" data-id="94780">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 14px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+
+<script language="javascript" src="//yale.us14.list-manage.com/generate-js/?u=c7ccb8ef693ab66aa235e6c03&amp;fid=9961&amp;show=10" type="text/javascript"></script>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29884"></a>
+  
+
+
+
+      <div id="mmi-29884" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29884" data-event-label="Scrolling Text Module 29884 (7/26)" data-instance-id="29884" data-id="94761">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <a href="/weekat">See all &gt;&gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29888"></a>
+  
+
+
+
+      <div id="mmi-29888" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/29888" data-event-label="Divider Module 29888 (8/26)" data-instance-id="29888" data-id="55645">
+</div>
+
+
+  <a name="community-announcements-reminders"></a>
+  
+
+
+
+      <div id="mmi-29856" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29856" data-event-label="Title Module Community Announcements &amp; Reminders (9/26)" data-instance-id="29856" data-id="30784">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Community Announcements &amp; Reminders
+">
+        <span role="presentation" aria-hidden="true">Community</span>
+        <span role="presentation" aria-hidden="true">Announcements</span>
+        <span role="presentation" aria-hidden="true">&amp;</span>
+        <span role="presentation" aria-hidden="true">Reminders</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-29853"></a>
+  
+
+
+
+      <div id="mmi-29853" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29853" data-event-label="Scrolling Text Module 29853 (10/26)" data-instance-id="29853" data-id="94778">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 14px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+
+<script language="javascript" src="//yale.us14.list-manage.com/generate-js/?u=c7ccb8ef693ab66aa235e6c03&amp;fid=11956&amp;show=10" type="text/javascript"></script>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29885"></a>
+  
+
+
+
+      <div id="mmi-29885" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29885" data-event-label="Scrolling Text Module 29885 (11/26)" data-instance-id="29885" data-id="94763">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <a href="/community-announcement-archive">See all &gt;&gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29889"></a>
+  
+
+
+
+      <div id="mmi-29889" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/29889" data-event-label="Divider Module 29889 (12/26)" data-instance-id="29889" data-id="55646">
+</div>
+
+
+  <a name="thesis-exhibitions"></a>
+  
+
+
+
+      <div id="mmi-29857" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29857" data-event-label="Title Module Thesis Exhibitions (13/26)" data-instance-id="29857" data-id="30785">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Thesis Exhibitions
+">
+        <span role="presentation" aria-hidden="true">Thesis</span>
+        <span role="presentation" aria-hidden="true">Exhibitions</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-29858"></a>
+  
+
+
+
+      <div id="mmi-29858" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29858" data-event-label="Scrolling Text Module 29858 (14/26)" data-instance-id="29858" data-id="94781">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 14px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+
+<script language="javascript" src="//yale.us14.list-manage.com/generate-js/?u=c7ccb8ef693ab66aa235e6c03&amp;fid=11960&amp;show=10" type="text/javascript"></script>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29859"></a>
+  
+
+
+
+      <div id="mmi-29859" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/29859" data-event-label="Divider Module 29859 (15/26)" data-instance-id="29859" data-id="55647">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="public-mailings"></a>
+  
+
+
+
+      <div id="mmi-29860" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29860" data-event-label="Title Module Public Mailings (16/26)" data-instance-id="29860" data-id="30770">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="Public Mailings
+">
+        <span role="presentation" aria-hidden="true">Public</span>
+        <span role="presentation" aria-hidden="true">Mailings</span>
+</h2>
+
+
+</div>
+
+
+  <a name="news-from-new-haven"></a>
+  
+
+
+
+      <div id="mmi-29861" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29861" data-event-label="Title Module News from New Haven (17/26)" data-instance-id="29861" data-id="30786">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="News from New Haven
+">
+        <span role="presentation" aria-hidden="true">News</span>
+        <span role="presentation" aria-hidden="true">from</span>
+        <span role="presentation" aria-hidden="true">New</span>
+        <span role="presentation" aria-hidden="true">Haven</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-29862"></a>
+  
+
+
+
+      <div id="mmi-29862" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29862" data-event-label="Scrolling Text Module 29862 (18/26)" data-instance-id="29862" data-id="94782">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 14px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+
+<script language="javascript" src="//yale.us14.list-manage.com/generate-js/?u=c7ccb8ef693ab66aa235e6c03&amp;fid=9957&amp;show=10" type="text/javascript"></script>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29886"></a>
+  
+
+
+
+      <div id="mmi-29886" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29886" data-event-label="Scrolling Text Module 29886 (19/26)" data-instance-id="29886" data-id="94764">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <a href="/newsfromnewhaven">See all &gt;&gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29890"></a>
+  
+
+
+
+      <div id="mmi-29890" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/29890" data-event-label="Divider Module 29890 (20/26)" data-instance-id="29890" data-id="55648">
+</div>
+
+
+  <a name="public-events-announcements"></a>
+  
+
+
+
+      <div id="mmi-29863" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/29863" data-event-label="Title Module Public Events &amp; Announcements (21/26)" data-instance-id="29863" data-id="30787">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Public Events &amp; Announcements
+">
+        <span role="presentation" aria-hidden="true">Public</span>
+        <span role="presentation" aria-hidden="true">Events</span>
+        <span role="presentation" aria-hidden="true">&amp;</span>
+        <span role="presentation" aria-hidden="true">Announcements</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-29864"></a>
+  
+
+
+
+      <div id="mmi-29864" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29864" data-event-label="Scrolling Text Module 29864 (22/26)" data-instance-id="29864" data-id="94783">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 14px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+
+<script language="javascript" src="//yale.us14.list-manage.com/generate-js/?u=c7ccb8ef693ab66aa235e6c03&amp;fid=11964&amp;show=10" type="text/javascript"></script>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29887"></a>
+  
+
+
+
+      <div id="mmi-29887" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29887" data-event-label="Scrolling Text Module 29887 (23/26)" data-instance-id="29887" data-id="94765">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <a href="/news">See all School of Art news &gt;&gt;</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29865"></a>
+  
+
+
+
+      <div id="mmi-29865" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/29865" data-event-label="Divider Module 29865 (24/26)" data-instance-id="29865" data-id="55641">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-29892"></a>
+  
+
+
+
+      <div id="mmi-29892" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29892" data-event-label="Scrolling Text Module 29892 (25/26)" data-instance-id="29892" data-id="94784">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    Background image by Kyla Arsadjaja, Graphic Design MFA ‘20.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-3629"></a>
+  
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (26/26)" data-instance-id="3629" data-id="30689">
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/newsletters/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4659?page_id=197993">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/newsletters/pages/197993');
+</script>
+
+    </body>
+
+</html>

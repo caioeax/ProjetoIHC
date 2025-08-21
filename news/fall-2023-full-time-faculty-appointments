@@ -1,0 +1,666 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Fall 2023 Full Time Faculty Appointments - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DEdDllOyLz1lrvqr3F55QNW7MxHguJAnz8fKOpmQOIs26XUc1Ix0t0XPQzhRSPjrE5C4MM+s73MkXAq/TX9y7Q==" />
+
+    <title itemprop="name">Fall 2023 Full Time Faculty Appointments - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-fall-2023-full-time-faculty-appointments controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/fall-2023-full-time-faculty-appointments/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4970?page_id=202014">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (14/14)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="yeju-choi-andrew-walsh-lister-and-alvin-ashiatey-join-graphic-design-in-new-full-time-faculty-appointments"></a>
+  
+
+
+
+      <div id="mmi-35276" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/35276" data-event-label="Title Module Yeju Choi, Andrew Walsh-Lister, and Alvin Ashiatey join Graphic Design in new full-time faculty appointments (1/14)" data-instance-id="35276" data-id="33377">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Yeju Choi, Andrew Walsh-Lister, and Alvin Ashiatey join Graphic Design in new full-time faculty appointments
+">
+        <span role="presentation" aria-hidden="true">Yeju</span>
+        <span role="presentation" aria-hidden="true">Choi,</span>
+        <span role="presentation" aria-hidden="true">Andrew</span>
+        <span role="presentation" aria-hidden="true">Walsh-Lister,</span>
+        <span role="presentation" aria-hidden="true">and</span>
+        <span role="presentation" aria-hidden="true">Alvin</span>
+        <span role="presentation" aria-hidden="true">Ashiatey</span>
+        <span role="presentation" aria-hidden="true">join</span>
+        <span role="presentation" aria-hidden="true">Graphic</span>
+        <span role="presentation" aria-hidden="true">Design</span>
+        <span role="presentation" aria-hidden="true">in</span>
+        <span role="presentation" aria-hidden="true">new</span>
+        <span role="presentation" aria-hidden="true">full-time</span>
+        <span role="presentation" aria-hidden="true">faculty</span>
+        <span role="presentation" aria-hidden="true">appointments</span>
+</h1>
+
+
+</div>
+
+
+  <a name="august-14-2023"></a>
+  
+
+
+
+      <div id="mmi-35277" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/35277" data-event-label="Title Module August 14, 2023 (2/14)" data-instance-id="35277" data-id="33378">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="August 14, 2023
+">
+        <span role="presentation" aria-hidden="true">August</span>
+        <span role="presentation" aria-hidden="true">14,</span>
+        <span role="presentation" aria-hidden="true">2023</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-35278"></a>
+  
+
+
+
+      <div id="mmi-35278" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/35278" data-event-label="Scrolling Text Module 35278 (3/14)" data-instance-id="35278" data-id="98375">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    The Yale School of Art is pleased to announce three new full-time faculty appointments in the area of graduate study in Graphic Design. Yeju Choi, Critic in Graphic Design since 2012 and 2009 MFA alum, joins as full-time Core Faculty; Andrew Walsh-Lister, 2012 alum in Graphic Design, has been appointed Critic; and Alvin Ashiatey, 2022 alum of the program and former fellow at the Center for Collaborative Arts &amp; Media, has been appointed Lecturer.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-35281"></a>
+  
+
+
+
+      <div id="mmi-35281" class="slideshow-module colspan-4 rag measurable magic-module" data-event-category="magic_module/slideshow_module/35281" data-event-label="Slideshow Module 35281 (4/14)" data-instance-id="35281" data-id="7275">                  
+    <div class="slideshow-module__inner" >
+
+        <div id="mmi-35281_Pager" class="slideshow-module__pagination" role="navigation" aria-label="slideshow pagination">
+            
+
+            <span class="slideshow-module__pagination-item" role="presentation">
+                &lt; prev
+            </span>
+
+        <span class="slideshow-module__pagination-item slideshow-module__pagination-item--current-page" aria-label="You are on slide 1 of 3" aria-live="polite">1 / 3</span>
+
+
+        <a class="slideshow-module__pagination-item-container" data-direction="next" aria-label="Go to the next slide" data-remote="true" href="/magic_modules/slideshow_module?id=7275&amp;image=1">
+            <span class="slideshow-module__pagination-item" tabindex="-1">next &gt;</span>
+</a>
+
+        </div>
+
+        <div id="mmi-35281_Image" class="slideshow-module__slide-container">
+            <div class="slideshow-module__slide">
+  
+    <a target="blowup" href="https://cdn.filestackcontent.com/RUygaw5bRT2BTT61j455"><div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/RUygaw5bRT2BTT61j455" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/RUygaw5bRT2BTT61j455" /></div><span class="visually-hidden">(opens in a new window)</span></a>
+
+    <div class="slideshow-module__caption">“On End” (2022), Cleveland, OH by Yeju &amp; Chat (Yeju Choi &amp; Chat Travieso), commissioned by Cleveland Public Library Power-coated steel, steel hardware  A series of site-specific sculptures composed of hundreds of bookends for the Cleveland Public Library’s Eastman Reading Garden.</div>
+</div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+  <a name="about-yeju-choi"></a>
+  
+
+
+
+      <div id="mmi-35282" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/35282" data-event-label="Scrolling Text Module About Yeju Choi (5/14)" data-instance-id="35282" data-id="98376">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    <h4 class="scrolling-text-module__title page-title--prominence-4">About Yeju Choi</h4>
+    <p>Yeju Choi is a designer, artist, and educator based in New York City. Her independent design practice Nowhere Office focuses on projects in civic, public, and cultural sectors. Working closely with artists, architects, planners, nonprofits, city agencies, and community organizations, she develops strategies and contents, and designs identity systems, publications, websites, environmental graphics, and exhibitions. She also creates site-specific, community-based, and socially engaged public art projects as Yeju &amp; Chat, an interdisciplinary collaborative practice she founded with Chat Travieso in 2013.</p>
+
+<p>Yeju has been teaching at Yale School of Art since 2012, courses including Exhibition Design, Core I Design Studio, and Introduction to Graphic Design. She has been a visiting critic, held workshops and lectures at MoMA, Columbia University, Cornell University, The New School, City College of New York, RISD, Rutgers University, and Seoul National University, among others, in graphic design and architecture/urban design departments. Her work has been recognized, published, and exhibited internationally by AIGA, Artplace, Type Directors Club, :Output award, Graphic, Typojanchi the International Typography Biennale, Gwangju Design Biennale, etc., and she received a NYSCA/NYFA Fellowship in Architecture/Environmental Structures/Design in 2019. Originally from Seoul, South Korea, Yeju received a B.F.A from Seoul National University and an M.F.A from Yale University where she received Norman Joondeph Prize and Phelps Berdan Award.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-35283"></a>
+  
+
+
+
+      <div id="mmi-35283" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/35283" data-event-label="Divider Module 35283 (6/14)" data-instance-id="35283" data-id="56722">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-35284"></a>
+  
+
+
+
+      <div id="mmi-35284" class="slideshow-module colspan-4 rag measurable magic-module" data-event-category="magic_module/slideshow_module/35284" data-event-label="Slideshow Module 35284 (7/14)" data-instance-id="35284" data-id="7273">                  
+    <div class="slideshow-module__inner" >
+
+        <div id="mmi-35284_Pager" class="slideshow-module__pagination" role="navigation" aria-label="slideshow pagination">
+            
+
+            <span class="slideshow-module__pagination-item" role="presentation">
+                &lt; prev
+            </span>
+
+        <span class="slideshow-module__pagination-item slideshow-module__pagination-item--current-page" aria-label="You are on slide 1 of 4" aria-live="polite">1 / 4</span>
+
+
+        <a class="slideshow-module__pagination-item-container" data-direction="next" aria-label="Go to the next slide" data-remote="true" href="/magic_modules/slideshow_module?id=7273&amp;image=1">
+            <span class="slideshow-module__pagination-item" tabindex="-1">next &gt;</span>
+</a>
+
+        </div>
+
+        <div id="mmi-35284_Image" class="slideshow-module__slide-container">
+            <div class="slideshow-module__slide">
+  
+    <a target="blowup" href="https://cdn.filestackcontent.com/NqWoLoPoToGgDJ3FsTZE"><div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/NqWoLoPoToGgDJ3FsTZE" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/NqWoLoPoToGgDJ3FsTZE" /></div><span class="visually-hidden">(opens in a new window)</span></a>
+
+    <div class="slideshow-module__caption">“lily greenham cannot be pigeon-holed,” white uv on pvc and risograph print edition, 2023. Text edition produced during a five week residency at Frans Masereel Centrum.</div>
+</div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+  <a name="about-andrew-walsh-lister"></a>
+  
+
+
+
+      <div id="mmi-35285" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/35285" data-event-label="Scrolling Text Module About Andrew Walsh-Lister (8/14)" data-instance-id="35285" data-id="98377">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    <h4 class="scrolling-text-module__title page-title--prominence-4">About Andrew Walsh-Lister</h4>
+    Andrew Walsh-Lister is a typographer, writer and curator based between the US and UK. He holds an MFA from Yale School of Art and is a current PhD candidate in Arts &amp;
+Humanities at the Royal College of Art, London. Together with Matthew Stuart he co-edits the irregular journal / multifarious publishing platform Bricks from the Kiln, which was established in mid-2015. He has held a number of academic positions, including 2019–21 Designer-in-Residence at Virginia Commonwealth University, Assistant Professor at University of Illinois Chicago, Senior Lecturer at University of Brighton and Teaching Fellow at Winchester School of Art, and has also taught and delivered workshops at Goldsmiths University, Estonian Academy of Arts, Central Saint Martins, Oslo School of Architecture &amp; Design, Cooper Union and ELISAVA Barcelona, among others. His practice and research has manifested in a range of talks, lecture-performances, exhibitions and events at institutions including MoMA PS1, Graham Foundation, The Most Beautiful Swiss Books, Mahler &amp; LeWitt Studios London, ICA London, Wysing Arts Centre, Scottish National Gallery of Modern Art, abC Art Book Fair, Cafe OTO, Chicago Architecture Biennial and Brno International Biennial of Graphic Design. He has been awarded residencies at the Frans Masereel Centrum and Ox-Bow School of Art, and has works in permanent collections including the Little Magazines Collection at University College London, Joan Flasch Artists’ Book Collection at the School of the Art Institute of Chicago and the National Poetry Library in London.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-35286"></a>
+  
+
+
+
+      <div id="mmi-35286" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/35286" data-event-label="Divider Module 35286 (9/14)" data-instance-id="35286" data-id="56723">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-35287"></a>
+  
+
+
+
+      <div id="mmi-35287" class="slideshow-module colspan-4 rag measurable magic-module" data-event-category="magic_module/slideshow_module/35287" data-event-label="Slideshow Module 35287 (10/14)" data-instance-id="35287" data-id="7274">                  
+    <div class="slideshow-module__inner" >
+
+        <div id="mmi-35287_Pager" class="slideshow-module__pagination" role="navigation" aria-label="slideshow pagination">
+            
+
+            <span class="slideshow-module__pagination-item" role="presentation">
+                &lt; prev
+            </span>
+
+        <span class="slideshow-module__pagination-item slideshow-module__pagination-item--current-page" aria-label="You are on slide 1 of 3" aria-live="polite">1 / 3</span>
+
+
+        <a class="slideshow-module__pagination-item-container" data-direction="next" aria-label="Go to the next slide" data-remote="true" href="/magic_modules/slideshow_module?id=7274&amp;image=1">
+            <span class="slideshow-module__pagination-item" tabindex="-1">next &gt;</span>
+</a>
+
+        </div>
+
+        <div id="mmi-35287_Image" class="slideshow-module__slide-container">
+            <div class="slideshow-module__slide">
+  
+    <a target="blowup" href="https://cdn.filestackcontent.com/WwkwPX2cTyoEUX0DhxIA"><div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="" src="https://cdn.filestackcontent.com/resize=width:700/WwkwPX2cTyoEUX0DhxIA" /><img class="pauseable-image__source pauseable-image__source--static" alt="" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/WwkwPX2cTyoEUX0DhxIA" /></div><span class="visually-hidden">(opens in a new window)</span></a>
+
+    <div class="slideshow-module__caption">“GoldCoast Railway” Typeface design and keyboard build. Image by Alvin Ashiatey</div>
+</div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+  <a name="about-alvin-ashiatey"></a>
+  
+
+
+
+      <div id="mmi-35288" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/35288" data-event-label="Scrolling Text Module About Alvin Ashiatey (11/14)" data-instance-id="35288" data-id="98378">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    <h4 class="scrolling-text-module__title page-title--prominence-4">About Alvin Ashiatey</h4>
+    Alvin Ashiatey is a designer from Tema, Ghana, now based in New Haven, Connecticut. He earned his BFA from the Kwame Nkrumah University of Science and Technology in 2015 and his MFA from Yale University in 2022. Alvin was the inaugural Blended Reality Postgraduate Fellow for both the Yale School of Art and the Yale Center for Collaborative Arts and Media. He has also taught at Mason Gross and Rutgers University. Alvin’s work blends Ghanaian influences with a combination of technology.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-35279"></a>
+  
+
+
+
+      <div id="mmi-35279" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/35279" data-event-label="Divider Module 35279 (12/14)" data-instance-id="35279" data-id="56721">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-35280"></a>
+  
+
+
+
+      <div id="mmi-35280" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/35280" data-event-label="Scrolling Text Module 35280 (13/14)" data-instance-id="35280" data-id="98374">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/fall-2023-full-time-faculty-appointments/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4970?page_id=202014">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/fall-2023-full-time-faculty-appointments/pages/202014');
+</script>
+
+    </body>
+
+</html>

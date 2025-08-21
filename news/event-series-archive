@@ -1,0 +1,771 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Event Series Archive - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LqgkB3ybDJfkMR3LOcIfoJFrn8pAXr4UewTgv/VAPXgUBhKN+6VXHcRQpFi01J4LV0AU629KwUCQnyA6Ia93Hg==" />
+
+    <title itemprop="name">Event Series Archive - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-event-series-archive controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/event-series-archive/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4616?page_id=201954">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-28733" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/28733" data-event-label="Background Module 28733 (1/21)" data-instance-id="28733" data-id="33904">                  
+
+    <style>
+
+        .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/RcXI4F0nTtCAggsSFknM);
+          background-repeat: repeat;
+        }
+        html.animations-paused .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/output=format:jpg/RcXI4F0nTtCAggsSFknM);
+        }
+
+
+        .backgrounds__stripe {
+          background-color: #C6C6B8;
+        }
+
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="events-archive"></a>
+  
+
+
+
+      <div id="mmi-28717" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28717" data-event-label="Title Module Events Archive (2/21)" data-instance-id="28717" data-id="32283">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Events Archive
+">
+        <span role="presentation" aria-hidden="true">Events</span>
+        <span role="presentation" aria-hidden="true">Archive</span>
+</h1>
+
+
+</div>
+
+
+  <a name="mmi-28730"></a>
+  
+
+
+
+      <div id="mmi-28730" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28730" data-event-label="Scrolling Text Module 28730 (3/21)" data-instance-id="28730" data-id="93915">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3">Initiated in the spring of 2021, this page functions as a continuously updated archive of all event series hosted by the Yale School of Art.</font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28731"></a>
+  
+
+
+
+      <div id="mmi-28731" class="jump-links-module colspan-4 rag measurable magic-module" data-event-category="magic_module/jump_links_module/28731" data-event-label="Jump Links Module 28731 (4/21)" data-instance-id="28731" data-id="193">                  <p class="jump-links-module__title">
+  <span>On this page</span>
+</p>
+
+<ul class="jump-links-module__links list--blank">
+    <li><a data-turbolinks="false" href="#ongoing">Ongoing</a></li>
+    <li><a data-turbolinks="false" href="#current-series">Current</a></li>
+    <li><a data-turbolinks="false" href="#past-series">Past</a></li>
+</ul>
+
+</div>
+
+
+  <a name="mmi-28732"></a>
+  
+
+
+
+      <div id="mmi-28732" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28732" data-event-label="Divider Module 28732 (5/21)" data-instance-id="28732" data-id="55386">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="ongoing"></a>
+  
+
+
+
+      <div id="mmi-28719" class="title-module colspan-3 rag title-module--prominence-3 colspan-3 rag measurable magic-module" data-event-category="magic_module/title_module/28719" data-event-label="Title Module Ongoing (6/21)" data-instance-id="28719" data-id="32284">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Ongoing
+">
+        <span role="presentation" aria-hidden="true">Ongoing</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-28720"></a>
+  
+
+
+
+      <div id="mmi-28720" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28720" data-event-label="Scrolling Text Module 28720 (7/21)" data-instance-id="28720" data-id="98278">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/news/events/visiting-artist-lectures">Visiting Artist Lectures</a></font></p>
+
+<p><strong>archived online beginning Spring 2020 – ongoing</strong></p>
+
+<p><em>hosted &amp; organized as part of the pedagogical framework of the</em> <strong><em>four areas of graduate study</em></strong> <em>at the Yale School of Art</em></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-32766"></a>
+  
+
+
+
+      <div id="mmi-32766" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/32766" data-event-label="Scrolling Text Module 32766 (8/21)" data-instance-id="32766" data-id="96743">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/about/visiting/open-studios">Open Studios</a></font></p>
+
+<p><strong>ongoing; web-archives beginning 2018</strong></p>
+
+<p><em>each April, the Yale School of Art hosts its annual graduate open studios, with work presented in Graphic Design, Painting/Printmaking, Photography, and Sculpture</em></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28721"></a>
+  
+
+
+
+      <div id="mmi-28721" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28721" data-event-label="Divider Module 28721 (9/21)" data-instance-id="28721" data-id="55383">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="current-series"></a>
+  
+
+
+
+      <div id="mmi-28722" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28722" data-event-label="Title Module Current Series (10/21)" data-instance-id="28722" data-id="30440">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Current Series
+">
+        <span role="presentation" aria-hidden="true">Current</span>
+        <span role="presentation" aria-hidden="true">Series</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-28819"></a>
+  
+
+
+
+      <div id="mmi-28819" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28819" data-event-label="Scrolling Text Module 28819 (11/21)" data-instance-id="28819" data-id="94939">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/photo-pop-up-lecture-series">Yale Photo Pop Up Lecture Series</a></font></p>
+
+<p>Season 1: <strong>April 1 – May 10, 2020</strong></p>
+
+<p>Season 2: <strong>April 5 – May 10, 2021</strong></p>
+
+<p><em>initiated and hosted by Director of Graduate Studies</em> <strong><em>Gregory Crewdson</em></strong></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28725"></a>
+  
+
+
+
+      <div id="mmi-28725" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28725" data-event-label="Scrolling Text Module 28725 (12/21)" data-instance-id="28725" data-id="93930">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/antiracism-speaker-series">Antiracism Speaker Series</a></font></p>
+
+<p><strong>June 3, 2020 – ongoing</strong></p>
+
+<p><em>initiated by Associate Professor &amp; Co-Director</em> <strong><em>Meleko Mokgosi</em></strong> <em>and led by School of Art faculty</em></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28726"></a>
+  
+
+
+
+      <div id="mmi-28726" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28726" data-event-label="Divider Module 28726 (13/21)" data-instance-id="28726" data-id="55384">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="past-series"></a>
+  
+
+
+
+      <div id="mmi-28727" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28727" data-event-label="Title Module Past series (14/21)" data-instance-id="28727" data-id="30441">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Past series
+">
+        <span role="presentation" aria-hidden="true">Past</span>
+        <span role="presentation" aria-hidden="true">series</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-28723"></a>
+  
+
+
+
+      <div id="mmi-28723" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28723" data-event-label="Scrolling Text Module 28723 (15/21)" data-instance-id="28723" data-id="94940">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/graphic-design-guest-speaker-series">Graphic Design Guest Speaker Series</a></font></p>
+
+<p><strong>September 16, 2020 – April 29, 2021</strong></p>
+
+<p><em>curated by Director of Graduate Studies</em> <strong><em>Sheila Levrant de Bretteville</em></strong> <em>alongside Senior Critics</em> <strong><em>Forest Young</em></strong> and <strong><em>Manuel Miranda</em></strong>, <em>and in response to requests from the returning MFA class of 2021</em></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28724"></a>
+  
+
+
+
+      <div id="mmi-28724" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28724" data-event-label="Scrolling Text Module 28724 (16/21)" data-instance-id="28724" data-id="96740">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/speak-to-me">Speak to Me</a></font></p>
+
+<p><strong>June 9, 2020 – December 3, 2020</strong></p>
+
+<p><em>a Yale School of Art forum organized with</em> <strong><em>Claudia Rankine, Marta Kuzma</em></strong>, <em>and</em> <strong><em>Leah Mirakhor</em></strong></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-29265"></a>
+  
+
+
+
+      <div id="mmi-29265" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/29265" data-event-label="Scrolling Text Module 29265 (17/21)" data-instance-id="29265" data-id="94392">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/sculpture/publics-outside-in-lecture-series">Publics / Outside In Lecture Series</a></font></p>
+
+<p><strong>February 26 – April 24, 2021</strong></p>
+
+<p><em>organized by</em> <strong><em>Elizabeth Tubergen</em></strong> <em>and</em> <strong><em>Desmond Lewis</em></strong> <em>as part of their graduate courses “Publics” and “Outside In"</em></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28728"></a>
+  
+
+
+
+      <div id="mmi-28728" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28728" data-event-label="Scrolling Text Module 28728 (18/21)" data-instance-id="28728" data-id="93914">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4"><a href="/150th/events">150th Event Series</a></font></p>
+
+<p><strong>Fall 2019 &amp; Spring 2020</strong></p>
+
+<p><em>a series of public talks and community events organized</em> <strong><em>in celebration of the Yale School of Art’s 150th year</em></strong></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28729"></a>
+  
+
+
+
+      <div id="mmi-28729" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28729" data-event-label="Divider Module 28729 (19/21)" data-instance-id="28729" data-id="55385">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-28734"></a>
+  
+
+
+
+      <div id="mmi-28734" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28734" data-event-label="Scrolling Text Module 28734 (20/21)" data-instance-id="28734" data-id="93916">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    Background GIF by <a href="https://giphy.com/gifs/jellygummies-fSeQICKvIpaGlNK8o4">jellygummies via GIPHY.</a>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-3629"></a>
+  
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (21/21)" data-instance-id="3629" data-id="30689">
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/event-series-archive/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4616?page_id=201954">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/event-series-archive/pages/201954');
+</script>
+
+    </body>
+
+</html>

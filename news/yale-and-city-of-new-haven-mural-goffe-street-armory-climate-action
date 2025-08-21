@@ -1,0 +1,776 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Yale And City Of New Haven Mural Goffe Street Armory Climate Action - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N7uT+olO4ziZOtTgD+cf+TuMa7B2B7IqIxwAa0+toQUNFaVwDnC4srlbbXOC8Z5S/afgkVkTzX7Ih8Dum0LrYw==" />
+
+    <title itemprop="name">Yale And City Of New Haven Mural Goffe Street Armory Climate Action - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-yale-and-city-of-new-haven-mural-goffe-street-armory-climate-action controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/yale-and-city-of-new-haven-mural-goffe-street-armory-climate-action/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5692?page_id=207631">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (16/16)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="yale-the-city-of-new-haven-partner-on-historic-mural-at-the-goffe-street-armory-to-make-climate-action-more-inclusive"></a>
+  
+
+
+
+      <div id="mmi-38867" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/38867" data-event-label="Title Module Yale &amp; the City of New Haven partner on historic mural at the Goffe Street Armory to make Climate Action more inclusive (1/16)" data-instance-id="38867" data-id="35570">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Yale &amp; the City of New Haven partner on historic mural at the Goffe Street Armory to make Climate Action more inclusive
+">
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">&amp;</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">City</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">New</span>
+        <span role="presentation" aria-hidden="true">Haven</span>
+        <span role="presentation" aria-hidden="true">partner</span>
+        <span role="presentation" aria-hidden="true">on</span>
+        <span role="presentation" aria-hidden="true">historic</span>
+        <span role="presentation" aria-hidden="true">mural</span>
+        <span role="presentation" aria-hidden="true">at</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">Goffe</span>
+        <span role="presentation" aria-hidden="true">Street</span>
+        <span role="presentation" aria-hidden="true">Armory</span>
+        <span role="presentation" aria-hidden="true">to</span>
+        <span role="presentation" aria-hidden="true">make</span>
+        <span role="presentation" aria-hidden="true">Climate</span>
+        <span role="presentation" aria-hidden="true">Action</span>
+        <span role="presentation" aria-hidden="true">more</span>
+        <span role="presentation" aria-hidden="true">inclusive</span>
+</h1>
+
+
+</div>
+
+
+  <a name="september-17-2024"></a>
+  
+
+
+
+      <div id="mmi-38868" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/38868" data-event-label="Title Module September 17, 2024 (2/16)" data-instance-id="38868" data-id="35372">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="September 17, 2024
+">
+        <span role="presentation" aria-hidden="true">September</span>
+        <span role="presentation" aria-hidden="true">17,</span>
+        <span role="presentation" aria-hidden="true">2024</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-38880"></a>
+  
+
+
+
+      <div id="mmi-38880" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/38880" data-event-label="Single Image Module 38880 (3/16)" data-instance-id="38880" data-id="56626">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Yale Planetary Solutions: A Climate Action Initiative with a Mural Apprenticeship Program" src="https://cdn.filestackcontent.com/2rq4QECFTBWmieTreOMZ" /><img class="pauseable-image__source pauseable-image__source--static" alt="Yale Planetary Solutions: A Climate Action Initiative with a Mural Apprenticeship Program" src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/2rq4QECFTBWmieTreOMZ" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-38869"></a>
+  
+
+
+
+      <div id="mmi-38869" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38869" data-event-label="Scrolling Text Module 38869 (4/16)" data-instance-id="38869" data-id="101790">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>Public Art as Urban Climate Solutions, a Yale climate action initiative, launches a mural program to increase climate engagement with local Black and Latine communities in New Haven, CT. Yale’s Schools of Art, Environment, &amp; Architecture have partnered with the City of New Haven’s Department of Arts, Culture &amp; Tourism to create the city’s first Mural Apprenticeship Program to train local artists in the art of mural-making. The Goffe Street Armory, a historic landmark on the Connecticut Freedom Trail, will be the site of this installation that will use innovative cooling paint technology to reflect UV radiation and lower surface temperatures. This mural on this anchor of local Black and Latine activism will promote awareness of the disproportionate climate impacts facing these communities while also imbuing a message of hope for the future. </p>
+
+<p>“Extreme heat affects more than 2 billion urban residents globally,” shared <strong>Karen Seto, Frederick C. Hixon Professor of Geography and Urbanization Science at the Yale School of the Environment</strong>. “Cool murals have the potential to educate, inspire and empower communities to create hyper local climate solutions and can be scaled to other cities. It’s exciting for New Haven to take a leadership role in this area.”</p>
+
+<p>“Murals and public art add to the beauty and vitality of our neighborhoods, and New Haven is fortunate to have so many talented artists and creatives to draw upon to inspire us and enhance our communal spaces,” stated <strong>Mayor Justin Elicker</strong>, “The mural canvass of the Goffe Street Armory and the mural subject matter of climate change and its disproportionate impact on communities of color are both deeply meaningful to our residents, the Dixwell neighborhood, and our city. Just <a href="https://www.newhavenindependent.org/article/armory_freedom_trail" target="_blank">as the historical events related to the armory</a> served as an example of how New Haven could be a model of racial justice in our country, today we aspire for New Haven to be a model for climate justice in our country. This mural represents that hope and aspiration, and I’m excited to see the finished work.”</p>
+
+<p>Rising temperatures in cities is a public health concern and communities of color are most at risk from the impacts of climate change. Black and Latine communities are more likely than the overall population in the same area to be exposed to extreme heat. These communities need to be at the forefront of climate discourse to bring greater awareness of these disparities and help bring forth meaningful solutions. 
+To this end and to inform our process and learn from those most impacted, our mural team facilitated climate-centered workshops and community conversations with residents who live and work in the warmest neighborhoods in New Haven.</p>
+
+<p>“The Department of Arts, Culture, and Tourism is a proud advocate for and supporter of public art around the Elm City. It’s particularly special to support artistic projects like this one that thoughtfully integrate the voices of our community with the history of our city and the issues of our times – all at one of our most iconic buildings, the Goffe Street Armory,” said <strong>Adriane Jefferson, Director for the Department of Arts, Culture, and Tourism for the City of New Haven</strong>. “As the steward of New Haven’s Municipal Fund for Works of Art, we love finding opportunities for muralists – both experienced and budding – to enrich and enliven our public spaces,” she continued. “With the mural team consisting of a seasoned muralist and four mural apprentices who will train on this large-scale mural project, we’re excited that this project will also help to support our next generation of public artists.”</p>
+
+<p>The mural site was strategically chosen for its potential to serve as a landmark for climate engagement through public art. The mural seeks to bring attention to this historic site and the ongoing community planning efforts of the Armory Community Advisory Committee. </p>
+
+<p><strong>Nadine Horton, founder of the Armory Community Garden</strong>, shared, “The Armory community garden is proud to collaborate with Yale Planetary Solutions, the Yale Schools of Art, Architecture, and the Environment, and the City of New Haven on this innovative public art project to bring awareness to our community about the effects of climate change. What better place to explore the issue of climate change than in the garden where we experience the effects of climate change every day?” </p>
+
+<p>To find out more about the Armory, its history and ongoing community efforts, click on the links below:</p>
+
+<ul>
+<li><p><a href="https://www.goffestreetarmory.org/about" target="_blank">Armory Community Planning</a></p></li>
+<li><p><a href="https://www.goffestreetarmory.org/history" target="_blank">Armory History</a></p></li>
+<li><p><a href="https://www.instagram.com/armorycommunitygarden/" target="_blank">Armory Community Garden</a> (<a href="https://gathernewhaven.org/" target="_blank">Gather New Haven garden</a>)</p></li>
+</ul>
+
+<p>We’re incredibly excited to announce our team of artists and designers who will be installing the mural early Fall 2024. “By participating in this program I hope to gain the formal training artists often miss out on to execute projects on a large scale with the support of community partners,” mural apprentice Kiana “V.” Ware shared. “This climate mural is not only a way to incite social change, but an opportunity to collaborate with fellow artists and inspire others to make more conscious decisions in mural materials and placement.” </p>
+
+<p>To stay up-to-date with the next phase of this historic mural, follow <a href="https://www.instagram.com/yaleschoolofart/" target="_blank">@yaleschoolofart</a> on Instagram.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38872"></a>
+  
+
+
+
+      <div id="mmi-38872" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38872" data-event-label="Scrolling Text Module 38872 (5/16)" data-instance-id="38872" data-id="101661">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Daniel Pizarro</strong></p>
+
+<p>Yale Climate Engagement Fellow / Artist &amp; Designer</p>
+
+<p><a href="https://www.instagram.com/for_la_diaspora/" target="_blank">@for<em>la</em>diaspora</a></p>
+
+<p><a href="https://www.forladiaspora.studio/" target="_blank">ForLaDiaspora.Studio</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38873"></a>
+  
+
+
+
+      <div id="mmi-38873" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38873" data-event-label="Scrolling Text Module 38873 (6/16)" data-instance-id="38873" data-id="101662">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Mike DeAngelo</strong></p>
+
+<p>Teaching Muralist / Artist &amp; Designer </p>
+
+<p><a href="https://www.instagram.com/refractualism/" target="_blank">@refractualism</a></p>
+
+<p><a href="https://deangelostudios.com/" target="_blank">DeAngeloStudios.com</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mural-apprentices"></a>
+  
+
+
+
+      <div id="mmi-38874" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/38874" data-event-label="Title Module Mural Apprentices: (7/16)" data-instance-id="38874" data-id="35346">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="Mural Apprentices:
+">
+        <span role="presentation" aria-hidden="true">Mural</span>
+        <span role="presentation" aria-hidden="true">Apprentices:</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-38875"></a>
+  
+
+
+
+      <div id="mmi-38875" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38875" data-event-label="Scrolling Text Module 38875 (8/16)" data-instance-id="38875" data-id="101663">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Kiana “V.” Ware</strong></p>
+
+<p><a href="https://www.instagram.com/an.artist.first/" target="_blank">@an.artist.first</a></p>
+
+<p><a href="https://www.bewaredesigns.com/" target="_blank">bewaredesigns.com</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38876"></a>
+  
+
+
+
+      <div id="mmi-38876" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38876" data-event-label="Scrolling Text Module 38876 (9/16)" data-instance-id="38876" data-id="101664">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Kaelynne Hernandez</strong></p>
+
+<p><a href="https://www.instagram.com/kae.her/" target="_blank">@kae.her</a></p>
+
+<p><a href="https://kaelynnehernandez.wixsite.com/my-site" target="_blank">kaelynnehernandez.wixsite.com/my-site</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38877"></a>
+  
+
+
+
+      <div id="mmi-38877" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38877" data-event-label="Scrolling Text Module 38877 (10/16)" data-instance-id="38877" data-id="101665">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Luis Alfonzo</strong></p>
+
+<p><a href="https://www.instagram.com/alfonzozart/" target="_blank">@alfonzoart</a></p>
+
+<p><a href="https://alfonzoz.art/" target="_blank">alfonzoz.art</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38878"></a>
+  
+
+
+
+      <div id="mmi-38878" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38878" data-event-label="Scrolling Text Module 38878 (11/16)" data-instance-id="38878" data-id="101666">                  <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
+    
+    <p><strong>Maddie LaRose</strong></p>
+
+<p><a href="https://www.instagram.com/morebymaddiee/" target="_blank">@morebymaddiee</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38879"></a>
+  
+
+
+
+      <div id="mmi-38879" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38879" data-event-label="Scrolling Text Module 38879 (12/16)" data-instance-id="38879" data-id="101668">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>This project is sponsored by <a href="https://planetarysolutions.yale.edu/" target="_blank">Yale Planetary Solutions</a> and the Yale School of Art.</p>
+
+<p>Yale University acknowledges that indigenous peoples and nations, including Mohegan, Mashantucket Pequot, Eastern Pequot, Schaghticoke, Golden Hill Paugussett, Niantic, and the Quinnipiac and other Algonquian speaking peoples, have stewarded through generations the lands and waterways of what is now the state of Connecticut. We honor and respect the enduring relationship that exists between these peoples and nations and this land.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Annie Lin</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38996"></a>
+  
+
+
+
+      <div id="mmi-38996" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38996" data-event-label="Scrolling Text Module 38996 (13/16)" data-instance-id="38996" data-id="102715">                  <div class="scrolling-text-module__inner" style="max-height: 63.599999999999994em" tabindex="0">
+    
+    <p><strong>For press inquiries, please contact:</strong></p>
+
+<p>For Yale School of Art press inquiries please contact <a href="mailto:sarah.stevens-moring@yale.edu">sarah.stevens-moring@yale.edu</a> or <a href="mailto:lindsey.mancini@yale.edu">lindsey.mancini@yale.edu</a></p>
+
+<p>Lenny Speiller (City of New Haven) | 203-725-4249 ; <a href="mailto:Lspeiller@newhavenct.gov">Lspeiller@newhavenct.gov</a></p>
+
+<p><a href="https://www.art.yale.edu/news/inaugural-climate-engagement-mural-by-victoria-martinez-complete" target="_blank">Learn more about similar work by the 2023-2024 Climate Engagement Fellow Victoria Martinez MFA ‘20.</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38870"></a>
+  
+
+
+
+      <div id="mmi-38870" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/38870" data-event-label="Divider Module 38870 (14/16)" data-instance-id="38870" data-id="57598">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-38871"></a>
+  
+
+
+
+      <div id="mmi-38871" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38871" data-event-label="Scrolling Text Module 38871 (15/16)" data-instance-id="38871" data-id="101659">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/yale-and-city-of-new-haven-mural-goffe-street-armory-climate-action/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5692?page_id=207631">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/yale-and-city-of-new-haven-mural-goffe-street-armory-climate-action/pages/207631');
+</script>
+
+    </body>
+
+</html>

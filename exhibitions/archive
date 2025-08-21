@@ -1,0 +1,1713 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Archive - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9XeU9HiAtaIUZfXnRO80ld4HKTTYF/Q0vwWfxXVnyaPP2aJ+/77uKDQETHTJ+bU+GCyiFfcDi2BUnl9AoYiDxQ==" />
+
+    <title itemprop="name">Archive - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--exhibitions-archive controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/exhibitions" class="sidebar_link_main" aria-label="Exhibitions (You are here.)">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/exhibitions" class="sidebar_link_main" aria-label="Exhibitions (You are here.)">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/exhibitions/archive/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4602?page_id=217106">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-28113" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/28113" data-event-label="Background Module 28113 (3/37)" data-instance-id="28113" data-id="33877">                  
+
+    <style>
+
+        .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/J4he7JI5SiSePoeLb3BQ);
+          background-repeat: repeat;
+        }
+        html.animations-paused .backgrounds__pattern {
+          background-image: url(https://cdn.filestackcontent.com/output=format:jpg/J4he7JI5SiSePoeLb3BQ);
+        }
+
+
+        .backgrounds__stripe {
+          background-color: #C6C6C6;
+        }
+
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="yale-school-of-art"></a>
+  
+
+
+
+      <div id="mmi-28160" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28160" data-event-label="Title Module Yale School of Art (1/37)" data-instance-id="28160" data-id="30256">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Yale School of Art
+">
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+</h1>
+
+
+</div>
+
+
+  <a name="exhibitions-archive"></a>
+  
+
+
+
+      <div id="mmi-28112" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28112" data-event-label="Title Module Exhibitions Archive (2/37)" data-instance-id="28112" data-id="30524">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="Exhibitions Archive
+">
+        <span role="presentation" aria-hidden="true">Exhibitions</span>
+        <span role="presentation" aria-hidden="true">Archive</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-28114"></a>
+  
+
+
+
+      <div id="mmi-28114" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28114" data-event-label="Scrolling Text Module 28114 (4/37)" data-instance-id="28114" data-id="93698">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4">This page contains an ongoing archive of exhibitions hosted by the Yale School of Art, organized by academic year, as laid out below.</font></p>
+
+<p><strong>Note:</strong> This archive is currently under construction so please check back frequently for new information on past SoA exhibitions.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28115"></a>
+  
+
+
+
+      <div id="mmi-28115" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28115" data-event-label="Divider Module 28115 (5/37)" data-instance-id="28115" data-id="55265">
+</div>
+
+
+  <a name="2024-2025-academic-year"></a>
+  
+
+
+
+      <div id="mmi-40250" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/40250" data-event-label="Title Module 2024-2025 Academic Year (6/37)" data-instance-id="40250" data-id="36197">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2024-2025 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2024-2025</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2025"></a>
+  
+
+
+
+      <div id="mmi-44012" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/44012" data-event-label="Accordion Module Spring 2025 (7/37)" data-instance-id="44012" data-id="4381">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2025</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><font size="4">Painting/Printmaking MFA Thesis Show: <strong><em>Power Line</em></strong></font></p>
+
+<p>Part I: <strong>January 20 – 29, 2025</strong></p>
+
+<p>Part II: <strong>February 8 – 17, 2025</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2025-painting-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Sculpture MFA Thesis Show</font></p>
+
+<p><strong><em>(h)ours</em></strong> Part I: <strong>March 1 – 9, 2025</strong></p>
+
+<p><strong><em>Ballast</em></strong> Part II: <strong>March 25 – April 2, 2025</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2025-sculpture-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Photography MFA Thesis Show: <strong><em>First Breath Second Sight</em></strong></font></p>
+
+<p><strong>April 12 – 19, 2025</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2025-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Undergraduate Thesis Show: <strong><em>First Breath Second Sight</em></strong></font></p>
+
+<p><strong>April 29 – May 6, 2025</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2025-undergraduate">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Graphic Design MFA Thesis Show: <strong><em>an oblique character</em></strong></font></p>
+
+<p><strong>May 15 – 20, 2025</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2025-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2024"></a>
+  
+
+
+
+      <div id="mmi-40251" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/40251" data-event-label="Accordion Module Fall 2024 (8/37)" data-instance-id="40251" data-id="3985">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2024</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>September 18 - October 4, 2024</strong></p>
+
+<p><font size="4">Second-Year MFA Exhibition: <strong><em>Upward Spiral</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2024-2nd-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>October 16 – November 4, 2024</strong></p>
+
+<p><font size="4">Fall 2024 Undergraduate Exhibition: <strong><em>Threshold</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2024-undergraduate-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>November 13 - December 13, 2024</strong></p>
+
+<p><font size="4">First-Year MFA Exhibition: <strong><em>Feedback Loop</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2024-1st-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-40252"></a>
+  
+
+
+
+      <div id="mmi-40252" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/40252" data-event-label="Divider Module 40252 (9/37)" data-instance-id="40252" data-id="58093">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2023-2024-academic-year"></a>
+  
+
+
+
+      <div id="mmi-36424" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/36424" data-event-label="Title Module 2023-2024 Academic Year (10/37)" data-instance-id="36424" data-id="34039">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2023-2024 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2023-2024</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2024"></a>
+  
+
+
+
+      <div id="mmi-36881" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/36881" data-event-label="Accordion Module Spring 2024 (11/37)" data-instance-id="36881" data-id="4151">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2024</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><font size="4">Painting/Printmaking MFA Thesis Show: <strong><em>and the forms which linger / humming in our ears</em></strong></font></p>
+
+<p>Part I: <strong>January 20 – 30, 2024</strong></p>
+
+<p>Part II: <strong>February 15 – 22, 2024</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2024-painting-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Sculpture MFA Thesis Show: <strong><em>DOOM</em></strong></font></p>
+
+<p>Part I: <strong>March 1 – 8, 2024</strong></p>
+
+<p>Part II: <strong>March 25 – April 1, 2024</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2024-sculpture-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Undergraduate Thesis Show: <strong><em>You Are Now The Host</em></strong></font></p>
+
+<p><strong>April 12 – 19, 2024</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2024-undergraduate">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Photography MFA Thesis Show: <strong><em>Hourglass</em></strong></font></p>
+
+<p><strong>April 27 – May 4, 2024</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2024-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Graphic Design MFA Thesis Show: <strong><em>SPREAD</em></strong></font></p>
+
+<p><strong>May 13 – 21, 2024</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2024-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2023"></a>
+  
+
+
+
+      <div id="mmi-36425" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/36425" data-event-label="Accordion Module Fall 2023 (12/37)" data-instance-id="36425" data-id="3458">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2023</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>September 20 – October 4, 2023</strong></p>
+
+<p><font size="4">Second-Year MFA Exhibition: <strong><em>Second Thoughts</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2023-2nd-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>October 16 – November 4, 2023</strong></p>
+
+<p><font size="4">First-Year MFA Exhibition: <strong><em>why do i always fall out of bed at night?</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2023-1st-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>November 13 – December 8, 2023</strong></p>
+
+<p><font size="4">Fall Undergraduate Exhibition: <strong><em>The host will let you in soon</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2023-undergraduate-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-36426"></a>
+  
+
+
+
+      <div id="mmi-36426" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36426" data-event-label="Divider Module 36426 (13/37)" data-instance-id="36426" data-id="56913">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2022-2023-academic-year"></a>
+  
+
+
+
+      <div id="mmi-33898" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/33898" data-event-label="Title Module 2022-2023 Academic Year (14/37)" data-instance-id="33898" data-id="32725">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2022-2023 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2022-2023</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2023"></a>
+  
+
+
+
+      <div id="mmi-34815" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/34815" data-event-label="Accordion Module Spring 2023 (15/37)" data-instance-id="34815" data-id="2660">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2023</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><font size="4">Painting/Printmaking MFA Thesis Show: <strong><em>a signal urgent but breaking</em></strong></font></p>
+
+<p>Group 1: <strong>January 30 – February 6, 2023</strong></p>
+
+<p>Group 2: <strong>February 15 – 22, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-painting-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Sculpture MFA Thesis Show Group 1: <strong><em>Liquidator</em></strong></font></p>
+
+<p><strong>March 6 – 11, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-sculpture-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Sculpture MFA Thesis Show Group 2: <strong><em>YR ABCSs</em></strong></font></p>
+
+<p><strong>March 27 – April 2, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-sculpture-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Photography MFA Thesis Show: <strong><em>Fair Game</em></strong></font></p>
+
+<p><strong>April 11 – 18, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Graphic Design MFA Thesis Show: <strong><em>As they made their way out,</em></strong></font></p>
+
+<p><strong>April 27 – May 2, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4">Undergraduate Thesis Shows: <strong><em>Is there any way not to lose access at all</em></strong> and <strong><em>Annexed</em></strong></font></p>
+
+<p><strong>May 12 – 22, 2023</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2023-undergraduate-thesis">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2022"></a>
+  
+
+
+
+      <div id="mmi-33899" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/33899" data-event-label="Accordion Module Fall 2022 (16/37)" data-instance-id="33899" data-id="2257">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2022</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>September 19 – October 5, 2022</strong></p>
+
+<p><font size="4">Second-Year MFA Exhibition: <strong><em>a prologue to somewhere</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2022-2nd-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>October 17 – November 11, 2022</strong></p>
+
+<p><font size="4">First-Year MFA Exhibition: <strong><em>Blanket Statement</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2022-1st-year-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>November 28, 2022 – January 10, 2023</strong></p>
+
+<p><font size="4">Fall Undergraduate Exhibition: <strong><em>SCREENED</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2022-undergraduate-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-33900"></a>
+  
+
+
+
+      <div id="mmi-33900" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/33900" data-event-label="Divider Module 33900 (17/37)" data-instance-id="33900" data-id="56455">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2021-2022-academic-year"></a>
+  
+
+
+
+      <div id="mmi-31633" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/31633" data-event-label="Title Module 2021-2022 Academic Year (18/37)" data-instance-id="31633" data-id="31684">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2021-2022 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2021-2022</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2022"></a>
+  
+
+
+
+      <div id="mmi-32012" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/32012" data-event-label="Accordion Module Spring 2022 (19/37)" data-instance-id="32012" data-id="2258">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2022</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>January 31 – March 4, 2022</strong></p>
+
+<p><font size="4">Painting/Printmaking MFA Thesis Exhibition: <strong><em>Vibrant Matters</em></strong></font></p>
+
+<p><em>Group 1: January 31 – February 10</em></p>
+
+<p><em>Group 2: February 22 – March 4</em></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2022-painting-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 28 – April 5, 2022</strong></p>
+
+<p><font size="4">Sculpture MFA Thesis Exhibition: <strong><em>Next Day Soup</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2022-sculpture-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 11 – 16, 2022</strong></p>
+
+<p><font size="4">Undergraduate 2022 Senior Thesis Exhibition: <strong><em>Endnotes</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2022-undergraduate-senior-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 26 – May 1, 2022</strong></p>
+
+<p><font size="4">Photography MFA Thesis Exhibition: <strong><em>Romance Action Mystery</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2022-photo-thesis/">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>May 13 – 23, 2022</strong></p>
+
+<p><font size="4">Graphic Design MFA Thesis Exhibition: <strong><em>and here in</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2022-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2021"></a>
+  
+
+
+
+      <div id="mmi-31634" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/31634" data-event-label="Accordion Module Fall 2021 (20/37)" data-instance-id="31634" data-id="1966">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2021</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>September 22 – October 8, 2021</strong></p>
+
+<p><font size="4">Second-Year MFA Show: <strong><em>10268#</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2021-2nd-year-show">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>October 22 – November 12, 2021</strong></p>
+
+<p><font size="4">First-Year MFA Show: <strong><em>ACTION REQUIRED</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2021-1st-year-show">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>November 29, 2021 – January 12, 2022</strong></p>
+
+<p><font size="4">Fall 2021 Undergraduate Exhibition</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2021-undergraduate-exhibition">Full exhibition information &gt;&gt;</a></p>
+
+<p><br></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-31635"></a>
+  
+
+
+
+      <div id="mmi-31635" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/31635" data-event-label="Divider Module 31635 (21/37)" data-instance-id="31635" data-id="56017">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2020-2021-academic-year"></a>
+  
+
+
+
+      <div id="mmi-28161" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28161" data-event-label="Title Module 2020-2021 Academic Year (22/37)" data-instance-id="28161" data-id="30264">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2020-2021 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2020-2021</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2021"></a>
+  
+
+
+
+      <div id="mmi-29122" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/29122" data-event-label="Accordion Module Spring 2021 (23/37)" data-instance-id="29122" data-id="1696">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2021</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>February 1-3, February 5-7, 2021</strong></p>
+
+<p><font size="4">Painting/Printmaking MFA Thesis Show Group 1: <strong><em>In Praise of Shadows</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-painting-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>February 16-17, February 19-22, 2021</strong></p>
+
+<p><font size="4">Painting/Printmaking MFA Thesis Show Group 2: <strong><em>In Praise of Shadows</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-painting-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 5-11, 2021</strong></p>
+
+<p><font size="4">Sculpture MFA Thesis Show Group 1: <strong><em>it clings like a leech</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-sculpture-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 22-28, 2021</strong></p>
+
+<p><font size="4">Sculpture MFA Thesis Show Group 2: <strong><em>To Hear No Echo</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-sculpture-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 22-28, 2021</strong></p>
+
+<p><font size="4">Class of 2020 Sculpture MFA Exhibition Group 2: <strong><em>No Deep Kissing</em></strong></font></p>
+
+<p><strong>EIK / 32 Edgewood Gallery</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-mfas2020-sculpture-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 7-12, 2021</strong></p>
+
+<p><font size="4">Undergraduate Thesis Show: <strong><em>OK Together</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-undergraduate-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 7-12, 2021</strong></p>
+
+<p><font size="4">BA Class of 2020 Undergraduate Thesis Show: <strong><em>Unfinished</em></strong></font></p>
+
+<p><strong>EIK / 32 Edgewood Gallery</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-ba2020-undergraduate-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 22-28, 2021</strong></p>
+
+<p><font size="4">Graphic Design MFA Thesis Show: <strong><em>All at Once</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>May 10-16, 2021</strong></p>
+
+<p><font size="4">Photography MFA Thesis Show: <strong><em>SORRY WE MISSED YOU</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>May 13 – 19, 2021</strong></p>
+
+<p><font size="4">Class of 2020 Graphic Design MFA Exhibition: <strong><em>On my way!</em></strong></font></p>
+
+<p><strong>EIK / 32 Edgewood Gallery</strong></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-mfas2020-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>June 17-24, 2021</strong></p>
+
+<p><font size="4">Class of 2020 Photography MFA Thesis Exhibition: <strong><em>Hindsight 2020</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2021-mfas2020-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2020"></a>
+  
+
+
+
+      <div id="mmi-28172" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/28172" data-event-label="Accordion Module Fall 2020 (24/37)" data-instance-id="28172" data-id="1168">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2020</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>November 16 – December 10, 2020</strong></p>
+
+<p><font size="5">First-Year MFA Show: <strong><em>No Masters</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2020-1st-year-show">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>October 5 – 25, 2020</strong></p>
+
+<p><font size="5">Second-Year MFA Show: <strong><em>This Time We Know Each Other</em></strong></font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/fall-2020-2nd-year-show">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-28175"></a>
+  
+
+
+
+      <div id="mmi-28175" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28175" data-event-label="Divider Module 28175 (25/37)" data-instance-id="28175" data-id="55280">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2019-20-academic-year"></a>
+  
+
+
+
+      <div id="mmi-28171" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28171" data-event-label="Title Module 2019-20 Academic Year (26/37)" data-instance-id="28171" data-id="30265">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2019-20 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2019-20</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2020"></a>
+  
+
+
+
+      <div id="mmi-28173" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/28173" data-event-label="Accordion Module Spring 2020 (27/37)" data-instance-id="28173" data-id="1135">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2020</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><font size="4"><u><strong>Spring 2020 Virtual Exhibitions:</strong></u></font></p>
+
+<p><strong>Launched May 18, 2020</strong></p>
+
+<p><font size="5"><em>Yale Photo MFA 2020: Hindsight</em></font></p>
+
+<p><a href="/exhibitions/spring-2020-virtual-mfa-photo-hindsight">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>Launched April 2020</strong></p>
+
+<p><font size="5">Type Design, or <em>Letterform:</em> Graphic Design Student Work Website</font></p>
+
+<p><a href="/exhibitions/spring-2020-virtual-letterform-gd-website">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong><em>UNDERGRADUATE</em></strong></p>
+
+<p><strong>Launched May 2020</strong></p>
+
+<p><font size="5">Yale BA Art 2020: Digital Thesis Archive</font></p>
+
+<p><a href="/exhibitions/spring-2020-yale-ba-digital-thesis-archive">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4"><u><strong>COVID-19 Update:</strong></u></font></p>
+
+<p><em>Due to the COVID-19 pandemic, Green Hall Gallery closed in March 2020 and the remaining Spring 2020 MFA thesis shows had to be postponed. However,</em> <strong><em>efforts are being taken to restage the Spring 2020 Thesis Shows</em></strong> <em>that had to be cancelled due to COVID. Please visit the <a href="/exhibitions">exhibitions page</a> for further updates.</em></p>
+
+<p><strike><strong>Sculpture MFA Thesis Show Group Two:</strong> March 28–April 5, 2020</strike>
+<strike>Reception: Saturday, March 28, 6–8pm</strike></p>
+
+<p><strike><strong>Undergraduate Senior Project:</strong> April 11–16, 2020</strike>
+<strike>Reception: April 17, 6–8 PM</strike></p>
+
+<p><strike><strong>Graphic Design MFA Thesis Show:</strong> April 25–May 2, 2020</strike>
+<strike>Reception: Saturday, May 2, 6–8pm</strike></p>
+
+<p><strike><strong>Photography MFA Thesis Show:</strong> May 9–19, 2020</strike>
+<strike>Reception: Saturday, May 9, 6–8pm</strike></p>
+
+<p><em>^^ dates updated 2/3/2020</em></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><font size="4"><u><strong>Spring 2020 in Green Hall Gallery:</strong></u></font></p>
+
+<p><strong>February 29 – March 6, 2020</strong></p>
+
+<p><font size="5"><strong><em>No Deep Kissing:</em></strong> Sculpture MFA Thesis Show Group 1</font></p>
+
+<p><a href="/exhibitions/spring-2020-sculpture-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>February 8 – 12, 14, 2020</strong></p>
+
+<p><font size="5"><strong><em>ONLY WHEN YOU ARE CALLED:</em></strong> Painting/Printmaking MFA Thesis Show Group 2</font></p>
+
+<p><a href="/exhibitions/spring-2020-painting-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>January 25 – 30, 2020</strong></p>
+
+<p><font size="5"><strong><em>ONLY WHEN YOU ARE CALLED:</em></strong> Painting/Printmaking MFA Thesis Show Group 1</font></p>
+
+<p><a href="/exhibitions/spring-2020-painting-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2019"></a>
+  
+
+
+
+      <div id="mmi-28174" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/28174" data-event-label="Accordion Module Fall 2019 (28/37)" data-instance-id="28174" data-id="900">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2019</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>October 13 – November 14, 2019</strong></p>
+
+<p><font size="5">First-Year Show: <strong><em>We Don’t Really Know Each Other</em></strong></font></p>
+
+<p><a href="/exhibitions/fall-2019-1st-year-show">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>September 9 – 27, 2019</strong></p>
+
+<p><font size="5">Second-Year Show</font></p>
+
+<p><a href="/exhibitions/fall-2019-2nd-year-show">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong><em>UNDERGRADUATE</em></strong></p>
+
+<p><strong>November 23, 2019 – January 10, 2020</strong></p>
+
+<p><font size="5"><strong><em>UNFINISHED:</em></strong> An exhibition of Senior Thesis Works-in-Progress</font></p>
+
+<p><a href="/exhibitions/fall-2019-ug-thesis-show">Full exhibition information &gt;&gt;</a></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-28176"></a>
+  
+
+
+
+      <div id="mmi-28176" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28176" data-event-label="Divider Module 28176 (29/37)" data-instance-id="28176" data-id="55281">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2018-19-academic-year"></a>
+  
+
+
+
+      <div id="mmi-28128" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/28128" data-event-label="Title Module 2018-19 Academic Year (30/37)" data-instance-id="28128" data-id="30266">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="2018-19 Academic Year
+">
+        <span role="presentation" aria-hidden="true">2018-19</span>
+        <span role="presentation" aria-hidden="true">Academic</span>
+        <span role="presentation" aria-hidden="true">Year</span>
+</h3>
+
+
+</div>
+
+
+  <a name="spring-2019"></a>
+  
+
+
+
+      <div id="mmi-28177" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/28177" data-event-label="Accordion Module Spring 2019 (31/37)" data-instance-id="28177" data-id="1088">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Spring 2019</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <p><strong>May 11 – 20, 2019</strong></p>
+
+<p><font size="5"><strong><em>Today a Reader:</em></strong> Graphic Design MFA Thesis Show</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-graphic-design-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>April 25 – May 4, 2019</strong></p>
+
+<p><font size="5"><strong><em>Yale MFA Photography 2019</em></strong> Thesis Show</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-photography-thesis">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 29 – April 6, 2019</strong></p>
+
+<p><font size="5"><strong><em>Ripe at Dawn:</em></strong> Sculpture MFA Thesis Show Group 2</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-sculpture-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>March 8 – 15, 2019</strong></p>
+
+<p><font size="5"><strong><em>Ripe at Dawn:</em></strong> Sculpture MFA Thesis Show Group 1</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-sculpture-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>February 15 – 22, 2019</strong></p>
+
+<p><font size="5"><strong><em>Again, Always:</em></strong> Painting/Printmaking MFA Thesis Show Group 2</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-painting-printmaking-thesis-group-2">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong>February 1 – 8, 2019</strong></p>
+
+<p><font size="5"><strong><em>Again, Always:</em></strong> Painting/Printmaking MFA Thesis Show Group 1</font></p>
+
+<p><a href="https://www.art.yale.edu/exhibitions/spring-2019-painting-printmaking-thesis-group-1">Full exhibition information &gt;&gt;</a></p>
+
+<p><br>
+</p><hr>
+<br>
+
+<p><strong><em>More forthcoming!</em></strong></p>
+
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="fall-2018"></a>
+  
+
+
+
+      <div id="mmi-28178" class="accordion-module colspan-4 rag measurable magic-module" data-event-category="magic_module/accordion_module/28178" data-event-label="Accordion Module Fall 2018 (32/37)" data-instance-id="28178" data-id="896">                  
+<details>
+  <summary class="accordion-module__summary" aria-expanded="false">
+    <h4 class="accordion-module__title page-title--prominence-4">Fall 2018</h4>
+  </summary>
+  <div class="accordion-module__content">
+    <strong><em>Forthcoming</em></strong>
+    
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+  </div>
+</details>
+
+</div>
+
+
+  <a name="mmi-28162"></a>
+  
+
+
+
+      <div id="mmi-28162" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/28162" data-event-label="Divider Module 28162 (33/37)" data-instance-id="28162" data-id="55282">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-28158"></a>
+  
+
+
+
+      <div id="mmi-28158" class="scrolling-text-module colspan-3 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28158" data-event-label="Scrolling Text Module 28158 (34/37)" data-instance-id="28158" data-id="93709">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    This archive of the past exhibitions in Green Hall Gallery is still in progress. Please stay tuned! 
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-28170"></a>
+  
+
+
+
+      <div id="mmi-28170" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/28170" data-event-label="Scrolling Text Module 28170 (35/37)" data-instance-id="28170" data-id="93710">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    Background GIF by <a href="https://giphy.com/gifs/3d-abstract-surreal-3osBLlsqoiD8tZytJ6">Best Served Bold via GIPHY</a>.
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="related-links"></a>
+  
+
+
+
+      <div id="mmi-28159" class="see-also-module colspan-4 rag measurable magic-module" data-event-category="magic_module/see_also_module/28159" data-event-label="See Also Module Related links (36/37)" data-instance-id="28159" data-id="51393">                  
+<div class="see-also-module__sizer">
+    <div class="see-also-module__inner" role="navigation" aria-label="Related links">
+        <div class="see-also-module__alerts visually-hidden" aria-live="polite"></div>
+        <div class="see-also-module__items">
+            <span class="see-also-module__list-opener">See also:</span>
+                <a href="/about/visiting">Visiting</a>
+                <a href="https://www.youtube.com/watch?v=cC7671N76_Q&amp;feature=youtu.be">Recollections of Josef Albers at Yale, a film by Anoka Faruqee, Director of Graduate Studies in Painting and Printmaking</a>
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+
+  <a name="mmi-3629"></a>
+  
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (37/37)" data-instance-id="3629" data-id="30689">
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/exhibitions/archive/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/4602?page_id=217106">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Lindsey Mancini
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/exhibitions/archive/pages/217106');
+</script>
+
+    </body>
+
+</html>

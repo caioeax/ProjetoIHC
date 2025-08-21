@@ -1,0 +1,591 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Soa Nyuad Post Mfa Residency Exchange - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="gecAshO/fuf2UGKXtjiEIig9bwnCnHd3tyVrqEml2UG7STY4lIElbdYx2wQ7LgWJ7hbkKO2ICCNcvqstnUqTJw==" />
+
+    <title itemprop="name">Soa Nyuad Post Mfa Residency Exchange - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-soa-nyuad-post-mfa-residency-exchange controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/soa-nyuad-post-mfa-residency-exchange/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5494?page_id=206706">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (12/12)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="yale-school-of-art-nyu-abu-dhabi-launch-pilot-post-mfa-residency-exchange"></a>
+  
+
+
+
+      <div id="mmi-38468" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/38468" data-event-label="Title Module Yale School of Art &amp; NYU Abu Dhabi launch pilot Post-MFA Residency Exchange (1/12)" data-instance-id="38468" data-id="35471">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Yale School of Art &amp; NYU Abu Dhabi launch pilot Post-MFA Residency Exchange
+">
+        <span role="presentation" aria-hidden="true">Yale</span>
+        <span role="presentation" aria-hidden="true">School</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Art</span>
+        <span role="presentation" aria-hidden="true">&amp;</span>
+        <span role="presentation" aria-hidden="true">NYU</span>
+        <span role="presentation" aria-hidden="true">Abu</span>
+        <span role="presentation" aria-hidden="true">Dhabi</span>
+        <span role="presentation" aria-hidden="true">launch</span>
+        <span role="presentation" aria-hidden="true">pilot</span>
+        <span role="presentation" aria-hidden="true">Post-MFA</span>
+        <span role="presentation" aria-hidden="true">Residency</span>
+        <span role="presentation" aria-hidden="true">Exchange</span>
+</h1>
+
+
+</div>
+
+
+  <a name="august-30-2024"></a>
+  
+
+
+
+      <div id="mmi-38469" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/38469" data-event-label="Title Module August 30, 2024 (2/12)" data-instance-id="38469" data-id="35046">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="August 30, 2024
+">
+        <span role="presentation" aria-hidden="true">August</span>
+        <span role="presentation" aria-hidden="true">30,</span>
+        <span role="presentation" aria-hidden="true">2024</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-38478"></a>
+  
+
+
+
+      <div id="mmi-38478" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/38478" data-event-label="Single Image Module 38478 (3/12)" data-instance-id="38478" data-id="56463">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Two artworks side by side." src="https://cdn.filestackcontent.com/resize=width:700/KAAjZjiQTSe7K0DPLMzG" /><img class="pauseable-image__source pauseable-image__source--static" alt="Two artworks side by side." src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/KAAjZjiQTSe7K0DPLMzG" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Work by the inaugural SoAxNYUAD Post-MFA Residency Exchange artists. Left: Chinaedu Nwadibia, SoA MFA &lsquo;22. Right: Majd Alloush, NYUAD MFA &#39;23.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-38470"></a>
+  
+
+
+
+      <div id="mmi-38470" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38470" data-event-label="Scrolling Text Module 38470 (4/12)" data-instance-id="38470" data-id="101235">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>The Yale School of Art and NYU Abu Dhabi are excited to announce the launch of a pilot Post-MFA Residency Exchange Program beginning in the Fall 2024 semester. One member of a recently graduated class from each institution will spend one academic semester, or approximately four months, on campus at the exchange school. The graduate from NYU Abu Dhabi (NYUAD) will be provided a studio space at the Yale School of Art and the graduate from the Yale School of Art will be provided a studio space at NYUAD. Residents will participate in critiques, offer studio visits, lead a  program as part of Interdepartmental Day, culminating in a presentation of works, works in progress, or preparatory work at the end of the residency at a gallery space on site. The resident will have access to campus programming, collections, libraries, and other campus resources. The exchange is intended to foster cross-cultural dialogue and expose recent graduates to global artist communities.</p>
+
+<p>For the inaugural pilot year, the residents were nominated by each participating institution. <strong>Chinaedu Nwadibia</strong>, MFA ‘22, was selected among the recent School of Art graduates to travel to Abu Dhabi in Fall 2024, and <strong>Majd Alloush</strong>, NYUAD MFA ‘23, was selected among the recent NYUAD cohort as the first graduates to join us in New Haven to participate in this residency exchange.</p>
+
+<p>Nwadibia will be arriving in Abu Dhabi in early September, and the School of Art looks forward to welcoming Alloush to New Haven in late August. Associate Dean Anoka Faruqee shared, “Recent MFAs will continue their research, practice and conversations, within a stimulating new community and setting, and with the flexibility that a fellowship year provides.”</p>
+
+<p>Facilitating a time of transition for post-MFA residents into the professional world allows them to deepen their experimentation and research within a new and stimulating campus community. At the conclusion of this pilot program year, the Yale School of Art and NYU Abu Dhabi hope to continue this residency exchange so that future alumni might benefit from greater community support in the years following graduation. </p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38473"></a>
+  
+
+
+
+      <div id="mmi-38473" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/38473" data-event-label="Divider Module 38473 (5/12)" data-instance-id="38473" data-id="57433">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-38474"></a>
+  
+
+
+
+      <div id="mmi-38474" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/38474" data-event-label="Single Image Module 38474 (6/12)" data-instance-id="38474" data-id="56461">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Chinaedu Nwadibia" src="https://cdn.filestackcontent.com/resize=width:350/Z4Sib7VqTEKWp4XluWNg" /><img class="pauseable-image__source pauseable-image__source--static" alt="Chinaedu Nwadibia" src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/Z4Sib7VqTEKWp4XluWNg" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="about-chinaedu-nwadibia"></a>
+  
+
+
+
+      <div id="mmi-38475" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38475" data-event-label="Scrolling Text Module About Chinaedu Nwadibia (7/12)" data-instance-id="38475" data-id="101233">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    <h4 class="scrolling-text-module__title page-title--prominence-4">About Chinaedu Nwadibia</h4>
+    <p>I believe in the functions of portraiture, storytelling and the supernatural. The orality of my Nigerian and African American heritage has nurtured a healthy awareness of the power that is derived from intergenerational connection. I employ sculpture, performance and written works within my lifelong engagement with photography, enabling a multi-platform method of storytelling. By Illuminating spaces just out of view,  I encourage a further investigation into how one perceives themselves and their surroundings. These explorations allow my practice to exist between the conventions of the historical archive and the inherited proverb and myth, while utilizing these frameworks to ground the work in the tangibility of the human experience.</p>
+
+<p>Nwadibia holds a BA from Howard University (2011) and an MFA in Photography from the Yale School of Art (2022).</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38476"></a>
+  
+
+
+
+      <div id="mmi-38476" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/38476" data-event-label="Single Image Module 38476 (8/12)" data-instance-id="38476" data-id="56462">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Majd Alloush" src="https://cdn.filestackcontent.com/resize=width:350/IbvEJeQCqgoBA3NhTfDg" /><img class="pauseable-image__source pauseable-image__source--static" alt="Majd Alloush" src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/IbvEJeQCqgoBA3NhTfDg" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="about-majd-alloush"></a>
+  
+
+
+
+      <div id="mmi-38477" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38477" data-event-label="Scrolling Text Module About Majd Alloush (9/12)" data-instance-id="38477" data-id="101236">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    <h4 class="scrolling-text-module__title page-title--prominence-4">About Majd Alloush</h4>
+    Majd Alloush is a Syrian artist whose work spans multiple disciplines including printmaking, sculpture, photography, moving image, installation, and performance. His creative practice challenges the notion of borders in concept, content, and medium, by exploring geopolitics, and social and environmental issues such as the ramifications of war and displacement. Alloush strategically creates work wherein multiple interpretations are possible, requiring the viewer’s own worldview to inform the meaning. His work is situated within contemporary hybrid practice, at the intersection of traditional processes and innovative methodology. Alloush holds a BFA from the University of Sharjah, Class of 2018, and an MFA in Art and Media from New York University Abu Dhabi, Class of 2023. 
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-38471"></a>
+  
+
+
+
+      <div id="mmi-38471" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/38471" data-event-label="Divider Module 38471 (10/12)" data-instance-id="38471" data-id="57400">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-38472"></a>
+  
+
+
+
+      <div id="mmi-38472" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/38472" data-event-label="Scrolling Text Module 38472 (11/12)" data-instance-id="38472" data-id="101231">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/soa-nyuad-post-mfa-residency-exchange/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5494?page_id=206706">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/soa-nyuad-post-mfa-residency-exchange/pages/206706');
+</script>
+
+    </body>
+
+</html>

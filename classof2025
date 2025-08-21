@@ -1,0 +1,863 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="Classof2025 - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="W36c+zBY7p/pNTOSPXnNkfN0skrcIKQLR/GSt8LqhcVh0Kpxt2a1FclUigGwb0w6NV85a/M021+salIyFgXPow==" />
+
+    <title itemprop="name">Classof2025 - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--classof2025 controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/news" class="sidebar_link_main">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/classof2025/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/6847?page_id=217564">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (19/19)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="congratulations-to-the-class-of-2025"></a>
+  
+
+
+
+      <div id="mmi-44540" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/44540" data-event-label="Title Module Congratulations to the Class of 2025! (1/19)" data-instance-id="44540" data-id="37950">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Congratulations to the Class of 2025!
+">
+        <span role="presentation" aria-hidden="true">Congratulations</span>
+        <span role="presentation" aria-hidden="true">to</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">Class</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">2025!</span>
+</h1>
+
+
+</div>
+
+
+  <a name="may-19-2025"></a>
+  
+
+
+
+      <div id="mmi-44541" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/44541" data-event-label="Title Module May 19, 2025 (2/19)" data-instance-id="44541" data-id="37951">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="May 19, 2025
+">
+        <span role="presentation" aria-hidden="true">May</span>
+        <span role="presentation" aria-hidden="true">19,</span>
+        <span role="presentation" aria-hidden="true">2025</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-44542"></a>
+  
+
+
+
+      <div id="mmi-44542" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/44542" data-event-label="Single Image Module 44542 (3/19)" data-instance-id="44542" data-id="60487">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Documentation of the 2024 Yale School of Art commencement, showing students standing and cheering from their seats in the YUAG courtyard." src="https://cdn.filestackcontent.com/resize=width:700/1xh3JJusSZiuymFvE6R0" /><img class="pauseable-image__source pauseable-image__source--static" alt="Documentation of the 2024 Yale School of Art commencement, showing students standing and cheering from their seats in the YUAG courtyard." src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/1xh3JJusSZiuymFvE6R0" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Yale School of Art’s 2024 commencement exercises. Photo: Adrian Martinez Chavez, Photography MFA ‘23.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-44543"></a>
+  
+
+
+
+      <div id="mmi-44543" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44543" data-event-label="Scrolling Text Module 44543 (4/19)" data-instance-id="44543" data-id="108199">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><font size="4">The Yale School of Art celebrates its graduating class of 2025 with a commencement address by theorist and artist <strong>Eva Hayward</strong>.</font></p>
+
+<p>Faculty Marshal: <strong>John Pilson</strong>, Senior Critic, Photography</p>
+
+<p>Student Marshal: <strong>Helen Liene Dreifelds</strong>, Sculpture MFA</p>
+
+<p>Banner Bearer: <strong>Brenda Barrios</strong>, Sculpture MFA</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44871"></a>
+  
+
+
+
+      <div id="mmi-44871" class="announcement-module colspan-2 rag measurable magic-module" data-event-category="magic_module/announcement_module/44871" data-event-label="Announcement Module 44871 (5/19)" data-instance-id="44871" data-id="56845">                  
+<div class="announcement-module__inner">
+  <div><font size="4"><strong><a href="https://www.art.yale.edu/news/2025-commencement-address-eva-hayward">Read Eva Hayward&rsquo;s commencement address &gt;</a></strong></font></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-44544"></a>
+  
+
+
+
+      <div id="mmi-44544" class="announcement-module colspan-2 rag measurable magic-module" data-event-category="magic_module/announcement_module/44544" data-event-label="Announcement Module 44544 (6/19)" data-instance-id="44544" data-id="56846">                  
+<div class="announcement-module__inner">
+  <div><font size="4"><strong><a href="https://www.e-flux.com/announcements/665889/commencement-2025-mfa-graduates/" target="_blank">Read the e-flux Education announcement &gt;</a></strong></font></div>
+  
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+</div>
+
+</div>
+
+
+  <a name="mmi-44545"></a>
+  
+
+
+
+      <div id="mmi-44545" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/44545" data-event-label="Divider Module 44545 (7/19)" data-instance-id="44545" data-id="59149">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="2025-recipients-of-the-degree-of-master-of-fine-arts"></a>
+  
+
+
+
+      <div id="mmi-44546" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/44546" data-event-label="Title Module 2025 recipients of the Degree of Master of Fine Arts: (8/19)" data-instance-id="44546" data-id="37952">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="2025 recipients of the Degree of Master of Fine Arts:
+">
+        <span role="presentation" aria-hidden="true">2025</span>
+        <span role="presentation" aria-hidden="true">recipients</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">the</span>
+        <span role="presentation" aria-hidden="true">Degree</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Master</span>
+        <span role="presentation" aria-hidden="true">of</span>
+        <span role="presentation" aria-hidden="true">Fine</span>
+        <span role="presentation" aria-hidden="true">Arts:</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-44547"></a>
+  
+
+
+
+      <div id="mmi-44547" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44547" data-event-label="Scrolling Text Module 44547 (9/19)" data-instance-id="44547" data-id="108200">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>Graphic Design</strong></p>
+
+<p><a href="/fatima-al-kuwari">Fatima Al-Kuwari</a></p>
+
+<p><a href="/aylin-alakbarli">Aylin Alakbarli</a></p>
+
+<p><a href="/jaamal-benjamin">Jaamal Benjamin</a></p>
+
+<p><a href="/juice-chuye-chen">Chuye Chen (JUICE)</a></p>
+
+<p><a href="/dydanni-jiaqian-dai">Jiaqian Dai</a></p>
+
+<p><a href="/shiyun-deng">Shiyun Deng</a></p>
+
+<p><a href="/theo-haggi">Theo France-Haggins</a></p>
+
+<p>Saskia Seraphima Globig</p>
+
+<p><a href="/tomas-hlava">Tomáš Hlava</a></p>
+
+<p>Katie Johnson</p>
+
+<p><a href="/jeewon-kim">Jeewon Kim</a></p>
+
+<p><a href="/wendy-li">Wendy Li</a></p>
+
+<p><a href="/youngjin-park">Youngjin Park</a></p>
+
+<p><a href="/yi-song">Yixiao (Yi) Song</a></p>
+
+<p><a href="/tom-tang">Tom Tang</a></p>
+
+<p><a href="/allison-yoon">Allison Yoon</a></p>
+
+<p>Chaewon You</p>
+
+<p><a href="/coco">Coco Shiya Yuan</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44548"></a>
+  
+
+
+
+      <div id="mmi-44548" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44548" data-event-label="Scrolling Text Module 44548 (10/19)" data-instance-id="44548" data-id="108201">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>Painting/Printmaking</strong></p>
+
+<p><a href="/ana-claudia-almeida">Ana Cláudia Almeida</a></p>
+
+<p><a href="/bix-archer">Bix Archer</a></p>
+
+<p><a href="/rosa-bozhkov">Rosa Bozhkov</a></p>
+
+<p><a href="/claire-won-jeong-chey">Claire (Won Jeong) Chey</a></p>
+
+<p><a href="/taina-cruz">Taína Cruz</a></p>
+
+<p><a href="/anietie-ekanem">Anietié Ekanem</a></p>
+
+<p><a href="/lauren-flaaen">Lauren Flaaen</a></p>
+
+<p>Flores</p>
+
+<p><a href="/erol-scott-harris-ii">Erol Scott Harris</a></p>
+
+<p>Diego León</p>
+
+<p><a href="/rayer-ma">Rayer Ma</a></p>
+
+<p><a href="/rose-mcburney">Rose McBurney</a></p>
+
+<p><a href="/paulina-moncada">Paulina Moncada</a></p>
+
+<p><a href="/z-t-nguyen">Z.T. Nguyen</a></p>
+
+<p><a href="/hafsa-nouman">Hafsa Nouman</a></p>
+
+<p><a href="/haejin-park">Haejin Park</a></p>
+
+<p><a href="/purvai-rai">Purvai Rai</a></p>
+
+<p><a href="/jam-yoo">Jam Yoo</a></p>
+
+<p><a href="/nadia-younes">Nadia Younes</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44549"></a>
+  
+
+
+
+      <div id="mmi-44549" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44549" data-event-label="Scrolling Text Module 44549 (11/19)" data-instance-id="44549" data-id="108202">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>Photography</strong></p>
+
+<p>Vani Bhushan</p>
+
+<p><a href="/david-billet">David Billet</a></p>
+
+<p><a href="/bella-convertino">Bella Convertino</a></p>
+
+<p><a href="/olivia-crumm">Olivia Crumm</a></p>
+
+<p>Christopher Desanges</p>
+
+<p><a href="https://www.art.yale.edu/luis-manuel-diaz">Luis Manuel Díaz</a></p>
+
+<p>Jeremy Grier</p>
+
+<p><a href="/leor-miller">Leor Miller</a></p>
+
+<p><a href="/aliaksandra-tucha">Aliaksandra Tucha</a></p>
+
+<p><a href="/yumeng-zhu">Yumeng Zhu</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44550"></a>
+  
+
+
+
+      <div id="mmi-44550" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44550" data-event-label="Scrolling Text Module 44550 (12/19)" data-instance-id="44550" data-id="108203">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>Sculpture</strong></p>
+
+<p><a href="/nic-o-brierre-aziz">Nic[o] Brierre Aziz</a></p>
+
+<p><a href="/brenda-barrios">Brenda Barrios</a></p>
+
+<p><a href="/helen-liene-dreifelds">Helen Liene Dreifelds</a></p>
+
+<p><a href="/sam-fresquez">Sam Frésquez</a></p>
+
+<p><a href="/alice-gong-xiaowen">Alice Gong Xiaowen</a></p>
+
+<p><a href="/jesus-hilario-reyes">Jesús Hilario-Reyes</a></p>
+
+<p><a href="/andrew-luk">Andrew Luk</a></p>
+
+<p>Gozié Ojini</p>
+
+<p><a href="/alix-vernet">Alix Vernet</a></p>
+
+<p><a href="/omer-wasim">Omer Wasim</a></p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44551"></a>
+  
+
+
+
+      <div id="mmi-44551" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44551" data-event-label="Scrolling Text Module 44551 (13/19)" data-instance-id="44551" data-id="108204">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>The 2025 School of Art Commencement begins with Yale’s University-wide commencement exercises on Old Campus in New Haven on Monday, May 19. This event will be followed by the Yale School of Art Diploma Ceremony and Reception in the Sculpture Garden at the Yale University Art Gallery.</p>
+
+<p>With their families and friends in attendance, graduates will hear addresses from Yale School of Art Stavros Niarchos Foundation Dean and Professor of Art Kymberly Pinder and invited commencement speaker Eva Hayward.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44552"></a>
+  
+
+
+
+      <div id="mmi-44552" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/44552" data-event-label="Divider Module 44552 (14/19)" data-instance-id="44552" data-id="59150">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="about-commencement-speaker-eva-hayward"></a>
+  
+
+
+
+      <div id="mmi-44553" class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/44553" data-event-label="Title Module About commencement speaker Eva Hayward (15/19)" data-instance-id="44553" data-id="37953">                  
+<h3 class="title-module__title page-title--prominence-3" aria-label="About commencement speaker Eva Hayward
+">
+        <span role="presentation" aria-hidden="true">About</span>
+        <span role="presentation" aria-hidden="true">commencement</span>
+        <span role="presentation" aria-hidden="true">speaker</span>
+        <span role="presentation" aria-hidden="true">Eva</span>
+        <span role="presentation" aria-hidden="true">Hayward</span>
+</h3>
+
+
+</div>
+
+
+  <a name="mmi-44554"></a>
+  
+
+
+
+      <div id="mmi-44554" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/44554" data-event-label="Single Image Module 44554 (16/19)" data-instance-id="44554" data-id="60488">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Blue and green abstract artwork image by Eva Hayward." src="https://cdn.filestackcontent.com/resize=width:350/yaCtIobNTHCQc6NMklrH" /><img class="pauseable-image__source pauseable-image__source--static" alt="Blue and green abstract artwork image by Eva Hayward." src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/yaCtIobNTHCQc6NMklrH" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Eva Hayward, &ldquo;I am sick.&rdquo;</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-44555"></a>
+  
+
+
+
+      <div id="mmi-44555" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/44555" data-event-label="Scrolling Text Module 44555 (17/19)" data-instance-id="44555" data-id="108205">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    Commencement speaker <strong>Eva Hayward</strong> is a theorist and artist who currently teaches at the University of New Mexico. Trained in the History of Consciousness tradition (UCSC, 2008), her scholarship focuses on science studies and visual culture with an emphasis on psychoanalytic semiotics. Hayward is a Fulbright Scholar (University of Graz, Austria) with postdoctoral fellowships at Duke University and Uppsala University (Sweden). She has taught at the University of California, University of Cincinnati, University of Arizona, and Utrecht University (Netherlands). While also publishing in feminist science studies (such as the journals <em>Cultural Anthropology, differences, Parallax</em>, and <em>Angelaki</em>), Hayward’s most recent art writings on “trans as sexuality” have been published in e-Flux, Porn Studies, Texte Zur Kunst, as well as in museum catalogues, including the Whitney Museum (NY), the Institute for Contemporary Art (LA), the Museum of Contemporary Art (Sydney, AU), and the Museum moderner Kunst Stiftung Ludwig Wein (Vienna, AT). Hayward is currently finishing a book titled <em>She Want</em> that offers a theory of trans want, particularly the wanting of womanhood.    
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-44556"></a>
+  
+
+
+
+      <div id="mmi-44556" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/44556" data-event-label="Divider Module 44556 (18/19)" data-instance-id="44556" data-id="59151">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/classof2025/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/6847?page_id=217564">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Lindsey Mancini</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/classof2025/pages/217564');
+</script>
+
+    </body>
+
+</html>

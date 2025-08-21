@@ -1,0 +1,663 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-app="economy-artyale" class="show animations-playing ">
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="This site was built with Economy by Linked by Air." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
+
+    <meta property="og:title" content="2023 2024 Postgraduate Fellows - Yale School of Art" />
+    <meta property="og:site_name" content="Yale School of Art"/>
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="This site was built with Economy by Linked by Air." />
+    
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Wip+mMuE5wCzlC4DxBXoC/7zLnEcIoO+ULEgggBprohghEgSTLq8ipP1l5BJA2mgONilUDM2/Oq7KuAH1Ibk7g==" />
+
+    <title itemprop="name">2023 2024 Postgraduate Fellows - Yale School of Art</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
+
+
+
+
+    <link rel="stylesheet" media="all" href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css" data-turbolinks-track="reload" />
+
+    
+
+    <script src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js" data-turbolinks-track="reload"></script>
+
+
+    <script>
+
+
+      function ga() {}
+      console.warn('Google Analytics has not been configured.');
+
+
+</script>
+
+
+    
+
+    
+
+
+  </head>
+
+    <body  class="page-path--news-2023-2024-postgraduate-fellows controller--pages action--show ">
+        <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+
+  <div class="backgrounds">
+    <div class="backgrounds__pattern"></div>
+    <div class="backgrounds__photo"></div>
+    <div class="backgrounds__stripe-container">
+      <div class="backgrounds__stripe"></div>
+    </div>
+  </div>
+
+  <div id="collapsible-menu" class="collapsible-menu">
+    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu" aria-label="Site menu (expand to pause animations)">
+      
+<svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-252, -17)">
+        <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
+        <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
+            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
+            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
+        </g>
+    </g>
+</svg>
+    </button>
+
+    <div class="collapsible-menu__inner" aria-hidden="true">
+      <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+      <button class="collapsible-menu__closer" aria-label="Close site menu" aria-controls="collapsible-menu">Close</button>
+    </div>
+  </div>
+
+
+  <div id="outer-container">
+    <div id="mobile-pause-sticky-wrapper"> 
+      <header class="page-header">
+  <div class="page-header__inner">
+    <span>Yale School of Art</span><br/><span>1156 Chapel Street, POB 208339</span><br/><span>New Haven, Connecticut, 06520-8339</span>
+</div></header>
+      <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+
+      <div class="sidebar-content-container">
+        <section id="sidebar" class="sidebar" aria-label="sidebar">
+          <nav class="main-nav" role="navigation" aria-label="primary">
+    <ul class="list--blank">
+                <li class="main-nav__item">
+                    <a href="/" class="sidebar_link_main">Home</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/about" class="sidebar_link_main">About the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/apply" class="sidebar_link_main">Apply to the School</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/publications" class="sidebar_link_main">Publications</a>
+                </li>
+                <li class="main-nav__item main-nav__item--active">
+                    <a href="/news" class="sidebar_link_main" aria-label="News (You are here.)">News</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="/public-events" class="sidebar_link_main">Public Events</a>
+                </li>
+    </ul>
+</nav>
+          <button class="pause-animations">
+  <span class="pause-animations__label--for-when-playing">
+    Pause animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<rect x="2.2" width="3.7" height="13" fill="#000"></rect>
+	<rect x="7.8" width="3.7" height="13" fill="#000"></rect>
+</svg>
+</a>
+</span>  <span class="pause-animations__label--for-when-paused">
+    Play animations <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14" style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+	<polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
+</svg>
+</a>
+</span></button>
+
+          <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+            <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/2023-2024-postgraduate-fellows/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5029?page_id=203232">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Paloma Izquierdo</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+        </section>
+
+        <main id="magic_modules">
+          
+
+
+
+      <div id="mmi-3629" class="background-module colspan-4 measurable magic-module" data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (16/16)" data-instance-id="3629" data-id="30689">                  
+
+    <style>
+        .backgrounds__pattern {
+          background-color: #ffffff;
+        }
+
+
+        .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+        html.animations-paused .backgrounds__photo {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultphoto.gif);
+        }
+
+
+        .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+        html.animations-paused .backgrounds__stripe {
+          background-image: url(https://cdn.filestackcontent.com/AFx79KQcETNaOd4KM3pL4z/output=format:jpg/https://www.art.yale.edu/background_module/image/defaultstripe.png);
+        }
+    </style>
+
+
+
+
+</div>
+
+
+
+  <a name="welcome-to-our-2023-2024-postgraduate-fellows"></a>
+  
+
+
+
+      <div id="mmi-36016" class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/36016" data-event-label="Title Module Welcome to our 2023-2024 postgraduate fellows (1/16)" data-instance-id="36016" data-id="33787">                  
+<h1 class="title-module__title page-title--prominence-1" aria-label="Welcome to our 2023-2024 postgraduate fellows
+">
+        <span role="presentation" aria-hidden="true">Welcome</span>
+        <span role="presentation" aria-hidden="true">to</span>
+        <span role="presentation" aria-hidden="true">our</span>
+        <span role="presentation" aria-hidden="true">2023-2024</span>
+        <span role="presentation" aria-hidden="true">postgraduate</span>
+        <span role="presentation" aria-hidden="true">fellows</span>
+</h1>
+
+
+</div>
+
+
+  <a name="september-27-2023"></a>
+  
+
+
+
+      <div id="mmi-36017" class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module" data-event-category="magic_module/title_module/36017" data-event-label="Title Module September 27, 2023 (2/16)" data-instance-id="36017" data-id="33786">                  
+<h2 class="title-module__title page-title--prominence-2" aria-label="September 27, 2023
+">
+        <span role="presentation" aria-hidden="true">September</span>
+        <span role="presentation" aria-hidden="true">27,</span>
+        <span role="presentation" aria-hidden="true">2023</span>
+</h2>
+
+
+</div>
+
+
+  <a name="mmi-36079"></a>
+  
+
+
+
+      <div id="mmi-36079" class="single-image-module colspan-4 rag measurable magic-module" data-event-category="magic_module/single_image_module/36079" data-event-label="Single Image Module 36079 (3/16)" data-instance-id="36079" data-id="55578">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Images of artworks by the three 2023-2024 postgraduate fellows." src="https://cdn.filestackcontent.com/resize=width:700/cxt8iXCtTxSf3OaDaTDQ" /><img class="pauseable-image__source pauseable-image__source--static" alt="Images of artworks by the three 2023-2024 postgraduate fellows." src="https://cdn.filestackcontent.com/resize=width:700/output=format:jpg/cxt8iXCtTxSf3OaDaTDQ" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Left: Natalie Ivis, MFA &lsquo;23. <em>Tornado</em>, 2023. Middle: Paloma Izquierdo, MFA &#39;23. <em>Money Rail (Right)</em>, 2023. Photo by Pat Garcia, MFA &#39;24. Right: Daniel Pizarro, MFA &#39;12. Graphic identity for &quot;¡Despierta Boricua! in the Archives: Puerto Rican History &amp; Activism&quot; at Yale University.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-36019"></a>
+  
+
+
+
+      <div id="mmi-36019" class="scrolling-text-module colspan-4 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36019" data-event-label="Scrolling Text Module 36019 (4/16)" data-instance-id="36019" data-id="99247">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p>This semester, the Yale School of Art is welcoming three MFA program alums back to New Haven as postgraduate fellows, through ongoing partnerships across campus:</p>
+
+<p>Newly graduated alum of the Photography program, <strong>Natalie Ivis</strong>, MFA ‘23, is the '23-24 Postgraduate Fellow in Photography. Ivis is teaching an undergraduate course “Photographic Storytelling”—a course that introduces students to the various elements of photographic storytelling, artistic styles, and practices of successful visual narratives. Through Yale Pathways to Arts &amp; Humanities, Ivis is continuing to work with high school students in New Haven throughout the '23-24 academic year. Part of which involves being a co-instructor for a six-month photography program, “The View From Here”, for high school students from greater New Haven organized by the Yale Center for British Art.</p>
+
+<p>Another recent alum, <strong>Paloma Izquierdo</strong>, MFA '23, of the Sculpture program, will work as the SoA/CCAM Postgraduate Fellow—a role developed in collaboration with the Center for Collaborative Arts and Media. </p>
+
+<p>In collaboration with the Schools of Environment and Architecture, <strong>Daniel Pizarro</strong>, MFA '12, was selected to be the 2023-2024 School of Art’s Climate Engagement Fellow. Last year, Pizarro served as the Communications Design Fellow and continues his engagement in the second iteration of the Climate Engagement Through Art in Cities initiative. As part of his ongoing work, Pizarro seeks to collaborate with other local artists to promote community engagement and public art centered on climate change and the built environment. He plans on establishing a partnership with the City of New Haven to design a digital platform that links building owners to artists via a mural registry.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Paloma Izquierdo</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-36029"></a>
+  
+
+
+
+      <div id="mmi-36029" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36029" data-event-label="Divider Module 36029 (5/16)" data-instance-id="36029" data-id="56887">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-36078"></a>
+  
+
+
+
+      <div id="mmi-36078" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/36078" data-event-label="Single Image Module 36078 (6/16)" data-instance-id="36078" data-id="55579">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Natalie Ivis" src="https://cdn.filestackcontent.com/resize=width:350/Fe7kGqaSPuZAV3mQpwrz" /><img class="pauseable-image__source pauseable-image__source--static" alt="Natalie Ivis" src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/Fe7kGqaSPuZAV3mQpwrz" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Photo by Sophie Schwartz, Photography MFA &lsquo;23.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-36024"></a>
+  
+
+
+
+      <div id="mmi-36024" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36024" data-event-label="Scrolling Text Module 36024 (7/16)" data-instance-id="36024" data-id="98949">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>About Natalie Ivis</strong></p>
+
+<p>Natalie Ivis is a photographer based in New Haven, CT. She received an MFA in Photography from Yale University in 2023. Her work engages with moments of intimacy and human connection. Natalie is interested in creating images as a way of understanding complex relationships, often pulling from personal narratives, she aims to create quiet moments of contemplation from chaotic environments. She is a former editor and producer at Magnum Photos. Her work has been featured in the New York Times Magazine.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-36025"></a>
+  
+
+
+
+      <div id="mmi-36025" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36025" data-event-label="Divider Module 36025 (8/16)" data-instance-id="36025" data-id="56885">
+</div>
+
+
+  <a name="mmi-36030"></a>
+  
+
+
+
+      <div id="mmi-36030" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/36030" data-event-label="Single Image Module 36030 (9/16)" data-instance-id="36030" data-id="55569">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Artwork by Paloma Izquierdo" src="https://cdn.filestackcontent.com/resize=width:350/tmaCwvhkRFy1u6H9jliT" /><img class="pauseable-image__source pauseable-image__source--static" alt="Artwork by Paloma Izquierdo" src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/tmaCwvhkRFy1u6H9jliT" /></div>
+      
+    </div>
+
+
+    <div class="single-image-module__caption">Paloma Izquierdo. <em>Money Rail (Right),</em> 2023. Glass, brass, coins, bills. Photo credit:
+Pat Garcia, MFA &lsquo;24.</div>
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-36026"></a>
+  
+
+
+
+      <div id="mmi-36026" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36026" data-event-label="Scrolling Text Module 36026 (10/16)" data-instance-id="36026" data-id="99248">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>About Paloma Izquierdo</strong></p>
+
+<p>Paloma Izquierdo is a Cuban American sculptor who lives and works between New Haven and New York. Her work mirrors and distorts public and private infrastructures. She holds a BFA from The Cooper Union and an MFA in Sculpture from Yale. She collaborates with Kyle Richardson on Fulanita.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Paloma Izquierdo</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-36027"></a>
+  
+
+
+
+      <div id="mmi-36027" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36027" data-event-label="Divider Module 36027 (11/16)" data-instance-id="36027" data-id="56886">
+</div>
+
+
+  <a name="mmi-36028"></a>
+  
+
+
+
+      <div id="mmi-36028" class="single-image-module colspan-2 rag measurable magic-module" data-event-category="magic_module/single_image_module/36028" data-event-label="Single Image Module 36028 (12/16)" data-instance-id="36028" data-id="55568">                  
+
+
+
+    <div class="single-image-module__image-container">
+      <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated" alt="Daniel Pizarro." src="https://cdn.filestackcontent.com/resize=width:350/8bgrdtiR26YZdF2RyvmI" /><img class="pauseable-image__source pauseable-image__source--static" alt="Daniel Pizarro." src="https://cdn.filestackcontent.com/resize=width:350/output=format:jpg/8bgrdtiR26YZdF2RyvmI" /></div>
+      
+    </div>
+
+
+    
+
+
+
+
+
+
+</div>
+
+
+  <a name="mmi-36020"></a>
+  
+
+
+
+      <div id="mmi-36020" class="scrolling-text-module colspan-2 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36020" data-event-label="Scrolling Text Module 36020 (13/16)" data-instance-id="36020" data-id="98836">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <p><strong>About Daniel Pizarro</strong></p>
+
+<p>In collaboration with the Schools of Environment and Architecture, Daniel Pizarro, MFA ‘12, was selected to be a 2023-2024 School of Art’s Climate Engagement Fellow. Last year, Pizarro served as the Communications Design Fellow and continues his engagement in the second iteration of the Climate Engagement Through Art in Cities initiative. As part of his ongoing work, Pizarro seeks to collaborate with other local artists to promote community engagement and public art centered on climate change and the built environment. He plans on establishing a partnership with the City of New Haven to design a digital platform that links building owners to artists via a mural registry.</p>
+
+<p>Daniel Pizarro (he/él) is a New Haven-based artist/designer and Creative Director at For La Diáspora, a creative studio that connects brands to the Latine community through culturally-driven design and bilingual communications. Daniel’s family immigrated from Chile to Los Angeles, where he was born and raised. His lived experiences ground his creative practice to support community-centered design solutions based on local knowledge and expertise. He is a Yale Climate Engagement Fellow, an interdisciplinary collaboration among the Yale School of Art; Architecture; and Environment that explores public engagement of climate change through art and design. During the Covid-19 era, his work addressed complex social issues in the Latine community, including vaccine equity and the housing evictions crisis. Daniel received his MFA in Graphic Design from the Yale School of Art and BA from UCLA Design Media Arts. After Yale, Daniel worked for 6 years as a Design and Technology Fellow for the Consumer Financial Protection Bureau (CFPB) where he developed bilingual communications and branding strategies to strengthen consumer advocacy, economic justice, and new legislation efforts following the US financial crisis in 2008. Early in his career, while working as the Director of Design and New Technologies at Peace Over Violence, Daniel helped develop an award-winning national sexual violence prevention and education campaign that drew millions to participate and helped overturn the largest rape kit backlog in the US in 2010. Daniel has exhibited his work internationally at the Brno Biennial and published in Graphic magazine. He has received funding from the National Arts Strategies, National Endowment for the Arts, and New Haven Arts Council.</p>
+
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+  <a name="mmi-36022"></a>
+  
+
+
+
+      <div id="mmi-36022" class="divider-module colspan-4 rag measurable magic-module" data-event-category="magic_module/divider_module/36022" data-event-label="Divider Module 36022 (14/16)" data-instance-id="36022" data-id="56884">                  <div class="divider-module__horizontal-rule"></div>
+
+</div>
+
+
+  <a name="mmi-36023"></a>
+  
+
+
+
+      <div id="mmi-36023" class="scrolling-text-module colspan-1 rag measurable magic-module" data-event-category="magic_module/scrolling_text_module/36023" data-event-label="Scrolling Text Module 36023 (15/16)" data-instance-id="36023" data-id="98832">                  <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
+    
+    <font size="3"><em><a href="https://www.art.yale.edu/news">All Yale School of Art news &gt;&gt;</a></em></font>
+</div>
+
+<div class='editor-details editor-details--offset-inside-margin'>
+  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
+  <details>
+    <summary class="editor-details__thumbnail" aria-expanded="false" role="button">
+      <span>Editor details</span>
+    </summary>
+    <div class="editor-details__content" tabindex="0">
+      <p>Last edited by: Lindsey Mancini</p>
+      <p>Edit access: Everybody</p>
+    </div>
+  </details>
+</div>
+
+
+</div>
+
+
+
+        </main>
+      </div>
+
+      <footer class="yale-footer" aria-label="primary footer">
+  <div class="yale-footer__inner">
+    <p><span>© 2025</span></p>
+    <ul>
+<li><a href="/about/support-the-school">Support the School</a></li>
+<li><a href="/about/visiting">Visiting</a></li>
+<li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
+<li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
+<li><a href="http://yaleart.org/youtube">YouTube</a></li>
+<li><a href="/about/contact">Contact</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at Yale</a></li>
+</ul>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4B2R5GMC0');
+</script>
+
+  </div>
+</footer>
+    </div>
+    <div id="mobile-footer" class="mobile-footer">
+      <section class="wiki-disclaimer" aria-label="Wiki explainer">
+  <div class="wiki-disclaimer__inner">
+    <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing. Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.</p>
+
+<p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale University academic and network use policy, and to act as a responsible member of our community.</p>
+
+  </div>
+</section>
+        <section class="economy-footer" aria-label="content management footer">
+    <div class="economy-footer__inner">
+      <div class="economy-footer__economy-links">
+        <div class="economy-footer__button-container">
+            <a href="/login">
+              <div class="economy-footer__button">Visitor: Log in</div>
+</a>        </div>
+
+        <div class="economy-footer__button-container">
+            <a href="/news/2023-2024-postgraduate-fellows/edit">
+                <div class="economy-footer__button">Edit this page</div>
+</a>        </div>
+
+          <div class="economy-footer__button-container">
+            <a href="/pages/5029?page_id=203232">
+              <div class="economy-footer__button">Page history</div>
+</a>          </div>
+
+
+      </div>
+      <div class="economy-footer__metadata">
+        <p>Page last changed by: <span>Paloma Izquierdo</span></p>
+
+          <p>Background changed by: Unknown
+      </div>
+    </div>
+  </section>
+
+    </div>
+  </div>
+
+      <script>
+
+  ga('set', 'dimension18', '/news/2023-2024-postgraduate-fellows/pages/203232');
+</script>
+
+    </body>
+
+</html>
