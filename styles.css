@@ -1,0 +1,26 @@
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+summary {
+  list-style: none;
+  outline: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+summary h4 {
+  margin: 0;
+  font-size: 1rem;
+}
