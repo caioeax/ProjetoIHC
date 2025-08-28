@@ -7,14 +7,17 @@
   <title>Yale School of Art - Home</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="Yale School of Art collaborative wiki homepage." />
+  <!-- Modern page: light background, green secondary color, all inline styles -->
 </head>
 
 <body style="margin:0;padding:0;">
 
+  <!-- Accessibility Skip Link -->
   <a href="#main-content"
     style="position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:1000;background:#2e7d32;color:#fff;padding:12px 16px;border-radius:4px;text-decoration:none;"
     onfocus="this.style.left='12px';this.style.width='auto';this.style.height='auto';">Skip to content</a>
 
+  <!-- Header -->
   <header style="width:100%;background:#ffffff;border-bottom:1px solid #e2e2dd;position:sticky;top:0;z-index:50;">
     <div style="max-width:1300px;margin:0 auto;padding:12px 28px;display:flex;align-items:center;gap:40px;">
       <div style="display:flex;flex-direction:column;gap:2px;">
@@ -26,7 +29,8 @@
           <li><a href="/"
               style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Home</a>
           </li>
-          <li><a href="/about"
+          <li>
+            <a href="/about"
               style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">About</a>
           </li>
           <li><a href="/apply"
@@ -49,6 +53,7 @@
     </div>
   </header>
 
+  <!-- Hero -->
   <section
     style="background:linear-gradient(145deg,#ffffff 0%,#f0f2eb 100%);padding:60px 24px;border-bottom:1px solid #e3e3dc;">
     <div style="max-width:1250px;margin:0 auto;display:flex;flex-wrap:wrap;gap:50px;align-items:center;">
@@ -69,7 +74,8 @@
             Now</a>
           <a href="/about"
             style="background:#ffffff;border:2px solid #2e7d32;color:#0d2b14;text-decoration:none;padding:12px 24px;font-weight:600;border-radius:8px;font-size:15px;">About
-            the School</a>
+            the School
+          </a>
         </div>
       </div>
       <figure style="flex:1 1 420px;min-width:280px;margin:0;position:relative;">
@@ -83,10 +89,12 @@
     </div>
   </section>
 
+  <!-- Main Section Cards -->
   <section
     style="max-width:1250px;margin:0 auto;padding:50px 24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:32px;"
     id="main-content">
 
+    <!-- Quick Links -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:10px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
       <h2 style="margin:0 0 6px;font-size:20px;color:#0d2b14;">Quick Links</h2>
@@ -108,6 +116,7 @@
       <div style="margin-top:12px;font-size:11px;color:#777;">Last edited: Lindsey Mancini</div>
     </div>
 
+    <!-- About this Wiki -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:14px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
       <h2 style="margin:0;font-size:20px;color:#0d2b14;">About this Wiki</h2>
@@ -117,18 +126,40 @@
         University academic and network use policies.</p>
       <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:6px;">
         <a href="/login"
-          style="flex:1 1 140px;min-width:140px;background:#2e7d32;color:#fff;text-align:center;text-decoration:none;padding:10px 14px;border-radius:8px;font-weight:600;font-size:14px;">Visitor:
-          Log in</a>
+          style="display: flex; flex-direction: row; justify-content: center; flex:1 1 140px;min-width:140px;background:#2e7d32;color:#fff;text-align:center;text-decoration:none;padding:10px 14px;border-radius:8px;font-weight:600;font-size:14px;">
+          <svg style="margin-right: 10px;" width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M6 16.9998C6 17.3511 6 17.5268 6.01567 17.6795C6.14575 18.9473 7.0626 19.9945 8.30206 20.291C8.45134 20.3267 8.6255 20.3499 8.97368 20.3963L15.5656 21.2753C17.442 21.5254 18.3803 21.6505 19.1084 21.361C19.7478 21.1068 20.2803 20.6406 20.6168 20.0405C21 19.3569 21 18.4104 21 16.5174V7.48232C21 5.58928 21 4.64275 20.6168 3.95923C20.2803 3.35911 19.7478 2.89288 19.1084 2.63868C18.3803 2.34914 17.442 2.47423 15.5656 2.72442L8.97368 3.60335C8.62546 3.64978 8.45135 3.67299 8.30206 3.7087C7.0626 4.0052 6.14575 5.05241 6.01567 6.32018C6 6.47288 6 6.64854 6 6.99984M12 7.99984L16 11.9998M16 11.9998L12 15.9998M16 11.9998H3"
+              stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+          Log in
+        </a>
         <a href="/home/edit"
-          style="flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">Edit
-          this page</a>
+          style="display: flex; flex-direction: row; justify-content: center;flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">
+          <svg style="margin-right: 10px;" width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M21.2799 6.40005L11.7399 15.94C10.7899 16.89 7.96987 17.33 7.33987 16.7C6.70987 16.07 7.13987 13.25 8.08987 12.3L17.6399 2.75002C17.8754 2.49308 18.1605 2.28654 18.4781 2.14284C18.7956 1.99914 19.139 1.92124 19.4875 1.9139C19.8359 1.90657 20.1823 1.96991 20.5056 2.10012C20.8289 2.23033 21.1225 2.42473 21.3686 2.67153C21.6147 2.91833 21.8083 3.21243 21.9376 3.53609C22.0669 3.85976 22.1294 4.20626 22.1211 4.55471C22.1128 4.90316 22.0339 5.24635 21.8894 5.5635C21.7448 5.88065 21.5375 6.16524 21.2799 6.40005V6.40005Z"
+              stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path
+              d="M11 4H6C4.93913 4 3.92178 4.42142 3.17163 5.17157C2.42149 5.92172 2 6.93913 2 8V18C2 19.0609 2.42149 20.0783 3.17163 20.8284C3.92178 21.5786 4.93913 22 6 22H17C19.21 22 20 20.2 20 18V13"
+              stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+
+          Edit
+        </a>
         <a href="/pages/2?page_id=218059"
-          style="flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">Page
+          style="display: flex; flex-direction: row; justify-content: center;flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">
+          <svg style="margin-right: 10px;" width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M5.01112 11.5747L6.29288 10.2929C6.68341 9.90236 7.31657 9.90236 7.7071 10.2929C8.09762 10.6834 8.09762 11.3166 7.7071 11.7071L4.7071 14.7071C4.51956 14.8946 4.26521 15 3.99999 15C3.73477 15 3.48042 14.8946 3.29288 14.7071L0.292884 11.7071C-0.0976406 11.3166 -0.0976406 10.6834 0.292884 10.2929C0.683408 9.90236 1.31657 9.90236 1.7071 10.2929L3.0081 11.5939C3.22117 6.25933 7.61317 2 13 2C18.5229 2 23 6.47715 23 12C23 17.5228 18.5229 22 13 22C9.85817 22 7.05429 20.5499 5.22263 18.2864C4.87522 17.8571 4.94163 17.2274 5.37096 16.88C5.80028 16.5326 6.42996 16.599 6.77737 17.0283C8.24562 18.8427 10.4873 20 13 20C17.4183 20 21 16.4183 21 12C21 7.58172 17.4183 4 13 4C8.72441 4 5.23221 7.35412 5.01112 11.5747ZM13 5C13.5523 5 14 5.44772 14 6V11.5858L16.7071 14.2929C17.0976 14.6834 17.0976 15.3166 16.7071 15.7071C16.3166 16.0976 15.6834 16.0976 15.2929 15.7071L12.2929 12.7071C12.1054 12.5196 12 12.2652 12 12V6C12 5.44772 12.4477 5 13 5Z"
+              fill="#000000" />
+          </svg>
           history</a>
       </div>
       <div style="margin-top:10px;font-size:11px;color:#777;">Background changed by: Kris Mandelbaum</div>
     </div>
 
+    <!-- Featured -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
       <h2 style="margin:0;font-size:20px;color:#0d2b14;">Featured</h2>
@@ -141,6 +172,7 @@
       <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
     </div>
 
+    <!-- Happening at SoA -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
       <h2 style="margin:0;font-size:20px;color:#0d2b14;">Happening at SoA</h2>
@@ -156,6 +188,7 @@
       <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
     </div>
 
+    <!-- Calendar -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);grid-column:1 / -1;">
       <h2 style="margin:0;font-size:22px;color:#0d2b14;">On the Calendar</h2>
@@ -167,11 +200,13 @@
       <div style="font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
     </div>
 
+    <!-- Community Bulletin Board -->
     <div
       style="background:#ffffff;border:2px solid #2e7d32;border-radius:22px;padding:26px;display:flex;flex-direction:column;gap:18px;box-shadow:0 4px 16px -6px rgba(0,0,0,.12);grid-column:1 / -1;">
       <h2 style="margin:0;font-size:26px;color:#0d2b14;display:flex;align-items:center;gap:10px;">Community Bulletin
         Board</h2>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;">
+        <!-- Card 1 -->
         <div
           style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
           <h3 style="margin:0;font-size:17px;color:#0d2b14;">Yale Center for Environmental Justice</h3>
@@ -181,6 +216,7 @@
               style="color:#2e7d32;text-decoration:none;">ulia.simon@yale.edu</a></p>
           <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
         </div>
+        <!-- Card 2 -->
         <div
           style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
           <h3 style="margin:0;font-size:17px;color:#0d2b14;">Arts Apprenticeship / Internships</h3>
@@ -193,6 +229,7 @@
               style="color:#2e7d32;text-decoration:none;">Contact &gt;</a></p>
           <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
         </div>
+        <!-- Card 3 -->
         <div
           style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
           <h3 style="margin:0;font-size:17px;color:#0d2b14;">Mapping Public Art</h3>
@@ -204,6 +241,7 @@
           </p>
           <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
         </div>
+        <!-- Card 4 -->
         <div
           style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
           <h3 style="margin:0;font-size:17px;color:#0d2b14;">Add Your Project</h3>
@@ -214,6 +252,7 @@
             background &gt;&gt;</a>
           <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
         </div>
+        <!-- Card 5 -->
         <div
           style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
           <h3 style="margin:0;font-size:17px;color:#0d2b14;">Message from Communications</h3>
@@ -225,6 +264,7 @@
       </div>
     </div>
 
+    <!-- Calendars & Newsletters -->
     <div
       style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:24px;display:flex;flex-direction:column;gap:14px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
       <h2 style="margin:0;font-size:22px;color:#0d2b14;">Calendars &amp; Newsletters</h2>
@@ -241,13 +281,15 @@
         <p style="margin:0 0 14px;"><a href="http://eepurl.com/c4lFMn"
             style="color:#2e7d32;text-decoration:none;font-weight:600;">Sign up for newsletters &gt;&gt;</a></p>
         <p style="margin:0;font-size:13px;">Public monthly: <strong>News From New Haven</strong><br />Weekly internal:
-          <strong>Week at SoA</strong></p>
+          <strong>Week at SoA</strong>
+        </p>
       </div>
       <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
     </div>
 
   </section>
 
+  <!-- Final CTA -->
   <section style="background:#ffffff;border-top:1px solid #e2e2dd;padding:60px 24px;">
     <div style="max-width:1100px;margin:0 auto;display:flex;flex-wrap:wrap;gap:40px;align-items:center;">
       <div style="flex:1 1 420px;min-width:260px;">
@@ -271,6 +313,7 @@
     </div>
   </section>
 
+  <!-- Footer -->
   <footer style="background:#0d2b14;color:#ffffff;padding:38px 24px 60px;position:relative;">
     <div style="max-width:1250px;margin:0 auto;display:flex;flex-wrap:wrap;gap:40px;">
       <div style="flex:1 1 260px;min-width:220px;">
