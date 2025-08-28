@@ -1,1117 +1,239 @@
 <!DOCTYPE html>
-<html lang="en" data-app="economy-artyale" class="show animations-playing ">
-
-<head itemscope itemtype="http://schema.org/WebSite">
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="This site was built with Economy by Linked by Air." />
-  <meta name="keywords" content="" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" id="meta-viewport" />
-
-  <meta property="og:title" content="Home - Yale School of Art" />
-  <meta property="og:site_name" content="Yale School of Art" />
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="This site was built with Economy by Linked by Air." />
-
-
-  <meta name="csrf-param" content="authenticity_token" />
-  <meta name="csrf-token"
-    content="xFw4W/20JBTpAHIWCDGMEpjncaURE39PtXWVTvHDq5n+8g7Reop/nslhy4WFJw25Xsz6hD4HABte7lXLJSzh/w==" />
-
-  <title itemprop="name">Home - Yale School of Art</title>
-
-  <link rel="shortcut icon" type="image/png"
-    href="https://d1d46yb6s756qi.cloudfront.net/assets/favicon-1da2c86914b59712136d96701aa47e90a7c71c3cf2ddc54ecf5ab33210a224d3.png" />
-
-  <link rel="stylesheet" href="style.css">
-
-
-  <link rel="stylesheet" media="all"
-    href="https://d1d46yb6s756qi.cloudfront.net/assets/economy-viewing-da2d4d5f2e8757364c3c30b150fe9d734b3f73b4eacae123c4c549bb0e45e094.css"
-    data-turbolinks-track="reload" />
-
-
-
-  <script
-    src="https://d1d46yb6s756qi.cloudfront.net/assets/application-9662caf0225184b0d6028011ce0f3ed83ca60b136bd2729a8963fe2d9cfa12fa.js"
-    data-turbolinks-track="reload"></script>
-
-
-  <script>
-
-
-    function ga() { }
-    console.warn('Google Analytics has not been configured.');
-
-
-  </script>
-
-
-
-
-
-
-
+<html lang="en" style="margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,'Helvetica Neue',Arial,sans-serif;line-height:1.4;background:#f9f9f6;color:#222;">
+<head>
+<meta charset="utf-8" />
+<title>Yale School of Art - Home</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="description" content="Yale School of Art collaborative wiki homepage." />
+<!-- Modern page: light background, green secondary color, all inline styles -->
 </head>
+<body style="margin:0;padding:0;">
 
-<body class="page-path-- controller--pages action--show ">
-  <a href="#magic_modules" class="skip-to-content-link" data-turbolinks="false">Skip to main content</a>
+<!-- Accessibility Skip Link -->
+<a href="#main-content" style="position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:1000;background:#2e7d32;color:#fff;padding:12px 16px;border-radius:4px;text-decoration:none;"
+   onfocus="this.style.left='12px';this.style.width='auto';this.style.height='auto';">Skip to content</a>
 
-  <div class="backgrounds" style="background-color: rgba(0, 0, 0, 0.9);">
-  </div>
-
-  <div id="collapsible-menu" class="collapsible-menu">
-    <button class="collapsible-menu__hamburger-icon" aria-expanded="false" aria-controls="collapsible-menu"
-      aria-label="Site menu (expand to pause animations)">
-
-      <svg width="43px" height="34px" viewbox="0 0 43 34" version="1.1" xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink">
-        <g transform="translate(-252, -17)">
-          <rect class="hamburger-backround" fill="transparent" x="252" y="17" width="43" height="34"></rect>
-          <g transform="translate(256, 21)" class="hamburger-bars" fill="#FFFFFF">
-            <rect class="hamburger-bar" x="0" y="0" width="35" height="6"></rect>
-            <rect class="hamburger-bar" x="0" y="10" width="35" height="6"></rect>
-            <rect class="hamburger-bar" x="0" y="20" width="35" height="6"></rect>
-          </g>
-        </g>
-      </svg>
-    </button>
-
-    <div class="collapsible-menu__inner" aria-hidden="true">
-      <nav class="main-nav" role="navigation" aria-label="primary">
-        <ul class="list--blank">
-          <li class="main-nav__item">
-            <a href="/" class="sidebar_link_main">Home</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/about" class="sidebar_link_main">About the School</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/apply" class="sidebar_link_main">171717Apply to the School</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/exhibitions" class="sidebar_link_main">Exhibitions</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/publications" class="sidebar_link_main">Publications</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/news" class="sidebar_link_main">News</a>
-          </li>
-          <li class="main-nav__item">
-            <a href="/public-events" class="sidebar_link_main">Public Events</a>
-          </li>
-        </ul>
-      </nav>
-      <button class="collapsible-menu__closer" aria-label="Close site menu"
-        aria-controls="collapsible-menu">Close</button>
+<!-- Header -->
+<header style="width:100%;background:#ffffff;border-bottom:1px solid #e2e2dd;position:sticky;top:0;z-index:50;">
+  <div style="max-width:1300px;margin:0 auto;padding:12px 28px;display:flex;align-items:center;gap:40px;">
+    <div style="display:flex;flex-direction:column;gap:2px;">
+      <span style="font-size:20px;font-weight:600;color:#0d2b14;letter-spacing:.5px;">Yale School of Art</span>
+      <span style="font-size:12px;color:#4d4d4d;">1156 Chapel Street, POB 208339 – New Haven, CT 06520-8339</span>
     </div>
+    <nav aria-label="Primary" style="margin-left:auto;">
+      <ul style="list-style:none;display:flex;flex-wrap:wrap;gap:18px;margin:0;padding:0;">
+        <li><a href="/" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Home</a></li>
+        <li><a href="/about" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">About</a></li>
+        <li><a href="/apply" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Apply</a></li>
+        <li><a href="/exhibitions" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Exhibitions</a></li>
+        <li><a href="/publications" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Publications</a></li>
+        <li><a href="/news" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">News</a></li>
+        <li><a href="/public-events" style="text-decoration:none;color:#0d2b14;font-weight:500;padding:6px 4px;border-bottom:2px solid transparent;">Public Events</a></li>
+      </ul>
+    </nav>
   </div>
-
-
-  <div id="outer-container" style="margin-left: auto; margin-right: auto;">
-    <div id="mobile-pause-sticky-wrapper">
-      <header class="page-header" style="display: flex; justify-content:center; padding: 0 !important; margin: 2rem auto;">
-        <div class="page-header__inner" style="display: flex; gap: 20px">
-          <span>Yale School of Art
-          </span><br /><span>1156 Chapel Street, POB 208339
-          </span><br /><span>New Haven, Connecticut, 06520-8339
-          </span>
-        </div>
-      </header>
-      <button class="pause-animations">
-        <span class="pause-animations__label--for-when-playing">
-          Pause animations
-          <?xml version="1.0" encoding="utf-8"?>
-          <!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14"
-            style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
-            <rect x="2.2" width="3.7" height="13" fill="#000"></rect>
-            <rect x="7.8" width="3.7" height="13" fill="#000"></rect>
-          </svg>
-          </a>
-        </span> <span class="pause-animations__label--for-when-paused">
-          Play animations
-          <?xml version="1.0" encoding="utf-8"?>
-          <!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewbox="0 0 14 14"
-            style="enable-background:new 0 0 14 14;" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
-            <polygon fill="#000" points="1.1,13 13.1,6.5 1.1,0 "></polygon>
-          </svg>
-          </a>
-        </span></button>
-
-
-      <div class="sidebar-content-container">
-        <section id="sidebar" class="sidebar" aria-label="sidebar">
-          <nav class="" style="background-color: #171717; padding: 1rem; border: 1px solid #5da5008a; border-radius: 8px; color: white" role="navigation" aria-label="primary">
-            <ul class="list--blank">
-              <li style="color: white">
-                <a href="/" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Home</a>
-              </li>
-              <li style="color: white">
-                <a href="/about" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">About the School</a>
-              </li>
-              <li style="color: white">
-                <a href="/apply" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Apply to the School</a>
-              </li>
-              <li style="color: white">
-                <a href="/exhibitions" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Exhibitions</a>
-              </li>
-              <li style="color: white">
-                <a href="/publications" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Publications</a>
-              </li>
-              <li style="color: white">
-                <a href="/news" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">News</a>
-              </li>
-              <li style="color: white">
-                <a href="/public-events" style="text-decoration: underline; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Public Events</a>
-              </li>
-            </ul>
-          </nav>
-        
-
-          <section class="wiki-disclaimer" style="background-color: #171717; color: white; font-size: 16px; border: 1px solid #5da5008a; border-radius: 16px" aria-label="Wiki explainer">
-            <div class="wiki-disclaimer__inner">
-              <p>This website exists as an ongoing collaborative experiment in digital publishing and information
-                sharing. Because this website functions as a wiki, all members of the School of Art community—graduate
-                students, faculty, staff, and alums—have the ability to add new content and pages, and to edit most of
-                the site’s existing content.</p>
-
-              <p>Content is the property of its various authors. When you contribute to this site, you agree to abide by
-                Yale University academic and network use policy, and to act as a responsible member of our community.
-              </p>
-
-            </div>
-          </section>
-          <section class="" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; margin-top: 1rem" aria-label="content management footer">
-            <div class="economy-footer__inner">
-              <div class="economy-footer__economy-links">
-                <div class="">
-                  <a href="/login">
-                    <div style="background-color: #5da5008a; color: white; margin-top: 1rem; border-radius: 4px; width: 100%; text-align: center;"class="economy-footer__button">Visitor: Log in</div>
-                  </a>
-                </div>
-
-                <div class="">
-                  <a href="/home/edit">
-                    <div style="background-color: #5da5008a; color: white; margin-top: 1rem; border-radius: 4px; width: 100%; text-align: center;"class="economy-footer__button">Edit this page</div>
-                  </a>
-                </div>
-
-                <div class="">
-                  <a href="/pages/2?page_id=218059">
-                    <div style="background-color: #5da5008a; color: white; margin-top: 1rem; border-radius: 4px; width: 100%; text-align: center;"class="economy-footer__button">Page history</div>
-                  </a>
-                </div>
-
-
-              </div>
-              <div class="economy-footer__metadata">
-                <p>Page last changed by: <span>Lindsey Mancini</span></p>
-
-                <p>Background changed by: Kris Mandelbaum
-              </div>
-            </div>
-          </section>
-
-        </section>
-
-        <main id="magic_modules">
-
-
-
-
-          <div id="mmi-36474" class="background-module colspan-4 measurable magic-module"
-            data-event-category="magic_module/background_module/36474" data-event-label="Background Module 36474 (2/26)"
-            data-instance-id="36474" data-id="34778">
-
-            <style>
-              .backgrounds__pattern {
-                background-image: url(https://cdn.filestackcontent.com/1lXM9r0HTeSlAL9onqql);
-                background-repeat: repeat;
-              }
-
-              html.animations-paused .backgrounds__pattern {
-                background-image: url(https://cdn.filestackcontent.com/output=format:jpg/1lXM9r0HTeSlAL9onqql);
-              }
-
-
-              .backgrounds__stripe {
-                background-color: rgba(255, 255, 0, 0.25);
-              }
-            </style>
-
-
-
-
-          </div>
-
-
-
-          <a name="yale-school-shy-of-art"></a>
-
-
-
-
-          <div id="mmi-25594"
-            class="title-module colspan-4 rag title-module--prominence-1 colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/title_module/25594"
-            data-event-label="Title Module Yale School &amp;shy;of Art (1/26)" data-instance-id="25594" data-id="34049">
-            <h1 id="title" style="text-align: center; font-size: 45px; color: white;" aria-label="Yale School ­of Art"> 
-              Yale School of Art
-            </h1>
-          </div>
-
-
-          <a name="mmi-26728"></a>
-
-
-
-
-          <div id="mmi-26728" class="colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/26728"
-            style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 8px; padding: 1rem; color: white;"
-            data-event-label="Scrolling Text Module 26728 (3/26)" data-instance-id="26728" data-id="103674">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <font size="2">The School of Art is one of <strong>Yale’s Graduate &amp; Professional Schools</strong>
-                conferring MFA degrees in Graphic Design, Painting/Printmaking, Photography, and Sculpture; and offers
-                undergraduate-level art courses to Yale College students. Our website exists as an <strong>ongoing
-                  collaborative experiment</strong> in digital publishing and information sharing. It functions as a
-                wiki—all members of the School of Art community have the ability to add new, and edit most existing
-                content.</font>
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Taryn Wolf</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="quick-links"></a>
-
-
-
-
-          <div id="mmi-26781" class="colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/accordion_module/26781"
-            style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 8px; padding: 1rem; color: white;"
-            data-event-label="Accordion Module Quick Links  (4/26)" data-instance-id="26781" data-id="4447">
-            <details>
-              <summary style="list-style: none; outline: none; padding: 0.5rem 1rem; ::before { }" aria-expanded="false">
-                <h4 class="">Quick Links </h4>
-
-              </summary>
-              <div class="accordion-module__content">
-                <blockquote>
-                  <p><a href="/about/facilities">Facilities &gt;</a></p>
-
-                  <p><a href="/courses">Courses &gt;</a></p>
-
-                  <p><strong><a href="/opportunities">Opportunities &gt;</a></strong></p>
-                </blockquote>
-
-                <p><strong>NEWSLETTERS &amp; CALENDARS</strong></p>
-
-                <blockquote>
-                  <p><a href="https://www.art.yale.edu/calendar">Community Calendar &gt;</a></p>
-
-                  <p><strong><a href="/about/resources/academic-calendar">Academic Calendar &gt;</a></strong></p>
-
-                  <p><a href="https://www.art.yale.edu/public-events">Public Events Calendar &gt;</a></p>
-                </blockquote>
-
-                <p></p>
-                <hr>
-                <div class='editor-details editor-details--offset-inside-margin'>
-                  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-                  <details>
-                    <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                      <span><strong>Editor details</strong></span>
-                    </summary>
-                    <div class="editor-details__content" tabindex="0">
-                      <p>Last edited by: Lindsey Mancini</p>
-                      <p>Edit access: Everybody</p>
-                    </div>
-                  </details>
-                </div>
-              </div>
-            </details>
-
-          </div>
-
-
-          <a name="mmi-31700"></a>
-
-
-
-
-          <div id="mmi-31700" class="jump-links-module colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/jump_links_module/31700" data-event-label="Jump Links Module 31700 (5/26)"
-            data-instance-id="31700" data-id="445">
-            <p style="color: white;">
-              <span>On this page</span>
-            </p>
-
-            <ul style="color: white;" hover="">
-              <li><a data-turbolinks="false" href="#happening-at-soa">Happening at SoA</a></li>
-              <li><a data-turbolinks="false" href="#community-bulletin-board">Community Bulletin Board</a></li>
-              <li><a data-turbolinks="false" href="#calendars-newsletters">Calendars &amp; Newsletters</a></li>
-            </ul>
-
-          </div>
-
-
-          <a name="mmi-44557"></a>
-
-
-
-
-          <div id="mmi-44557" class="single-image-module colspan-3 rag measurable magic-module"
-            data-event-category="magic_module/single_image_module/44557"
-            data-event-label="Single Image Module 44557 (6/26)" data-instance-id="44557" data-id="60489">
-
-
-
-            <div class="single-image-module__image-container">
-              <a style="color: white;" href="https://www.art.yale.edu/classof2025">
-                <div class="pauseable-image"><img class="pauseable-image__source pauseable-image__source--animated"
-                    alt="Click for full information about the graduating MFA class of 2025."
-                    src="https://cdn.filestackcontent.com/resize=width:525/ry3lC2aFTHqq2DNNgwxD" /><img
-                    class="pauseable-image__source pauseable-image__source--static"
-                    alt="Click for full information about the graduating MFA class of 2025."
-                    src="https://cdn.filestackcontent.com/resize=width:525/output=format:jpg/ry3lC2aFTHqq2DNNgwxD" />
-                </div><span class="visually-hidden">(opens in a new window)</span>
-              </a>
-
-            </div>
-
-
-            <div class="single-image-module__caption" style="background-color: transparent; border: 1px solid #ffffff1a; border-radius: 15px; color: white;">Yale School of Art’s 2024 commencement exercises. Photo: Adrian
-              Martinez Chavez, Photography MFA ‘23.</div>
-
-
-
-
-
-
-          </div>
-
-
-          <a name="mmi-44558"></a>
-
-
-
-
-          <div id="mmi-44558" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-1 rag measurable magic-module"
-            style="background-color: transparent; border: 1px solid #ffffff1a; border-radius: 15px; color: white;" data-event-category="magic_module/scrolling_text_module/44558"
-            data-event-label="Scrolling Text Module 44558 (7/26)" data-instance-id="44558" data-id="108225">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <p>
-                <font size="4"><strong>Congratulations to the MFA Class of 2025! 🎓🥂</strong></font>
-              </p>
-
-              <p>
-                <font size="3">On Monday, May 19, the Yale School of Art celebrates its graduating class of 2025 with a
-                  commencement address by theorist and artist Eva Hayward.</font>
-              </p>
-
-              <p><strong><a href="https://www.art.yale.edu/classof2025" style="color: rgb(255, 255, 255);">Learn more about the MFA Class of 2025
-                    &gt;&gt;</a></strong></p>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Lindsey Mancini</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-38773"></a>
-
-
-
-
-          <div id="mmi-38773" class="divider-module colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/divider_module/38773" data-event-label="Divider Module 38773 (8/26)"
-            data-instance-id="38773" data-id="57593">
-            <hr style="color: #5da5008a;">
-
-          </div>
-
-
-          <a name="happening-at-soa"></a>
-
-
-
-
-          <div id="mmi-31264"
-            class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/title_module/31264"
-            data-event-label="Title Module Happening at SoA (9/26)" data-instance-id="31264" data-id="34050">
-            <h2 style="text-align: center; font-size: 45px; color: white;" aria-label="Happening at SoA">
-              Happening at Soa
-            </h2>
-
-
-          </div>
-
-
-          <a name="mmi-33660"></a>
-
-
-
-
-          <div id="mmi-33660" class="colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/announcement_module/33660"
-            style="background-color: #171717; border: 1px solid #ffffff1a; border-radius: 15px; padding: 1rem; color: white;"
-            data-event-label="Announcement Module 33660 (10/26)" data-instance-id="33660" data-id="56744">
-            <div class="announcement-module__inner">
-              <div>
-                <br>
-                <p><a href="https://www.art.yale.edu/news/visiting-artist-lectures/spring-2025"><strong>See the Spring
-                      2025 Visiting Artist lecture schedule here &gt;</strong>
-                    </a>
-                </p>
-                <br>
-
-                <hr>
-                <br>
-
-                <p>
-                  <font size="3"><a href="https://www.art.yale.edu/news/visiting-artist-lectures/fall-2024"><strong>Fall
-                        2024 archive &gt;</strong></a></font>
-                </p>
-
-                <br>
-                <hr>
-                <br>
-
-                <p><a href="https://www.art.yale.edu/exhibitions"><strong>Spring 2025 exhibitions + schedule here
-                      &gt;</strong>
-                  </a>
-                </p>
-              </div>
-
-              <div class='editor-details editor-details--offset-inside-margin'>
-                <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-                <details>
-                  <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                    <span><strong>Editor details</strong></span>
-                  </summary>
-                  <div class="editor-details__content" tabindex="0">
-                    <p>Last edited by: Lindsey Mancini</p>
-                    <p>Edit access: Everybody</p>
-                  </div>
-                </details>
-              </div>
-            </div>
-
-          </div>
-
-
-          <a name="on-the-calendar"></a>
-
-
-
-
-          <div id="mmi-32069"
-            class="title-module colspan-4 rag title-module--prominence-3 colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/title_module/32069"
-            data-event-label="Title Module On the calendar: (11/26)" data-instance-id="32069" data-id="34051">
-            <h3 class="title-module__title page-title--prominence-3" aria-label="On the calendar:
-">
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">On</span>
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">the</span>
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">calendar:</span>
-            </h3>
-
-
-          </div>
-
-
-          <a name="mmi-32022"></a>
-
-
-
-
-          <div id="mmi-32022" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/32022"
-            style="background-color: #171717; border: 1px solid #ffffff1a; border-radius: 15px; padding: 1rem; color: white;"
-            data-event-label="Scrolling Text Module 32022 (12/26)" data-instance-id="32022" data-id="99065">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <div class="eca-app-container" data-widgetuuid="483836a2-b66a-4867-971b-9622aa521bd3"></div>
-
-              <script>(function () {
-                  window.eventCalId = 5535;
-                  var integrationScript = document.createElement("script");
-                  integrationScript.async = 1;
-                  integrationScript.setAttribute("src", "https://api.eventcalendarapp.com/integration-script.js");
-                  document.head.appendChild(integrationScript);
-                  if (window.eventCalendarAppUtilities) { window.eventCalendarAppUtilities.init("483836a2-b66a-4867-971b-9622aa521bd3"); }
-                })();
-              </script>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Kris Mandelbaum</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-32047"></a>
-
-
-
-
-          <div id="mmi-32047" class="divider-module colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/divider_module/32047" data-event-label="Divider Module 32047 (13/26)"
-            data-instance-id="32047" data-id="56921">
-            <hr style="color: #5da5008a;">
-
-          </div>
-
-
-          <a name="community-bulletin-board"></a>
-
-
-
-
-          <div id="mmi-26725"
-            class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/title_module/26725"
-            data-event-label="Title Module Community Bulletin Board (14/26)" data-instance-id="26725" data-id="34052">
-            <h2 class="title-module__title page-title--prominence-2" aria-label="Community Bulletin Board
-">
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">Community</span>
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">Bulletin</span>
-              <span style="background-image: none; color: white" role="presentation" aria-hidden="true">Board</span>
-            </h2>
-
-
-          </div>
-
-
-          <a name="from-our-friends-at-the-yale-center-for-environmental-justice"></a>
-
-
-
-
-          <div id="mmi-35271" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/35271"
-            data-event-label="Scrolling Text Module From our friends at the Yale Center for Environmental Justice (15/26)"
-            data-instance-id="35271" data-id="99067">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-              <h4 class="scrolling-text-module__title page-title--prominence-4">From our friends at the Yale Center for
-                Environmental Justice</h4>
-              <p>The Yale Center for Environmental Justice is in the process of planning our fourth annual Global
-                Environmental Justice Conference, with this year focusing on the theme of “Environmental Joy.” The
-                conference aims to explore the ways in which environmental and climate justice and the communities
-                engaged in that work generate joy. Guided by the notion that the ultimate goal of most environmental and
-                climate work is to alleviate suffering and increase wellbeing, Environmental Joy will explore and
-                celebrate the diverse ways that environmental justice achieves this goal.</p>
-
-              <p>One facet of the conference programming we hope to organize is a juried art show soliciting works from
-                artists around the world on the theme of Environmental Joy to be showcased in an exhibition during the
-                conference. We are currently seeking any interested students or faculty who would be interested in
-                supporting the planning and execution of this call for art. If you’re interested in learning more about
-                the opportunity, please contact Julia Simon at j<a
-                  href="mailto:ulia.simon@yale.edu">ulia.simon@yale.edu</a>.</p>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Kris Mandelbaum</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="faculty-alumni-post-your-art-apprenticeship-internship-opportunities-for-undergraduates"></a>
-
-
-
-
-          <div id="mmi-29358" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/29358"
-            data-event-label="Scrolling Text Module Faculty/Alumni: Post Your Art Apprenticeship/Internship Opportunities for Undergraduates (16/26)"
-            data-instance-id="29358" data-id="99068">
-            <div class="scrolling-text-module__inner" style="max-height: 36.0em" tabindex="0">
-              <h4 class="scrolling-text-module__title page-title--prominence-4">Faculty/Alumni: Post Your Art
-                Apprenticeship/Internship Opportunities for Undergraduates</h4>
-              The Yale Arts Apprenticeship Program is an initiative that connects Yale undergraduates, particularly
-              those on financial aid, with professional arts practitioners of any discipline.
-              As an option within Yale’s Summer Experience Award (SEA) funding model, the Arts Apprenticeship must
-              fulfill the same basic requirements. Additional details, as well as those specific to the Arts
-              Apprenticeship are included below.
-              Yale faculty, alumni, or other arts practitioners interested in featuring positions through the program
-              should contact Yale’s Creative Careers advisor.
-              Which Opportunities are Eligible?
-              Must be at least 30 hours/week, for at least 8-weeks over the summer months. Those 8-weeks do not have to
-              be continuous if the mentoring Arts Practitioner agrees on a different schedule. The time commitment need
-              not all be in direct contact with the Arts Practitioner. Independent projects, tasks, research, etc. can
-              comprise much of the experience, as long as the Arts Practitioner is checking in regularly with the
-              student to provide oversight and career-based context.
-              The opportunity cannot be with a for-profit organization. The engagement for an Arts Apprenticeship should
-              be directly with an individual Arts Practitioner and not with a company. The only exception to this would
-              be if the company overseeing the apprenticeship were a registered non-profit organization.
-              For more information: <a
-                href="https://ocs.yale.edu/channels/arts-apprenticeship/">https://ocs.yale.edu/channels/arts-apprenticeship/</a>
-              To post a job, contact: <a
-                href="https://ocs.yale.edu/staff-list/#derek-i-webster">https://ocs.yale.edu/staff-list/#derek-i-webster</a>
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Kris Mandelbaum</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-31350"></a>
-
-
-
-
-          <div id="mmi-31350" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/31350"
-            data-event-label="Scrolling Text Module 31350 (17/26)" data-instance-id="31350" data-id="99359">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <p><strong>MAPPING PUBLIC ART IN NEW HAVEN</strong></p>
-
-              <p>Hey everyone! I’ve been mapping public art in New Haven as part of my nonprofit project ArtAround and
-                I’d love to invite you to join me, or just check it out and see what you think.</p>
-
-              <blockquote>
-                <p><strong><a href="https://map.artaround.org/?city=New%20Haven" target="_blank">New Haven map
-                      &gt;</a></strong></p>
-
-                <p><strong><a href="https://artaround.org/" target="_blank">ArtAround homepage &gt;</a></strong></p>
-              </blockquote>
-
-              <p>&lt;3 Lindsey</p>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Lindsey Mancini</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-29454"></a>
-
-
-
-
-          <div id="mmi-29454" class="divider-module colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/divider_module/29454" data-event-label="Divider Module 29454 (18/26)"
-            data-instance-id="29454" data-id="56923">
-          </div>
-
-
-          <a name="mmi-27345"></a>
-
-
-
-
-          <div id="mmi-27345" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/27345"
-            data-event-label="Scrolling Text Module 27345 (19/26)" data-instance-id="27345" data-id="99360">
-            <div class="scrolling-text-module__inner" style="max-height: 6.0em" tabindex="0">
-
-              <a href="art.yale.edu/homepage/edit/">
-                <font size="3">Add your project, work, thoughts, etc. here! &gt;&gt;</font>
-              </a>
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Lindsey Mancini</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-27344"></a>
-
-
-
-
-          <div id="mmi-27344" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/27344"
-            data-event-label="Scrolling Text Module 27344 (20/26)" data-instance-id="27344" data-id="99361">
-            <div class="scrolling-text-module__inner" style="max-height: 6.0em" tabindex="0">
-
-              <a href="art.yale.edu/homepage/edit/">
-                <font size="3">Change the homepage background &gt;&gt;</font>
-              </a>
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Lindsey Mancini</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-26018"></a>
-
-
-
-
-          <div id="mmi-26018" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/26018"
-            data-event-label="Scrolling Text Module 26018 (21/26)" data-instance-id="26018" data-id="99362">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <p><em>A message from Communications:</em></p>
-
-              <p>All members of the SoA community are invited to edit the majority of the wiki however they like, but we
-                ask that any non-curricular projects or initiatives that you would like to share be added to
-                <strong>this section of the homepage</strong>. </p>
-
-              <p>Students are also invited to reach out to Assistant Director of Communications <a
-                  href="mailto:lindsey.mancini@yale.edu">Lindsey Mancini</a> if they would like additional support from
-                the School in bringing attention to their work and endeavors.</p>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Lindsey Mancini</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-26726"></a>
-
-
-
-
-          <div id="mmi-26726" class="divider-module colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/divider_module/26726" data-event-label="Divider Module 26726 (22/26)"
-            data-instance-id="26726" data-id="56924">
-            <hr style="color: #5da5008a;">
-
-          </div>
-
-
-          <a name="calendars-newsletters"></a>
-
-
-
-
-          <div id="mmi-26734"
-            class="title-module colspan-4 rag title-module--prominence-2 colspan-4 rag measurable magic-module"
-            data-event-category="magic_module/title_module/26734"
-            data-event-label="Title Module Calendars &amp; Newsletters (23/26)" data-instance-id="26734"
-            data-id="34053">
-            <h2 class="title-module__title page-title--prominence-2" aria-label="Calendars &amp; Newsletters
-">
-              <span style="background-image: none; color: white"role="presentation" aria-hidden="true">Calendars</span>
-              <span style="background-image: none; color: white"role="presentation" aria-hidden="true">&amp;</span>
-              <span style="background-image: none; color: white"role="presentation" aria-hidden="true">Newsletters</span>
-            </h2>
-
-
-          </div>
-
-
-          <a name="mmi-26630"></a>
-
-
-
-
-          <div id="mmi-26630" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class=" colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/scrolling_text_module/26630"
-            data-event-label="Scrolling Text Module 26630 (24/26)" data-instance-id="26630" data-id="99073">
-            <div class="scrolling-text-module__inner" style="max-height: 240.0em" tabindex="0">
-
-              <p><strong>NEW CALENDARS BEGINNING SUMMER 2020</strong></p>
-
-              <blockquote>
-                <p>
-                  <font size="4pt"><a href="https://www.art.yale.edu/public-events">Public Calendar &gt;&gt;</a></font>
-                </p>
-
-                <p><em>Containing those events open to the public.</em></p>
-
-                <p>
-                  <font size="4pt"><a href="https://www.art.yale.edu/soa-in-the-world">School of Art in the World
-                      &gt;&gt;</a></font>
-                </p>
-
-                <p><em>Containing events and exhibitions hosted by, led by, or featuring members of the School of Art
-                    community.</em></p>
-
-                <p>
-                  <font size="4pt"><a href="https://www.art.yale.edu/calendar">Community Calendar &gt;&gt;</a></font>
-                </p>
-
-                <p><em>Containing those events</em> <strong><em>open only</em></strong> <em>to the SoA community.</em>
-                </p>
-              </blockquote>
-
-            </div>
-
-            <div class='editor-details editor-details--offset-inside-margin'>
-              <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-              <details>
-                <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-                  <span><strong>Editor details</strong></span>
-                </summary>
-                <div class="editor-details__content" tabindex="0">
-                  <p>Last edited by: Kris Mandelbaum</p>
-                  <p>Edit access: Everybody</p>
-                </div>
-              </details>
-            </div>
-
-
-          </div>
-
-
-          <a name="mmi-26738"></a>
-
-
-
-
-          <div id="mmi-26738" style="background-color: #171717; border: 1px solid #5da5008a; border-radius: 16px; color: white; padding: 2rem"class="colspan-2 rag measurable magic-module"
-            data-event-category="magic_module/announcement_module/26738"
-            data-event-label="Announcement Module 26738 (25/26)" data-instance-id="26738" data-id="55434">
-            <div class="announcement-module__inner">
-              <div>
-                <p><strong><a href="http://eepurl.com/c4lFMn">Get news from the Yale School of Art in your inbox: Sign
-                      up for our newsletters &gt;&gt;</a></strong></p>
-
-                <p>
-                  <html>
-                  <p style="font-size:10pt;">We publish two newsletters during the academic year:</p>
-                </p>
-
-                <p style="font-size:10pt;"><strong>News From New Haven</strong> — A public monthly newsletter about news
-                  and events happening on campus.</p>
-
-                <p>
-                <p style="font-size:10pt;"><strong>Week at SoA</strong> — A weekly community-only email listing SoA
-                  events as well as public and university events in New Haven.
-                </p>
-
-</html>
-</p>
-</div>
-
-<div class='editor-details editor-details--offset-inside-margin'>
-  <span class="editor-details__announcement visually-hidden" aria-live="polite"></span>
-  <details>
-    <summary class="editor-details__thumbnail" style="background-color: green; color: white" aria-expanded="false" role="button">
-      <span><strong>Editor details</strong></span>
-    </summary>
-    <div class="editor-details__content" tabindex="0">
-      <p>Last edited by: Kris Mandelbaum</p>
-      <p>Edit access: Everybody</p>
-    </div>
-  </details>
-</div>
-</div>
-
-</div>
-
-
-<a name="mmi-3629"></a>
-
-
-
-
-<div id="mmi-3629" class="background-module colspan-4 measurable magic-module"
-  data-event-category="magic_module/background_module/3629" data-event-label="Background Module 3629 (26/26)"
-  data-instance-id="3629" data-id="30689">
-</div>
-
-
-
-</main>
-</div>
-
-<footer class="yale-footer" aria-label="primary footer">
-  <div class="yale-footer__inner" style="display: flex; flex-direction: row; gap: 1rem">
-    <p><span>© 2025</span></p>
-    <ul style="display: flex; flex-direction: row; gap: 1rem">
-      <li><a href="/about/support-the-school">Support the School</a></li>
-      <li><a href="/about/visiting">Visiting</a></li>
-      <li><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></li>
-      <li><a href="https://www.facebook.com/YaleSchoolofArt/">Facebook</a> </li>
-      <li><a href="http://yaleart.org/youtube">YouTube</a></li>
-      <li><a href="/about/contact">Contact</a></li>
-      <li><a href="/sitemap">Sitemap</a></li>
-      <li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy">Accessibility at
-          Yale</a></li>
-    </ul>
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K4B2R5GMC0"></script>
-
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-
-      gtag('config', 'G-K4B2R5GMC0');
-    </script>
-
-  </div>
-</footer>
-</div>
-<div id="mobile-footer" class="mobile-footer">
-  <section class="wiki-disclaimer" aria-label="Wiki explainer">
-    <div class="wiki-disclaimer__inner">
-      <p>This website exists as an ongoing collaborative experiment in digital publishing and information sharing.
-        Because this website functions as a wiki, all members of the School of Art community—graduate students, faculty,
-        staff, and alums—have the ability to add new content and pages, and to edit most of the site’s existing content.
+</header>
+
+<!-- Hero -->
+<section style="background:linear-gradient(145deg,#ffffff 0%,#f0f2eb 100%);padding:60px 24px;border-bottom:1px solid #e3e3dc;">
+  <div style="max-width:1250px;margin:0 auto;display:flex;flex-wrap:wrap;gap:50px;align-items:center;">
+    <div style="flex:1 1 430px;min-width:300px;">
+      <h1 style="margin:0 0 18px;font-size:48px;line-height:1.05;color:#0d2b14;font-weight:700;">Yale School of Art</h1>
+      <p style="margin:0 0 20px;font-size:18px;color:#333;max-width:560px;">
+        The School of Art is one of Yale’s Graduate &amp; Professional Schools conferring MFA degrees in Graphic Design,
+        Painting/Printmaking, Photography, and Sculpture; and offers undergraduate-level art courses to Yale College students.
+        This site functions as an ongoing collaborative experiment in digital publishing and information sharing—a wiki where community members can add and edit content.
       </p>
-
-      <p>Content is the property of its various authors. When you contribute to this site, you agree to abide by Yale
-        University academic and network use policy, and to act as a responsible member of our community.</p>
-
-    </div>
-  </section>
-  <section class="" style="background-color: #171717;" aria-label="content management footer">
-    <div class="economy-footer__inner">
-      <div class="economy-footer__economy-links">
-        <div class="economy-footer__button-container">
-          <a href="/login">
-            <div style="background-color: #5da5008a; color: white">Visitor: Log in</div>
-          </a>
-        </div>
-
-        <div class="economy-footer__button-container">
-          <a href="/home/edit">
-            <div style="background-color: #5da5008a; color: white">Edit this page</div>
-          </a>
-        </div>
-
-        <div class="">
-          <a href="/pages/2?page_id=218059">
-            <div style="background-color: #5da5008a; color: white">Page history</div>
-          </a>
-        </div>
-
-
-      </div>
-      <div class="economy-footer__metadata">
-        <p>Page last changed by: <span>Lindsey Mancini</span></p>
-
-        <p>Background changed by: Kris Mandelbaum
+      <div style="display:flex;gap:14px;flex-wrap:wrap;">
+        <a href="/apply" style="background:#2e7d32;color:#fff;text-decoration:none;padding:14px 26px;font-weight:600;border-radius:8px;font-size:15px;box-shadow:0 4px 10px -4px rgba(46,125,50,.5);">Apply Now</a>
+        <a href="/about" style="background:#ffffff;border:2px solid #2e7d32;color:#0d2b14;text-decoration:none;padding:12px 24px;font-weight:600;border-radius:8px;font-size:15px;">About the School</a>
       </div>
     </div>
-  </section>
+    <figure style="flex:1 1 420px;min-width:280px;margin:0;position:relative;">
+      <img src="https://cdn.filestackcontent.com/resize=width:525/ry3lC2aFTHqq2DNNgwxD"
+           alt="Commencement exercises 2024 - Yale School of Art" style="width:100%;border-radius:16px;display:block;box-shadow:0 8px 28px -8px rgba(0,0,0,.25);" />
+      <figcaption style="font-size:13px;color:#444;margin-top:10px;">
+        Yale School of Art’s 2024 commencement exercises. Photo: Adrian Martinez Chavez, Photography MFA ‘23.
+      </figcaption>
+    </figure>
+  </div>
+</section>
 
-</div>
-</div>
+<!-- Main Section Cards -->
+<section style="max-width:1250px;margin:0 auto;padding:50px 24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:32px;" id="main-content">
 
-<script>
+  <!-- Quick Links -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:10px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
+    <h2 style="margin:0 0 6px;font-size:20px;color:#0d2b14;">Quick Links</h2>
+    <ul style="list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:15px;">
+      <li><a href="/about/facilities" style="color:#2e7d32;text-decoration:none;font-weight:500;">Facilities &gt;</a></li>
+      <li><a href="/courses" style="color:#2e7d32;text-decoration:none;font-weight:500;">Courses &gt;</a></li>
+      <li><a href="/opportunities" style="color:#2e7d32;text-decoration:none;font-weight:600;">Opportunities &gt;</a></li>
+      <li style="margin-top:10px;font-size:13px;font-weight:600;color:#555;letter-spacing:.5px;">Newsletters &amp; Calendars</li>
+      <li><a href="https://www.art.yale.edu/calendar" style="color:#2e7d32;text-decoration:none;font-weight:500;">Community Calendar &gt;</a></li>
+      <li><a href="/about/resources/academic-calendar" style="color:#2e7d32;text-decoration:none;font-weight:500;">Academic Calendar &gt;</a></li>
+      <li><a href="https://www.art.yale.edu/public-events" style="color:#2e7d32;text-decoration:none;font-weight:500;">Public Events Calendar &gt;</a></li>
+    </ul>
+    <div style="margin-top:12px;font-size:11px;color:#777;">Last edited: Lindsey Mancini</div>
+  </div>
 
-  ga('set', 'dimension18', '/home/pages/218059');
-</script>
+  <!-- About this Wiki -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:14px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
+    <h2 style="margin:0;font-size:20px;color:#0d2b14;">About this Wiki</h2>
+    <p style="margin:0;font-size:14px;color:#333;">This site is an ongoing collaborative experiment. Students, faculty, staff, and alums can add and edit content. By contributing you agree to act responsibly.</p>
+    <p style="margin:0;font-size:14px;color:#333;">Content is the property of its various authors. Please respect Yale University academic and network use policies.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:6px;">
+      <a href="/login" style="flex:1 1 140px;min-width:140px;background:#2e7d32;color:#fff;text-align:center;text-decoration:none;padding:10px 14px;border-radius:8px;font-weight:600;font-size:14px;">Visitor: Log in</a>
+      <a href="/home/edit" style="flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">Edit this page</a>
+      <a href="/pages/2?page_id=218059" style="flex:1 1 140px;min-width:140px;background:#ffffff;color:#0d2b14;border:2px solid #2e7d32;text-align:center;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:14px;">Page history</a>
+    </div>
+    <div style="margin-top:10px;font-size:11px;color:#777;">Background changed by: Kris Mandelbaum</div>
+  </div>
+
+  <!-- Featured -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
+    <h2 style="margin:0;font-size:20px;color:#0d2b14;">Featured</h2>
+    <div style="font-size:15px;color:#222;">
+      <p style="margin:0 0 10px;font-size:17px;font-weight:600;">Congratulations to the MFA Class of 2025! 🎓🥂</p>
+      <p style="margin:0 0 14px;">Monday, May 19 – Commencement address by theorist and artist Eva Hayward.</p>
+      <p style="margin:0;"><a href="https://www.art.yale.edu/classof2025" style="color:#2e7d32;font-weight:600;text-decoration:none;">Learn more &gt;&gt;</a></p>
+    </div>
+    <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
+  </div>
+
+  <!-- Happening at SoA -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
+    <h2 style="margin:0;font-size:20px;color:#0d2b14;">Happening at SoA</h2>
+    <div style="font-size:15px;">
+      <p style="margin:0 0 12px;"><a href="https://www.art.yale.edu/news/visiting-artist-lectures/spring-2025" style="color:#2e7d32;text-decoration:none;font-weight:600;">Spring 2025 Visiting Artist lecture schedule &gt;</a></p>
+      <p style="margin:0 0 12px;"><a href="https://www.art.yale.edu/news/visiting-artist-lectures/fall-2024" style="color:#2e7d32;text-decoration:none;font-weight:600;">Fall 2024 archive &gt;</a></p>
+      <p style="margin:0 0 4px;"><a href="https://www.art.yale.edu/exhibitions" style="color:#2e7d32;text-decoration:none;font-weight:600;">Spring 2025 exhibitions + schedule &gt;</a></p>
+    </div>
+    <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
+  </div>
+
+  <!-- Calendar -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:16px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);grid-column:1 / -1;">
+    <h2 style="margin:0;font-size:22px;color:#0d2b14;">On the Calendar</h2>
+    <div style="min-height:160px;padding:12px;border:1px dashed #cfcfca;border-radius:12px;">
+      <div class="eca-app-container" data-widgetuuid="483836a2-b66a-4867-971b-9622aa521bd3" style="font-size:14px;">Calendar loading...</div>
+      <script>(function(){var s=document.createElement("script");s.async=1;s.src="https://api.eventcalendarapp.com/integration-script.js";document.head.appendChild(s);})();</script>
+    </div>
+    <div style="font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
+  </div>
+
+  <!-- Community Bulletin Board -->
+  <div style="background:#ffffff;border:2px solid #2e7d32;border-radius:22px;padding:26px;display:flex;flex-direction:column;gap:18px;box-shadow:0 4px 16px -6px rgba(0,0,0,.12);grid-column:1 / -1;">
+    <h2 style="margin:0;font-size:26px;color:#0d2b14;display:flex;align-items:center;gap:10px;">Community Bulletin Board</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;">
+      <!-- Card 1 -->
+      <div style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
+        <h3 style="margin:0;font-size:17px;color:#0d2b14;">Yale Center for Environmental Justice</h3>
+        <p style="margin:0;font-size:14px;">Planning the fourth annual Global Environmental Justice Conference focused on “Environmental Joy,” exploring how climate justice work generates joy.</p>
+        <p style="margin:0;font-size:13px;">Contact: <a href="mailto:ulia.simon@yale.edu" style="color:#2e7d32;text-decoration:none;">ulia.simon@yale.edu</a></p>
+        <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
+      </div>
+      <!-- Card 2 -->
+      <div style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
+        <h3 style="margin:0;font-size:17px;color:#0d2b14;">Arts Apprenticeship / Internships</h3>
+        <p style="margin:0;font-size:14px;">Connects Yale undergraduates (especially those on financial aid) with practicing artists for mentored summer experience (30 hrs/week, 8 weeks).</p>
+        <p style="margin:0;font-size:13px;">Info: <a href="https://ocs.yale.edu/channels/arts-apprenticeship/" style="color:#2e7d32;text-decoration:none;">Program &gt;</a></p>
+        <p style="margin:0;font-size:13px;">Post a position: <a href="https://ocs.yale.edu/staff-list/#derek-i-webster" style="color:#2e7d32;text-decoration:none;">Contact &gt;</a></p>
+        <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
+      </div>
+      <!-- Card 3 -->
+      <div style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
+        <h3 style="margin:0;font-size:17px;color:#0d2b14;">Mapping Public Art</h3>
+        <p style="margin:0;font-size:14px;">ArtAround project mapping public art in New Haven.</p>
+        <p style="margin:0;font-size:13px;">
+          <a href="https://map.artaround.org/?city=New%20Haven" style="color:#2e7d32;text-decoration:none;">Map &gt;</a> ·
+          <a href="https://artaround.org/" style="color:#2e7d32;text-decoration:none;">ArtAround &gt;</a>
+        </p>
+        <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
+      </div>
+      <!-- Card 4 -->
+      <div style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
+        <h3 style="margin:0;font-size:17px;color:#0d2b14;">Add Your Project</h3>
+        <p style="margin:0;font-size:14px;">Share projects, work, and ideas in the community section.</p>
+        <a href="art.yale.edu/homepage/edit/" style="color:#2e7d32;text-decoration:none;font-weight:600;font-size:14px;">Add &gt;&gt;</a>
+        <a href="art.yale.edu/homepage/edit/" style="color:#2e7d32;text-decoration:none;font-size:14px;">Change background &gt;&gt;</a>
+        <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
+      </div>
+      <!-- Card 5 -->
+      <div style="border:1px solid #e2e2dd;border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px;background:#ffffff;">
+        <h3 style="margin:0;font-size:17px;color:#0d2b14;">Message from Communications</h3>
+        <p style="margin:0;font-size:14px;">Non-curricular projects should be added to the community section. For additional support, contact <a href="mailto:lindsey.mancini@yale.edu" style="color:#2e7d32;text-decoration:none;">Lindsey Mancini</a>.</p>
+        <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Lindsey Mancini</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Calendars & Newsletters -->
+  <div style="background:#ffffff;border:1px solid #e2e2dd;border-radius:18px;padding:24px;display:flex;flex-direction:column;gap:14px;box-shadow:0 2px 8px -2px rgba(0,0,0,.08);">
+    <h2 style="margin:0;font-size:22px;color:#0d2b14;">Calendars &amp; Newsletters</h2>
+    <div style="font-size:14px;">
+      <p style="margin:0 0 10px;font-weight:600;">New calendars (since Summer 2020):</p>
+      <ul style="margin:0 0 14px;padding-left:18px;">
+        <li style="margin-bottom:6px;"><a href="https://www.art.yale.edu/public-events" style="color:#2e7d32;text-decoration:none;">Public Calendar &gt;&gt;</a></li>
+        <li style="margin-bottom:6px;"><a href="https://www.art.yale.edu/soa-in-the-world" style="color:#2e7d32;text-decoration:none;">School of Art in the World &gt;&gt;</a></li>
+        <li><a href="https://www.art.yale.edu/calendar" style="color:#2e7d32;text-decoration:none;">Community Calendar &gt;&gt;</a></li>
+      </ul>
+      <p style="margin:0 0 14px;"><a href="http://eepurl.com/c4lFMn" style="color:#2e7d32;text-decoration:none;font-weight:600;">Sign up for newsletters &gt;&gt;</a></p>
+      <p style="margin:0;font-size:13px;">Public monthly: <strong>News From New Haven</strong><br />Weekly internal: <strong>Week at SoA</strong></p>
+    </div>
+    <div style="margin-top:auto;font-size:11px;color:#777;">Last edited by: Kris Mandelbaum</div>
+  </div>
+
+</section>
+
+<!-- Final CTA -->
+<section style="background:#ffffff;border-top:1px solid #e2e2dd;padding:60px 24px;">
+  <div style="max-width:1100px;margin:0 auto;display:flex;flex-wrap:wrap;gap:40px;align-items:center;">
+    <div style="flex:1 1 420px;min-width:260px;">
+      <h2 style="margin:0 0 14px;font-size:30px;color:#0d2b14;">Join the Community</h2>
+      <p style="margin:0 0 18px;font-size:16px;color:#333;">Edit pages, share projects, and collaborate. Participation strengthens the school’s creative ecosystem.</p>
+      <div style="display:flex;gap:14px;flex-wrap:wrap;">
+        <a href="/login" style="background:#2e7d32;color:#fff;text-decoration:none;padding:14px 26px;font-weight:600;border-radius:8px;font-size:15px;box-shadow:0 4px 12px -4px rgba(46,125,50,.45);">Log In</a>
+        <a href="/home/edit" style="background:#ffffff;border:2px solid #2e7d32;color:#0d2b14;text-decoration:none;padding:12px 22px;font-weight:600;border-radius:8px;font-size:15px;">Contribute</a>
+      </div>
+    </div>
+    <div style="flex:1 1 380px;min-width:260px;background:linear-gradient(140deg,#e8f2e8,#ffffff);border:1px solid #d9e6d9;padding:26px 28px;border-radius:16px;box-shadow:0 8px 26px -10px rgba(0,0,0,.15);">
+      <h3 style="margin:0 0 10px;font-size:18px;color:#0d2b14;">Transparency &amp; Trust</h3>
+      <p style="margin:0;font-size:14px;color:#333;">Edit history shows who changed content, reinforcing accountability and collaborative integrity.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer style="background:#0d2b14;color:#ffffff;padding:38px 24px 60px;position:relative;">
+  <div style="max-width:1250px;margin:0 auto;display:flex;flex-wrap:wrap;gap:40px;">
+    <div style="flex:1 1 260px;min-width:220px;">
+      <h4 style="margin:0 0 10px;font-size:16px;letter-spacing:.5px;">Yale School of Art</h4>
+      <p style="margin:0 0 8px;font-size:13px;opacity:.85;">© 2025</p>
+      <p style="margin:0;font-size:12px;opacity:.7;">Multi-author content. Use responsibly.</p>
+    </div>
+    <nav aria-label="Footer" style="flex:2 1 480px;min-width:260px;">
+      <ul style="list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;font-size:13px;">
+        <li><a href="/about/support-the-school" style="color:#cfe9d2;text-decoration:none;">Support the School</a></li>
+        <li><a href="/about/visiting" style="color:#cfe9d2;text-decoration:none;">Visiting</a></li>
+        <li><a href="https://www.instagram.com/yaleschoolofart/" style="color:#cfe9d2;text-decoration:none;">Instagram</a></li>
+        <li><a href="https://www.facebook.com/YaleSchoolofArt/" style="color:#cfe9d2;text-decoration:none;">Facebook</a></li>
+        <li><a href="http://yaleart.org/youtube" style="color:#cfe9d2;text-decoration:none;">YouTube</a></li>
+        <li><a href="/about/contact" style="color:#cfe9d2;text-decoration:none;">Contact</a></li>
+        <li><a href="/sitemap" style="color:#cfe9d2;text-decoration:none;">Sitemap</a></li>
+        <li><a href="https://your.yale.edu/policies-procedures/policies/1605-web-accessibility-policy" style="color:#cfe9d2;text-decoration:none;">Accessibility</a></li>
+      </ul>
+    </nav>
+    <div style="flex:1 1 260px;min-width:220px;">
+      <h4 style="margin:0 0 10px;font-size:15px;letter-spacing:.5px;">Quick Changelog</h4>
+      <ul style="margin:0;padding:0;list-style:none;font-size:12px;line-height:1.5;opacity:.85;">
+        <li>Homepage edits: Lindsey Mancini</li>
+        <li>Background: Kris Mandelbaum</li>
+      </ul>
+    </div>
+  </div>
+  <div style="position:absolute;left:0;bottom:0;height:6px;width:100%;background:linear-gradient(90deg,#2e7d32,#66a86a,#2e7d32);"></div>
+</footer>
 
 </body>
-
 </html>
